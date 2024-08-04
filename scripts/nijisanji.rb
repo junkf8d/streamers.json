@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 require 'nokogiri'
 require 'json'
 require_relative 'common'
@@ -42,9 +44,9 @@ def main
     detail = get_liver_detail(build_id, id)
 
     name = detail['name']
-    youtube, twitter = detail['socialLinks'].values_at('youtube', 'twitter')
+    links = detail['socialLinks'].except('fieldId')
 
-    { name: name, youtube: youtube, twitter: twitter }
+    { name: name, links: links }
   end
 
   file_path = File.join(RESULT_DIR, 'nijisanji.json')
@@ -52,7 +54,7 @@ def main
     file.write(JSON.pretty_generate(result))
   end
 
-  puts " * [#{Time.now}] retrieving nijisanji data completed! [#{build_id}]"
+  puts " * [#{Time.now}] retrieving nijisanji data completed!"
 end
 
 main
