@@ -7,9 +7,11 @@ require_relative '../common'
 GROUP_NAME = 'RIDDLE'
 GROUP_SLUG = 'riddle'
 
+UPDATE_LIST = ARGV[0] == 'update_list'
+
 def get_streamer_list
   url = 'https://riddle.info/members/'
-  html = retrieve_and_cache(url, extension: '.html')
+  html = retrieve_and_cache(url, extension: '.html', cache: !UPDATE_LIST)
   doc = Nokogiri::HTML.parse(html)
   doc.css('.p-members__list a').map { |a| a['href'] }
 end

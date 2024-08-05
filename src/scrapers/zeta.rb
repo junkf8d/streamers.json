@@ -7,9 +7,11 @@ require_relative '../common'
 GROUP_NAME = 'ZETA DIVISION'
 GROUP_SLUG = 'zeta'
 
+UPDATE_LIST = ARGV[0] == 'update_list'
+
 def get_streamer_list
   url = 'https://zetadivision.com/members'
-  html = retrieve_and_cache(url, extension: '.html')
+  html = retrieve_and_cache(url, extension: '.html', cache: UPDATE_LIST)
   doc = Nokogiri::HTML.parse(html)
   doc.css('a.memberCard').map { |a| a['href'] }
 end

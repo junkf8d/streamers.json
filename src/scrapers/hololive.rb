@@ -7,9 +7,11 @@ require_relative '../common'
 GROUP_NAME = 'ホロライブ'
 GROUP_SLUG = 'hololive'
 
+UPDATE_LIST = ARGV[0] == 'update_list'
+
 def get_streamer_list
   url = 'https://hololive.hololivepro.com/talents/'
-  html = retrieve_and_cache(url, extension: '.html')
+  html = retrieve_and_cache(url, extension: '.html', cache: !UPDATE_LIST)
   doc = Nokogiri::HTML.parse(html)
   doc.css('.talent_list > li').map { |li| li.at_css('a')['href'] }
 end

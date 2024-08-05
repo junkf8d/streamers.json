@@ -7,6 +7,8 @@ require_relative '../common'
 GROUP_NAME = 'にじさんじ'
 GROUP_SLUG = 'nijisanji'
 
+UPDATE_LIST = ARGV[0] == 'update_list'
+
 def fetch_build_id
   url = 'https://www.nijisanji.jp/talents'
   html = retrieve_and_cache(url)
@@ -18,7 +20,7 @@ end
 
 def get_streamer_list(build_id)
   url = "https://www.nijisanji.jp/_next/data/#{build_id}/ja/talents.json"
-  json = retrieve_and_cache(url)
+  json = retrieve_and_cache(url, cache: !UPDATE_LIST)
   hash = JSON[json]
   hash['pageProps']['allLivers']
 end

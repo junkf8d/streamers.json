@@ -12,13 +12,11 @@ RESULT_DIR = File.expand_path('../results', __dir__)
 # ファイルパスの指定をかなり適当にやってるのでエラーになる場合はこのメソッド使わないこと
 # urlからそのままファイルパスを作るのでhttps://foo.com/bar/をダウンロードしたいときは保存したい拡張子を指定すること (そのままだとbarフォルダと被るため)
 def retrieve_and_cache(url, extension: '', cache: true)
-  return File.read(path) unless cache
-
   uri = URI.parse(url)
   uri_path = "#{uri.host}#{uri.path}".gsub(/[\\:*?"<>|]/, '_').sub(%r{/$}, '')
 
   path = File.join(CACHE_DIR, uri_path + extension)
-  return File.read(path) if File.exist?(path)
+  return File.read(path) if File.exist?(path) && cache
 
   FileUtils.mkdir_p(File.dirname(path))
 

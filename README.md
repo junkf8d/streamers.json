@@ -13,8 +13,9 @@
         - 一度取得したら次からはキャッシュを使用し取得しない
             - キャッシュを使いたくない場合は`cache`フォルダかその中の特定ファイルを削除する
         - 各サイトの`robots.txt`は特に問題ないこと確認済み
-    - usage: `rake -T`
-        - `rake build`ですべて実行し `streamers.json`を生成する
+    - usage:
+        - `rake build`で全てスクレイピングを実行し`streamers.json`を生成する
+            - `rake build[update_list]`とした場合、リストの取得のみキャッシュを利用しない。新人が入ったときに使う
         - 一つずつ実行したい場合は `ruby src/scraper/foo.rb`を直接実行
 
 # 取得する情報

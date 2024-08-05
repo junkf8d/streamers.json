@@ -7,10 +7,12 @@ require_relative '../common'
 GROUP_NAME = 'ぶいすぽ'
 GROUP_SLUG = 'vspo'
 
+UPDATE_LIST = ARGV[0] == 'update_list'
+
 def main
   puts " * [#{Time.now}] [#{GROUP_NAME}] Starting to retrieve data..."
   url = 'https://vspo.jp/member/'
-  html = retrieve_and_cache(url)
+  html = retrieve_and_cache(url, extension: '.html', cache: !UPDATE_LIST)
   doc = Nokogiri::HTML.parse(html)
 
   streamer_list = doc.css('.member__profile')

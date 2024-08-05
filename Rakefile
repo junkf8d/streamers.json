@@ -5,11 +5,14 @@ require 'json'
 COMBINED_FILE_NAME = 'streamers.json'
 
 desc '全てのスクレイピングを行う。'
-task :scrape do
+task :scrape, [:update_list] do |_t, args|
+  args.with_defaults(update_list: '')
+  update_list = args[:update_list]
+
   puts ' * Scraping started ...'
 
   threads = Dir.glob('src/scrapers/*.rb').map do |s|
-    Thread.new { ruby s }
+    Thread.new { ruby s, update_list }
   end
 
   threads.each(&:join)
@@ -31,9 +34,12 @@ task :combine do
 end
 
 desc '全てを実行する'
-task 'build' do
-  %i[scrape combine].each do |task|
-    Rake::Task[task].invoke
+task :build, [:update_list] do |_t, args|
+  args.with_defaults(update_list: '')
+  update_list = args[:update_list]
+
+  %i[scrape combine].each do |task_name|
+    Rake::Task[task_name].invoke(update_list)
     puts
   end
 end
