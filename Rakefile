@@ -2,11 +2,11 @@
 
 require 'json'
 
-COMBINED_FILE_NAME = 'liver.json'
+COMBINED_FILE_NAME = 'streamers.json'
 
 desc '全てのスクレイピングを行う。'
 task :scrape do
-  Dir.glob('scripts/scrapers/*.rb') do |s|
+  Dir.glob('src/scrapers/*.rb') do |s|
     ruby s
   end
 end
