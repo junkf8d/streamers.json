@@ -23,7 +23,7 @@ def get_liver_detail(url)
 
   group = doc.at_xpath('//a[contains(@href, "group_category")]').text
 
-  { name: name, links: create_link_map(urls), tags: [GROUP_NAME, group].uniq }
+  { name: name, links: create_link_map(urls), tags: [GROUP_NAME, group].uniq, page: url }
 end
 
 def main

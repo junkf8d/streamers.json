@@ -27,7 +27,7 @@ def get_liver_detail(url)
 
   unit = doc.at_xpath('//dt[contains(text(), "ユニット")]/following-sibling::dd').text
 
-  { name: name, allLinks: allLinks, links: links, tags: [GROUP_NAME, unit].uniq }
+  { name: name, allLinks: allLinks, links: links, tags: [GROUP_NAME, unit].uniq, page: url }
 end
 
 def main

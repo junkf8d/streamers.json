@@ -24,8 +24,10 @@ def get_liver_list(build_id)
 end
 
 def get_liver_detail(build_id, liver_id)
-  url = "https://www.nijisanji.jp/_next/data/#{build_id}/ja/talents/l/#{liver_id}.json"
-  json = retrieve_and_cache(url)
+  url = "https://www.nijisanji.jp/talents/l/#{liver_id}"
+
+  json_url = "https://www.nijisanji.jp/_next/data/#{build_id}/ja/talents/l/#{liver_id}.json"
+  json = retrieve_and_cache(json_url)
   hash = JSON[json]
   detail = hash['pageProps']['liverDetail']
 
@@ -35,7 +37,7 @@ def get_liver_detail(build_id, liver_id)
 
   affiliation = detail['profile']['affiliation']
 
-  { name: name, allLinks: allLinks, links: links, tags: [GROUP_NAME, *affiliation].uniq }
+  { name: name, allLinks: allLinks, links: links, tags: [GROUP_NAME, *affiliation].uniq, page: url }
 end
 
 def main

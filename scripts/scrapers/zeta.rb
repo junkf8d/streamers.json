@@ -24,7 +24,7 @@ def get_liver_detail(url)
   attribute = doc.at_css('.profile__attribute').text.strip
   belong = doc.css('.teamNav__link--belong').map { |a| a.text.strip }
 
-  { name: name, links: create_link_map(urls), tags: [GROUP_NAME, attribute, *belong].uniq }
+  { name: name, links: create_link_map(urls), tags: [GROUP_NAME, attribute, *belong].uniq, page: url }
 end
 
 def main

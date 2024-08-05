@@ -21,7 +21,7 @@ def main
     puts format("   * [#{Time.now}] %03d/%03d (%.2f%%) parsing: %s", i, len, i.to_f / len, name)
 
     urls = liver.css('.member__sns__item a').map { |a| a['href'] }
-    { name: name, links: create_link_map(urls), tags: [GROUP_NAME] }
+    { name: name, links: create_link_map(urls), tags: [GROUP_NAME], page: url }
   end
 
   file_path = File.join(RESULT_DIR, "#{GROUP_SLUG}.json")
