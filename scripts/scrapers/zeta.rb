@@ -21,7 +21,10 @@ def get_liver_detail(url)
   name = doc.at_css('.profile__name').text.strip
   urls = doc.css('a.profile__snsLink').map { |a| a[:href] }
 
-  { name: name, links: create_link_map(urls), tags: [GROUP_NAME] }
+  attribute = doc.at_css('.profile__attribute').text.strip
+  belong = doc.css('.teamNav__link--belong').map { |a| a.text.strip }
+
+  { name: name, links: create_link_map(urls), tags: [GROUP_NAME, attribute, *belong].uniq }
 end
 
 def main

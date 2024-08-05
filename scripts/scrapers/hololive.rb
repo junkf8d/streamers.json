@@ -25,7 +25,9 @@ def get_liver_detail(url)
   end.to_h
   links = create_link_map(allLinks.slice(*%w[YouTube X Twitter Twitch TikTok Instagram]).values)
 
-  { name: name, allLinks: allLinks, links: links, tags: [GROUP_NAME] }
+  unit = doc.at_xpath('//dt[contains(text(), "ユニット")]/following-sibling::dd').text
+
+  { name: name, allLinks: allLinks, links: links, tags: [GROUP_NAME, unit].uniq }
 end
 
 def main

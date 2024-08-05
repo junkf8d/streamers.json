@@ -21,7 +21,9 @@ def get_liver_detail(url)
   name = doc.at_css('h1').text.strip
   urls = doc.css('.p-members__profile-sns a').map { |a| a[:href] }
 
-  { name: name, links: create_link_map(urls), tags: [GROUP_NAME] }
+  group = doc.at_xpath('//a[contains(@href, "group_category")]').text
+
+  { name: name, links: create_link_map(urls), tags: [GROUP_NAME, group].uniq }
 end
 
 def main

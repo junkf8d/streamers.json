@@ -33,7 +33,9 @@ def get_liver_detail(build_id, liver_id)
   allLinks = detail['socialLinks'].except('fieldId')
   links = create_link_map(allLinks.values).slice(*%w[twitter youtube bilibili twitch])
 
-  { name: name, allLinks: allLinks, links: links, tags: [GROUP_NAME] }
+  affiliation = detail['profile']['affiliation']
+
+  { name: name, allLinks: allLinks, links: links, tags: [GROUP_NAME, *affiliation].uniq }
 end
 
 def main
