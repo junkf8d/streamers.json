@@ -2,26 +2,30 @@
 
 require 'nokogiri'
 require 'json'
-require_relative 'common'
+require_relative '../common'
 
-GROUP_NAME = 'RIDDLE'
-GROUP_SLUG = 'riddle'
+GROUP_NAME = 'ホロライブ'
+GROUP_SLUG = 'hololive'
 
 def get_liver_list
-  url = 'https://riddle.info/members/'
+  url = 'https://hololive.hololivepro.com/talents/'
   html = retrieve_and_cache(url, extension: '.html')
   doc = Nokogiri::HTML.parse(html)
-  doc.css('.p-members__list a').map { |a| a['href'] }
+  doc.css('.talent_list > li').map { |li| li.at_css('a')['href'] }
 end
 
 def get_liver_detail(url)
   html = retrieve_and_cache(url)
   doc = Nokogiri::HTML.parse(html)
 
-  name = doc.at_css('h1').text.strip
-  urls = doc.css('.p-members__profile-sns a').map { |a| a[:href] }
+  card = doc.at_css('.bg_box')
+  name = card.at_css('h1').children.first.text.strip
+  allLinks = card.css('.t_sns a').map do |link|
+    [link.text.strip.sub(/Tik Tok/, 'TikTok'), link['href']]
+  end.to_h
+  links = create_link_map(allLinks.slice(*%w[YouTube X Twitter Twitch TikTok Instagram]).values)
 
-  { name: name, links: create_link_map(urls), tags: [GROUP_NAME] }
+  { name: name, allLinks: allLinks, links: links, tags: [GROUP_NAME] }
 end
 
 def main

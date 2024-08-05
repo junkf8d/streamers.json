@@ -2,7 +2,7 @@
 
 require 'nokogiri'
 require 'json'
-require_relative 'common'
+require_relative '../common'
 
 GROUP_NAME = 'にじさんじ'
 GROUP_SLUG = 'nijisanji'
