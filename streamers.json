@@ -1505,6 +1505,17 @@
     "page": "https://www.nijisanji.jp/talents/l/fulgur-ovid"
   },
   {
+    "name": "奈羅花",
+    "links": {
+      "twitter": "https://twitter.com/Naraka_2434",
+      "youtube": "https://www.youtube.com/channel/UC-o-E6I3IC2q8sAoAuM6Umg"
+    },
+    "tags": [
+      "にじさんじ"
+    ],
+    "page": "https://www.nijisanji.jp/talents/l/naraka"
+  },
+  {
     "name": "狂蘭 メロコ",
     "links": {
       "twitter": "https://twitter.com/MelocoKyoran",
@@ -1515,17 +1526,6 @@
       "NIJISANJI EN"
     ],
     "page": "https://www.nijisanji.jp/talents/l/meloco-kyoran"
-  },
-  {
-    "name": "奈羅花",
-    "links": {
-      "twitter": "https://twitter.com/Naraka_2434",
-      "youtube": "https://www.youtube.com/channel/UC-o-E6I3IC2q8sAoAuM6Umg"
-    },
-    "tags": [
-      "にじさんじ"
-    ],
-    "page": "https://www.nijisanji.jp/talents/l/naraka"
   },
   {
     "name": "ましろ爻",
@@ -1774,17 +1774,6 @@
     "page": "https://www.nijisanji.jp/talents/l/kakeru-yumeoi"
   },
   {
-    "name": "ドーラ",
-    "links": {
-      "twitter": "https://twitter.com/___dola",
-      "youtube": "https://www.youtube.com/channel/UC53UDnhAAYwvNO7j_2Ju1cQ"
-    },
-    "tags": [
-      "にじさんじ"
-    ],
-    "page": "https://www.nijisanji.jp/talents/l/dola"
-  },
-  {
     "name": "アスター アルカディア",
     "links": {
       "twitter": "https://twitter.com/AsterArcadia",
@@ -1795,6 +1784,17 @@
       "NIJISANJI EN"
     ],
     "page": "https://www.nijisanji.jp/talents/l/aster-arcadia"
+  },
+  {
+    "name": "ドーラ",
+    "links": {
+      "twitter": "https://twitter.com/___dola",
+      "youtube": "https://www.youtube.com/channel/UC53UDnhAAYwvNO7j_2Ju1cQ"
+    },
+    "tags": [
+      "にじさんじ"
+    ],
+    "page": "https://www.nijisanji.jp/talents/l/dola"
   },
   {
     "name": "虎姫 コトカ",
@@ -2087,17 +2087,6 @@
     "page": "https://www.nijisanji.jp/talents/l/natsume-kurusu"
   },
   {
-    "name": "小野町春香",
-    "links": {
-      "twitter": "https://twitter.com/onomachi_haruka",
-      "youtube": "https://www.youtube.com/channel/UCg63a3lk6PNeWhVvMRM_mrQ"
-    },
-    "tags": [
-      "にじさんじ"
-    ],
-    "page": "https://www.nijisanji.jp/talents/l/haruka-onomachi"
-  },
-  {
     "name": "海妹四葉",
     "links": {
       "twitter": "https://twitter.com/Yotsuha_Umise",
@@ -2107,6 +2096,17 @@
       "にじさんじ"
     ],
     "page": "https://www.nijisanji.jp/talents/l/yotsuha-umise"
+  },
+  {
+    "name": "小野町春香",
+    "links": {
+      "twitter": "https://twitter.com/onomachi_haruka",
+      "youtube": "https://www.youtube.com/channel/UCg63a3lk6PNeWhVvMRM_mrQ"
+    },
+    "tags": [
+      "にじさんじ"
+    ],
+    "page": "https://www.nijisanji.jp/talents/l/haruka-onomachi"
   },
   {
     "name": "家長むぎ",
@@ -2255,17 +2255,6 @@
     "page": "https://www.nijisanji.jp/talents/l/mahiro-yukishiro"
   },
   {
-    "name": "獅子堂あかり",
-    "links": {
-      "twitter": "https://twitter.com/44do_akari",
-      "youtube": "https://www.youtube.com/channel/UCWRPqA0ehhWV4Hnp27PJCkQ"
-    },
-    "tags": [
-      "にじさんじ"
-    ],
-    "page": "https://www.nijisanji.jp/talents/l/akari-shishido"
-  },
-  {
     "name": "赤羽葉子",
     "links": {
       "twitter": "https://twitter.com/youko_akabane",
@@ -2275,6 +2264,17 @@
       "にじさんじ"
     ],
     "page": "https://www.nijisanji.jp/talents/l/youko-akabane"
+  },
+  {
+    "name": "獅子堂あかり",
+    "links": {
+      "twitter": "https://twitter.com/44do_akari",
+      "youtube": "https://www.youtube.com/channel/UCWRPqA0ehhWV4Hnp27PJCkQ"
+    },
+    "tags": [
+      "にじさんじ"
+    ],
+    "page": "https://www.nijisanji.jp/talents/l/akari-shishido"
   },
   {
     "name": "佐伯イッテツ",
@@ -2423,6 +2423,17 @@
     "page": "https://www.nijisanji.jp/talents/l/air-harusaki"
   },
   {
+    "name": "鈴谷アキ",
+    "links": {
+      "twitter": "https://twitter.com/aki_suzuya",
+      "youtube": "https://www.youtube.com/channel/UCpnvhOIJ6BN-vPkYU9ls-Eg"
+    },
+    "tags": [
+      "にじさんじ"
+    ],
+    "page": "https://www.nijisanji.jp/talents/l/aki-suzuya"
+  },
+  {
     "name": "ユウ Q ウィルソン",
     "links": {
       "twitter": "https://twitter.com/YuQWilson",
@@ -2433,17 +2444,6 @@
       "NIJISANJI EN"
     ],
     "page": "https://www.nijisanji.jp/talents/l/yu-q-wilson"
-  },
-  {
-    "name": "鈴谷アキ",
-    "links": {
-      "twitter": "https://twitter.com/aki_suzuya",
-      "youtube": "https://www.youtube.com/channel/UCpnvhOIJ6BN-vPkYU9ls-Eg"
-    },
-    "tags": [
-      "にじさんじ"
-    ],
-    "page": "https://www.nijisanji.jp/talents/l/aki-suzuya"
   },
   {
     "name": "伊波ライ",
@@ -2479,17 +2479,6 @@
     "page": "https://www.nijisanji.jp/talents/l/kagetsu-murakumo"
   },
   {
-    "name": "鏑木ろこ",
-    "links": {
-      "twitter": "https://twitter.com/65_kaburaki",
-      "youtube": "https://www.youtube.com/channel/UClrQ7xhRBxS_v_-WuudGKmA"
-    },
-    "tags": [
-      "にじさんじ"
-    ],
-    "page": "https://www.nijisanji.jp/talents/l/roco-kaburaki"
-  },
-  {
     "name": "宇佐美リト",
     "links": {
       "twitter": "https://twitter.com/usamirito_power",
@@ -2499,6 +2488,17 @@
       "にじさんじ"
     ],
     "page": "https://www.nijisanji.jp/talents/l/rito-usami"
+  },
+  {
+    "name": "鏑木ろこ",
+    "links": {
+      "twitter": "https://twitter.com/65_kaburaki",
+      "youtube": "https://www.youtube.com/channel/UClrQ7xhRBxS_v_-WuudGKmA"
+    },
+    "tags": [
+      "にじさんじ"
+    ],
+    "page": "https://www.nijisanji.jp/talents/l/roco-kaburaki"
   },
   {
     "name": "轟京子",
@@ -2523,17 +2523,6 @@
     "page": "https://www.nijisanji.jp/talents/l/kohaku-todo"
   },
   {
-    "name": "倉持めると",
-    "links": {
-      "twitter": "https://twitter.com/k_meruto",
-      "youtube": "https://www.youtube.com/channel/UCiA-trSZfB0i92V_-dyDqBw"
-    },
-    "tags": [
-      "にじさんじ"
-    ],
-    "page": "https://www.nijisanji.jp/talents/l/meruto-kuramochi"
-  },
-  {
     "name": "モイラ",
     "links": {
       "twitter": "https://twitter.com/moiramoimoimoi",
@@ -2543,6 +2532,17 @@
       "にじさんじ"
     ],
     "page": "https://www.nijisanji.jp/talents/l/moira"
+  },
+  {
+    "name": "倉持めると",
+    "links": {
+      "twitter": "https://twitter.com/k_meruto",
+      "youtube": "https://www.youtube.com/channel/UCiA-trSZfB0i92V_-dyDqBw"
+    },
+    "tags": [
+      "にじさんじ"
+    ],
+    "page": "https://www.nijisanji.jp/talents/l/meruto-kuramochi"
   },
   {
     "name": "成瀬鳴",
@@ -2865,18 +2865,6 @@
     "page": "https://www.nijisanji.jp/talents/l/mone-kozue"
   },
   {
-    "name": "トゥイスティー アマノザコ",
-    "links": {
-      "twitter": "https://x.com/TwistyAmanozako",
-      "youtube": "https://www.youtube.com/@TwistyAmanozako"
-    },
-    "tags": [
-      "にじさんじ",
-      "NIJISANJI EN"
-    ],
-    "page": "https://www.nijisanji.jp/talents/l/twisty-amanozako"
-  },
-  {
     "name": "凉舞 バレンウォート",
     "links": {
       "twitter": "https://x.com/RyomaBarrenwort",
@@ -2887,6 +2875,18 @@
       "NIJISANJI EN"
     ],
     "page": "https://www.nijisanji.jp/talents/l/ryoma-barrenwort"
+  },
+  {
+    "name": "トゥイスティー アマノザコ",
+    "links": {
+      "twitter": "https://x.com/TwistyAmanozako",
+      "youtube": "https://www.youtube.com/@TwistyAmanozako"
+    },
+    "tags": [
+      "にじさんじ",
+      "NIJISANJI EN"
+    ],
+    "page": "https://www.nijisanji.jp/talents/l/twisty-amanozako"
   },
   {
     "name": "デレム カド",
@@ -2923,6 +2923,52 @@
     "page": "https://www.nijisanji.jp/talents/l/nagisa-arcinia"
   },
   {
+    "name": "阿萨",
+    "links": {
+      "twitter": "https://twitter.com/Aza_VirtuaReal",
+      "bilibili": "https://space.bilibili.com/480680646"
+    },
+    "tags": [
+      "にじさんじ",
+      "VirtuaReal"
+    ],
+    "page": "https://www.nijisanji.jp/talents/l/aza"
+  },
+  {
+    "name": "度人",
+    "links": {
+      "twitter": "https://twitter.com/VRduelTabibito",
+      "bilibili": "https://space.bilibili.com/474369808"
+    },
+    "tags": [
+      "にじさんじ",
+      "VirtuaReal"
+    ],
+    "page": "https://www.nijisanji.jp/talents/l/tabibito"
+  },
+  {
+    "name": "八木迪之",
+    "links": {
+      "bilibili": "https://space.bilibili.com/480675481"
+    },
+    "tags": [
+      "にじさんじ",
+      "VirtuaReal"
+    ],
+    "page": "https://www.nijisanji.jp/talents/l/yagi"
+  },
+  {
+    "name": "瑞娅",
+    "links": {
+      "bilibili": "https://space.bilibili.com/690608698"
+    },
+    "tags": [
+      "にじさんじ",
+      "VirtuaReal"
+    ],
+    "page": "https://www.nijisanji.jp/talents/l/rhea"
+  },
+  {
     "name": "希侑",
     "links": {
       "twitter": "https://twitter.com/KiyuuVR",
@@ -2933,6 +2979,133 @@
       "VirtuaReal"
     ],
     "page": "https://www.nijisanji.jp/talents/l/kiyuu"
+  },
+  {
+    "name": "尤格",
+    "links": {
+      "twitter": "https://twitter.com/yoghulk",
+      "bilibili": "https://space.bilibili.com/690608709/"
+    },
+    "tags": [
+      "にじさんじ",
+      "VirtuaReal"
+    ],
+    "page": "https://www.nijisanji.jp/talents/l/yog"
+  },
+  {
+    "name": "克克",
+    "links": {
+      "bilibili": "https://space.bilibili.com/690608711/"
+    },
+    "tags": [
+      "にじさんじ",
+      "VirtuaReal"
+    ],
+    "page": "https://www.nijisanji.jp/talents/l/keke"
+  },
+  {
+    "name": "艾因",
+    "links": {
+      "twitter": "https://twitter.com/VirtuaRealEine",
+      "bilibili": "https://space.bilibili.com/421267475"
+    },
+    "tags": [
+      "にじさんじ",
+      "VirtuaReal"
+    ],
+    "page": "https://www.nijisanji.jp/talents/l/eine"
+  },
+  {
+    "name": "千春",
+    "links": {
+      "twitter": "https://twitter.com/Chiharu_VR",
+      "bilibili": "https://space.bilibili.com/558070433/"
+    },
+    "tags": [
+      "にじさんじ",
+      "VirtuaReal"
+    ],
+    "page": "https://www.nijisanji.jp/talents/l/chiharu"
+  },
+  {
+    "name": "悠亚",
+    "links": {
+      "twitter": "https://twitter.com/yyyy2114",
+      "bilibili": "https://space.bilibili.com/666726799"
+    },
+    "tags": [
+      "にじさんじ",
+      "VirtuaReal"
+    ],
+    "page": "https://www.nijisanji.jp/talents/l/yua"
+  },
+  {
+    "name": "勺",
+    "links": {
+      "bilibili": "https://space.bilibili.com/666726801"
+    },
+    "tags": [
+      "にじさんじ",
+      "VirtuaReal"
+    ],
+    "page": "https://www.nijisanji.jp/talents/l/shaun"
+  },
+  {
+    "name": "吉吉",
+    "links": {
+      "twitter": "https://twitter.com/Kiti13799",
+      "bilibili": "https://space.bilibili.com/690608688"
+    },
+    "tags": [
+      "にじさんじ",
+      "VirtuaReal"
+    ],
+    "page": "https://www.nijisanji.jp/talents/l/kiti"
+  },
+  {
+    "name": "勾檀",
+    "links": {
+      "bilibili": "https://space.bilibili.com/690608693"
+    },
+    "tags": [
+      "にじさんじ",
+      "VirtuaReal"
+    ],
+    "page": "https://www.nijisanji.jp/talents/l/mayumi"
+  },
+  {
+    "name": "千幽",
+    "links": {
+      "bilibili": "https://space.bilibili.com/690608691"
+    },
+    "tags": [
+      "にじさんじ",
+      "VirtuaReal"
+    ],
+    "page": "https://www.nijisanji.jp/talents/l/chiyuu"
+  },
+  {
+    "name": "七海",
+    "links": {
+      "twitter": "https://twitter.com/NanamiVr",
+      "bilibili": "https://space.bilibili.com/434334701"
+    },
+    "tags": [
+      "にじさんじ",
+      "VirtuaReal"
+    ],
+    "page": "https://www.nijisanji.jp/talents/l/nanami"
+  },
+  {
+    "name": "光一",
+    "links": {
+      "bilibili": "https://space.bilibili.com/434401868"
+    },
+    "tags": [
+      "にじさんじ",
+      "VirtuaReal"
+    ],
+    "page": "https://www.nijisanji.jp/talents/l/kouichi"
   },
   {
     "name": "雾深",
@@ -2969,27 +3142,48 @@
     "page": "https://www.nijisanji.jp/talents/l/karisa"
   },
   {
-    "name": "尤格",
+    "name": "友夏",
     "links": {
-      "twitter": "https://twitter.com/yoghulk",
-      "bilibili": "https://space.bilibili.com/690608709/"
+      "bilibili": "https://space.bilibili.com/690608712/"
     },
     "tags": [
       "にじさんじ",
       "VirtuaReal"
     ],
-    "page": "https://www.nijisanji.jp/talents/l/yog"
+    "page": "https://www.nijisanji.jp/talents/l/uka"
   },
   {
-    "name": "克克",
+    "name": "暴食",
     "links": {
-      "bilibili": "https://space.bilibili.com/690608711/"
+      "bilibili": "https://space.bilibili.com/690608710/"
     },
     "tags": [
       "にじさんじ",
       "VirtuaReal"
     ],
-    "page": "https://www.nijisanji.jp/talents/l/keke"
+    "page": "https://www.nijisanji.jp/talents/l/hunger"
+  },
+  {
+    "name": "夜宫",
+    "links": {
+      "bilibili": "https://space.bilibili.com/690608689"
+    },
+    "tags": [
+      "にじさんじ",
+      "VirtuaReal"
+    ],
+    "page": "https://www.nijisanji.jp/talents/l/yomiya"
+  },
+  {
+    "name": "桃星",
+    "links": {
+      "bilibili": "https://space.bilibili.com/690608704"
+    },
+    "tags": [
+      "にじさんじ",
+      "VirtuaReal"
+    ],
+    "page": "https://www.nijisanji.jp/talents/l/tocci"
   },
   {
     "name": "弥希",
@@ -3016,28 +3210,6 @@
     "page": "https://www.nijisanji.jp/talents/l/waku"
   },
   {
-    "name": "光一",
-    "links": {
-      "bilibili": "https://space.bilibili.com/434401868"
-    },
-    "tags": [
-      "にじさんじ",
-      "VirtuaReal"
-    ],
-    "page": "https://www.nijisanji.jp/talents/l/kouichi"
-  },
-  {
-    "name": "八木迪之",
-    "links": {
-      "bilibili": "https://space.bilibili.com/480675481"
-    },
-    "tags": [
-      "にじさんじ",
-      "VirtuaReal"
-    ],
-    "page": "https://www.nijisanji.jp/talents/l/yagi"
-  },
-  {
     "name": "沙夜",
     "links": {
       "twitter": "https://twitter.com/Saya_VirtuaReal",
@@ -3050,133 +3222,6 @@
     "page": "https://www.nijisanji.jp/talents/l/saya"
   },
   {
-    "name": "度人",
-    "links": {
-      "twitter": "https://twitter.com/VRduelTabibito",
-      "bilibili": "https://space.bilibili.com/474369808"
-    },
-    "tags": [
-      "にじさんじ",
-      "VirtuaReal"
-    ],
-    "page": "https://www.nijisanji.jp/talents/l/tabibito"
-  },
-  {
-    "name": "阿萨",
-    "links": {
-      "twitter": "https://twitter.com/Aza_VirtuaReal",
-      "bilibili": "https://space.bilibili.com/480680646"
-    },
-    "tags": [
-      "にじさんじ",
-      "VirtuaReal"
-    ],
-    "page": "https://www.nijisanji.jp/talents/l/aza"
-  },
-  {
-    "name": "悠亚",
-    "links": {
-      "twitter": "https://twitter.com/yyyy2114",
-      "bilibili": "https://space.bilibili.com/666726799"
-    },
-    "tags": [
-      "にじさんじ",
-      "VirtuaReal"
-    ],
-    "page": "https://www.nijisanji.jp/talents/l/yua"
-  },
-  {
-    "name": "千幽",
-    "links": {
-      "bilibili": "https://space.bilibili.com/690608691"
-    },
-    "tags": [
-      "にじさんじ",
-      "VirtuaReal"
-    ],
-    "page": "https://www.nijisanji.jp/talents/l/chiyuu"
-  },
-  {
-    "name": "勺",
-    "links": {
-      "bilibili": "https://space.bilibili.com/666726801"
-    },
-    "tags": [
-      "にじさんじ",
-      "VirtuaReal"
-    ],
-    "page": "https://www.nijisanji.jp/talents/l/shaun"
-  },
-  {
-    "name": "瑞娅",
-    "links": {
-      "bilibili": "https://space.bilibili.com/690608698"
-    },
-    "tags": [
-      "にじさんじ",
-      "VirtuaReal"
-    ],
-    "page": "https://www.nijisanji.jp/talents/l/rhea"
-  },
-  {
-    "name": "友夏",
-    "links": {
-      "bilibili": "https://space.bilibili.com/690608712/"
-    },
-    "tags": [
-      "にじさんじ",
-      "VirtuaReal"
-    ],
-    "page": "https://www.nijisanji.jp/talents/l/uka"
-  },
-  {
-    "name": "暴食",
-    "links": {
-      "bilibili": "https://space.bilibili.com/690608710/"
-    },
-    "tags": [
-      "にじさんじ",
-      "VirtuaReal"
-    ],
-    "page": "https://www.nijisanji.jp/talents/l/hunger"
-  },
-  {
-    "name": "七海",
-    "links": {
-      "twitter": "https://twitter.com/NanamiVr",
-      "bilibili": "https://space.bilibili.com/434334701"
-    },
-    "tags": [
-      "にじさんじ",
-      "VirtuaReal"
-    ],
-    "page": "https://www.nijisanji.jp/talents/l/nanami"
-  },
-  {
-    "name": "艾因",
-    "links": {
-      "twitter": "https://twitter.com/VirtuaRealEine",
-      "bilibili": "https://space.bilibili.com/421267475"
-    },
-    "tags": [
-      "にじさんじ",
-      "VirtuaReal"
-    ],
-    "page": "https://www.nijisanji.jp/talents/l/eine"
-  },
-  {
-    "name": "千春",
-    "links": {
-      "twitter": "https://twitter.com/Chiharu_VR",
-      "bilibili": "https://space.bilibili.com/558070433/"
-    },
-    "tags": [
-      "にじさんじ",
-      "VirtuaReal"
-    ],
-    "page": "https://www.nijisanji.jp/talents/l/chiharu"
-  },
-  {
     "name": "雪绘",
     "links": {
       "bilibili": "https://space.bilibili.com/56748733/"
@@ -3186,51 +3231,6 @@
       "VirtuaReal"
     ],
     "page": "https://www.nijisanji.jp/talents/l/yukie"
-  },
-  {
-    "name": "吉吉",
-    "links": {
-      "twitter": "https://twitter.com/Kiti13799",
-      "bilibili": "https://space.bilibili.com/690608688"
-    },
-    "tags": [
-      "にじさんじ",
-      "VirtuaReal"
-    ],
-    "page": "https://www.nijisanji.jp/talents/l/kiti"
-  },
-  {
-    "name": "勾檀",
-    "links": {
-      "bilibili": "https://space.bilibili.com/690608693"
-    },
-    "tags": [
-      "にじさんじ",
-      "VirtuaReal"
-    ],
-    "page": "https://www.nijisanji.jp/talents/l/mayumi"
-  },
-  {
-    "name": "夜宫",
-    "links": {
-      "bilibili": "https://space.bilibili.com/690608689"
-    },
-    "tags": [
-      "にじさんじ",
-      "VirtuaReal"
-    ],
-    "page": "https://www.nijisanji.jp/talents/l/yomiya"
-  },
-  {
-    "name": "桃星",
-    "links": {
-      "bilibili": "https://space.bilibili.com/690608704"
-    },
-    "tags": [
-      "にじさんじ",
-      "VirtuaReal"
-    ],
-    "page": "https://www.nijisanji.jp/talents/l/tocci"
   },
   {
     "name": "ボドカ",
