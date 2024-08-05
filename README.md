@@ -1,4 +1,4 @@
-# 概要
+# streamers.json
 
 - ストリーマー、VTuberのリンクをjsonでまとめたいリポジトリ
     - 最終的にはリポジトリ直下の `streamers.json`を参照する
