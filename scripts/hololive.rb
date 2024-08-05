@@ -21,8 +21,8 @@ def get_liver_detail(url)
   card = doc.at_css('.bg_box')
   name = card.at_css('h1').children.first.text.strip
   links = card.css('.t_sns a').map do |link|
-    { name: link.text.strip, url: link['href'] }
-  end
+    [link.text.strip, link['href']]
+  end.to_h
 
   { name: name, links: links, tags: [GROUP_NAME] }
 end
@@ -35,7 +35,7 @@ def main
 
   len = liver_list.length
   result = liver_list.map.with_index(1) do |url, i|
-    puts format("   * [#{Time.now}] %03d/%03d (%.2f%%) parsing: #{url}", i, len, i.to_f / len)
+    puts format("   * [#{Time.now}] %03d/%03d (%.2f%%) parsing: %s", i, len, i.to_f / len, url)
     get_liver_detail(url)
   end
 
