@@ -20,11 +20,12 @@ def get_liver_detail(url)
 
   card = doc.at_css('.bg_box')
   name = card.at_css('h1').children.first.text.strip
-  links = card.css('.t_sns a').map do |link|
-    [link.text.strip, link['href']]
+  allLinks = card.css('.t_sns a').map do |link|
+    [link.text.strip.sub(/Tik Tok/, 'TikTok'), link['href']]
   end.to_h
+  links = create_link_map(allLinks.slice(*%w[YouTube X Twitter Twitch TikTok Instagram]).values)
 
-  { name: name, links: links, tags: [GROUP_NAME] }
+  { name: name, allLinks: allLinks, links: links, tags: [GROUP_NAME] }
 end
 
 def main

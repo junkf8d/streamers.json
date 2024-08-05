@@ -1,7 +1,7 @@
 [
   {
     "name": "ときのそら",
-    "links": {
+    "allLinks": {
       "YouTube": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg?sub_confirmation=1",
       "X": "https://twitter.com/tokino_sora",
       "OFFICIAL FAN CLUB": "https://tokinosora-fc.com/",
@@ -9,18 +9,26 @@
       "MMD": "https://3d.nicovideo.jp/works/td63641",
       "ARアプリ『hololy』で会う": "https://hololive.hololivepro.com/special/1937/"
     },
+    "links": {
+      "youtube": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg?sub_confirmation=1",
+      "twitter": "https://twitter.com/tokino_sora"
+    },
     "tags": [
       "ホロライブ"
     ]
   },
   {
     "name": "ロボ子さん",
-    "links": {
+    "allLinks": {
       "YouTube": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g?sub_confirmation=1",
       "X": "https://twitter.com/robocosan",
       "歌の再生リスト": "https://www.youtube.com/playlist?list=PLF54qiUa9cTu9eyx3Ukx88jtJUCKGFvWL",
       "MMD": "https://3d.nicovideo.jp/works/td63645",
       "ARアプリ『hololy』で会う": "https://hololive.hololivepro.com/special/1937/"
+    },
+    "links": {
+      "youtube": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g?sub_confirmation=1",
+      "twitter": "https://twitter.com/robocosan"
     },
     "tags": [
       "ホロライブ"
@@ -28,7 +36,7 @@
   },
   {
     "name": "アキ・ローゼンタール",
-    "links": {
+    "allLinks": {
       "YouTube": "https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA?sub_confirmation=1",
       "X": "https://twitter.com/akirosenthal",
       "歌の再生リスト": "https://www.youtube.com/playlist?list=PLYt9gyZFZDj_e7p0saJXMghPsjmBMwyiO",
@@ -36,17 +44,25 @@
       "MMD": "https://3d.nicovideo.jp/works/td63644",
       "ARアプリ『hololy』で会う": "https://hololive.hololivepro.com/special/1937/"
     },
+    "links": {
+      "youtube": "https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA?sub_confirmation=1",
+      "twitter": "https://twitter.com/akirosenthal"
+    },
     "tags": [
       "ホロライブ"
     ]
   },
   {
     "name": "赤井はあと",
-    "links": {
+    "allLinks": {
       "YouTube": "https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg?sub_confirmation=1",
       "X": "https://twitter.com/akaihaato",
       "MMD": "https://3d.nicovideo.jp/works/td63647",
       "ARアプリ『hololy』で会う": "https://hololive.hololivepro.com/special/1937/"
+    },
+    "links": {
+      "youtube": "https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg?sub_confirmation=1",
+      "twitter": "https://twitter.com/akaihaato"
     },
     "tags": [
       "ホロライブ"
@@ -54,9 +70,13 @@
   },
   {
     "name": "白上フブキ",
-    "links": {
+    "allLinks": {
       "YouTube": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg?sub_confirmation=1",
       "X": "https://twitter.com/shirakamifubuki"
+    },
+    "links": {
+      "youtube": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg?sub_confirmation=1",
+      "twitter": "https://twitter.com/shirakamifubuki"
     },
     "tags": [
       "ホロライブ"
@@ -64,11 +84,15 @@
   },
   {
     "name": "夏色まつり",
-    "links": {
+    "allLinks": {
       "YouTube": "https://youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg?sub_confirmation=1",
       "X": "https://twitter.com/natsuiromatsuri",
       "MMD": "https://3d.nicovideo.jp/works/td63646",
       "ARアプリ『hololy』で会う": "https://hololive.hololivepro.com/special/1937/"
+    },
+    "links": {
+      "youtube": "https://youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg?sub_confirmation=1",
+      "twitter": "https://twitter.com/natsuiromatsuri"
     },
     "tags": [
       "ホロライブ"
@@ -76,11 +100,15 @@
   },
   {
     "name": "湊あくあ",
-    "links": {
+    "allLinks": {
       "YouTube": "https://www.youtube.com/channel/UC1opHUrw8rvnsadT-iGp7Cg?sub_confirmation=1",
       "X": "https://twitter.com/minatoaqua",
       "MMD": "https://3d.nicovideo.jp/works/td63649",
       "ARアプリ『hololy』で会う": "https://hololive.hololivepro.com/special/1937/"
+    },
+    "links": {
+      "youtube": "https://www.youtube.com/channel/UC1opHUrw8rvnsadT-iGp7Cg?sub_confirmation=1",
+      "twitter": "https://twitter.com/minatoaqua"
     },
     "tags": [
       "ホロライブ"
@@ -88,11 +116,15 @@
   },
   {
     "name": "紫咲シオン",
-    "links": {
+    "allLinks": {
       "YouTube": "https://www.youtube.com/channel/UCXTpFs_3PqI41qX2d9tL2Rw?sub_confirmation=1",
       "X": "https://twitter.com/murasakishionch",
       "MMD": "https://3d.nicovideo.jp/works/td63632",
       "ARアプリ『hololy』で会う": "https://hololive.hololivepro.com/special/1937/"
+    },
+    "links": {
+      "youtube": "https://www.youtube.com/channel/UCXTpFs_3PqI41qX2d9tL2Rw?sub_confirmation=1",
+      "twitter": "https://twitter.com/murasakishionch"
     },
     "tags": [
       "ホロライブ"
@@ -100,9 +132,13 @@
   },
   {
     "name": "百鬼あやめ",
-    "links": {
+    "allLinks": {
       "YouTube": "https://www.youtube.com/channel/UC7fk0CB07ly8oSl0aqKkqFg?sub_confirmation=1",
       "X": "https://twitter.com/nakiriayame"
+    },
+    "links": {
+      "youtube": "https://www.youtube.com/channel/UC7fk0CB07ly8oSl0aqKkqFg?sub_confirmation=1",
+      "twitter": "https://twitter.com/nakiriayame"
     },
     "tags": [
       "ホロライブ"
@@ -110,11 +146,15 @@
   },
   {
     "name": "癒月ちょこ",
-    "links": {
+    "allLinks": {
       "YouTube": "https://www.youtube.com/channel/UC1suqwovbL1kzsoaZgFZLKg?sub_confirmation=1",
       "X": "https://twitter.com/yuzukichococh",
       "MMD": "https://3d.nicovideo.jp/works/td63631",
       "ARアプリ『hololy』で会う": "https://hololive.hololivepro.com/special/1937/"
+    },
+    "links": {
+      "youtube": "https://www.youtube.com/channel/UC1suqwovbL1kzsoaZgFZLKg?sub_confirmation=1",
+      "twitter": "https://twitter.com/yuzukichococh"
     },
     "tags": [
       "ホロライブ"
@@ -122,9 +162,13 @@
   },
   {
     "name": "大空スバル",
-    "links": {
+    "allLinks": {
       "YouTube": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA?sub_confirmation=1",
       "X": "https://twitter.com/oozorasubaru"
+    },
+    "links": {
+      "youtube": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA?sub_confirmation=1",
+      "twitter": "https://twitter.com/oozorasubaru"
     },
     "tags": [
       "ホロライブ"
@@ -132,10 +176,14 @@
   },
   {
     "name": "AZKi",
-    "links": {
+    "allLinks": {
       "YouTube": "https://www.youtube.com/channel/UC0TXe_LYZ4scaW2XMyi5_kw?sub_confirmation=1",
       "X": "https://twitter.com/AZKi_VDiVA",
       "ARアプリ『hololy』で会う": "https://hololive.hololivepro.com/special/1937/"
+    },
+    "links": {
+      "youtube": "https://www.youtube.com/channel/UC0TXe_LYZ4scaW2XMyi5_kw?sub_confirmation=1",
+      "twitter": "https://twitter.com/AZKi_VDiVA"
     },
     "tags": [
       "ホロライブ"
@@ -143,9 +191,13 @@
   },
   {
     "name": "大神ミオ",
-    "links": {
+    "allLinks": {
       "YouTube": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg?sub_confirmation=1",
       "X": "https://twitter.com/ookamimio"
+    },
+    "links": {
+      "youtube": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg?sub_confirmation=1",
+      "twitter": "https://twitter.com/ookamimio"
     },
     "tags": [
       "ホロライブ"
@@ -153,16 +205,22 @@
   },
   {
     "name": "さくらみこ",
-    "links": {
+    "allLinks": {
       "YouTube": "https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA?sub_confirmation=1",
       "X": "https://twitter.com/sakuramiko35",
       "Twitch": "https://www.twitch.tv/sakuramiko_hololive",
-      "Tik Tok": "https://www.tiktok.com/@sakuramiko_hololive",
+      "TikTok": "https://www.tiktok.com/@sakuramiko_hololive",
       "オリジナル楽曲リスト": "https://youtube.com/playlist?list=PLMF8NocLqJttJCIiUCkNXx6jW4dAYfz5G&si=g2i8rWGyqBy61a9x",
       "MMD": "https://3d.nicovideo.jp/works/td74928",
       "MMD(2)": "https://3d.nicovideo.jp/works/td74930",
       "ARアプリ『hololy』で会う": "https://hololive.hololivepro.com/special/1937/",
       "“flower fantasista!”": "https://flowerfantasista.hololivepro.com/"
+    },
+    "links": {
+      "youtube": "https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA?sub_confirmation=1",
+      "twitter": "https://twitter.com/sakuramiko35",
+      "twitch": "https://www.twitch.tv/sakuramiko_hololive",
+      "tiktok": "https://www.tiktok.com/@sakuramiko_hololive"
     },
     "tags": [
       "ホロライブ"
@@ -170,11 +228,15 @@
   },
   {
     "name": "猫又おかゆ",
-    "links": {
+    "allLinks": {
       "YouTube": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw?sub_confirmation=1",
       "X": "https://twitter.com/nekomataokayu",
       "MMD": "https://3d.nicovideo.jp/works/td63648",
       "ARアプリ『hololy』で会う": "https://hololive.hololivepro.com/special/1937/"
+    },
+    "links": {
+      "youtube": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw?sub_confirmation=1",
+      "twitter": "https://twitter.com/nekomataokayu"
     },
     "tags": [
       "ホロライブ"
@@ -182,10 +244,14 @@
   },
   {
     "name": "戌神ころね",
-    "links": {
+    "allLinks": {
       "YouTube": "https://www.youtube.com/channel/UChAnqc_AY5_I3Px5dig3X1Q?sub_confirmation=1",
       "X": "https://twitter.com/inugamikorone",
       "MMD": "https://3d.nicovideo.jp/works/td63650"
+    },
+    "links": {
+      "youtube": "https://www.youtube.com/channel/UChAnqc_AY5_I3Px5dig3X1Q?sub_confirmation=1",
+      "twitter": "https://twitter.com/inugamikorone"
     },
     "tags": [
       "ホロライブ"
@@ -193,10 +259,14 @@
   },
   {
     "name": "星街すいせい",
-    "links": {
+    "allLinks": {
       "YouTube": "https://www.youtube.com/channel/UC5CwaMl1eIgY8h02uZw7u8A?sub_confirmation=1",
       "X": "https://twitter.com/suisei_hosimati",
       "歌の再生リスト": "https://www.youtube.com/watch?v=hAI-qjw6J-A&list=PLAo9RlHR2tDZwddeEyp9nTfpaFB58DrXd&index=1"
+    },
+    "links": {
+      "youtube": "https://www.youtube.com/channel/UC5CwaMl1eIgY8h02uZw7u8A?sub_confirmation=1",
+      "twitter": "https://twitter.com/suisei_hosimati"
     },
     "tags": [
       "ホロライブ"
@@ -204,12 +274,17 @@
   },
   {
     "name": "兎田ぺこら",
-    "links": {
+    "allLinks": {
       "YouTube": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ?sub_confirmation=1",
       "X": "https://twitter.com/usadapekora",
       "Twitch": "https://www.twitch.tv/usadapekora_hololive",
       "MMD": "https://3d.nicovideo.jp/works/td88332",
       "全人類兎化計画": "https://rabbit-plan.hololivepro.com/"
+    },
+    "links": {
+      "youtube": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ?sub_confirmation=1",
+      "twitter": "https://twitter.com/usadapekora",
+      "twitch": "https://www.twitch.tv/usadapekora_hololive"
     },
     "tags": [
       "ホロライブ"
@@ -217,10 +292,14 @@
   },
   {
     "name": "不知火フレア",
-    "links": {
+    "allLinks": {
       "YouTube": "https://www.youtube.com/channel/UCvInZx9h3jC2JzsIzoOebWg?sub_confirmation=1",
       "X": "https://twitter.com/shiranuiflare",
       "歌の再生リスト": "https://www.youtube.com/watch?v=3y8oIuEkqQs&list=PLBoFNGFmekcMIhlW5Z-umsS3VPnQx7tI8"
+    },
+    "links": {
+      "youtube": "https://www.youtube.com/channel/UCvInZx9h3jC2JzsIzoOebWg?sub_confirmation=1",
+      "twitter": "https://twitter.com/shiranuiflare"
     },
     "tags": [
       "ホロライブ"
@@ -228,9 +307,13 @@
   },
   {
     "name": "白銀ノエル",
-    "links": {
+    "allLinks": {
       "YouTube": "https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ?sub_confirmation=1",
       "X": "https://twitter.com/shiroganenoel"
+    },
+    "links": {
+      "youtube": "https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ?sub_confirmation=1",
+      "twitter": "https://twitter.com/shiroganenoel"
     },
     "tags": [
       "ホロライブ"
@@ -238,11 +321,15 @@
   },
   {
     "name": "宝鐘マリン",
-    "links": {
+    "allLinks": {
       "YouTube": "https://www.youtube.com/channel/UCCzUftO8KOVkV4wQG1vkUvg?sub_confirmation=1",
       "X": "https://twitter.com/houshoumarine",
       "MMD": "https://3d.nicovideo.jp/works/td78500",
       "ARアプリ『hololy』で会う": "https://hololive.hololivepro.com/special/1937/"
+    },
+    "links": {
+      "youtube": "https://www.youtube.com/channel/UCCzUftO8KOVkV4wQG1vkUvg?sub_confirmation=1",
+      "twitter": "https://twitter.com/houshoumarine"
     },
     "tags": [
       "ホロライブ"
@@ -250,11 +337,15 @@
   },
   {
     "name": "天音かなた",
-    "links": {
+    "allLinks": {
       "YouTube": "https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg?sub_confirmation=1",
       "X": "https://twitter.com/amanekanatach",
       "MMD": "https://3d.nicovideo.jp/works/td78501",
       "ARアプリ『hololy』で会う": "https://hololive.hololivepro.com/special/1937/"
+    },
+    "links": {
+      "youtube": "https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg?sub_confirmation=1",
+      "twitter": "https://twitter.com/amanekanatach"
     },
     "tags": [
       "ホロライブ"
@@ -262,11 +353,15 @@
   },
   {
     "name": "角巻わため",
-    "links": {
+    "allLinks": {
       "YouTube": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA?sub=confirmation=1",
       "X": "https://twitter.com/tsunomakiwatame",
       "MMD": "https://3d.nicovideo.jp/works/td78502",
       "ARアプリ『hololy』で会う": "https://hololive.hololivepro.com/special/1937/"
+    },
+    "links": {
+      "youtube": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA?sub=confirmation=1",
+      "twitter": "https://twitter.com/tsunomakiwatame"
     },
     "tags": [
       "ホロライブ"
@@ -274,10 +369,14 @@
   },
   {
     "name": "常闇トワ",
-    "links": {
+    "allLinks": {
       "YouTube": "https://www.youtube.com/channel/UC1uv2Oq6kNxgATlCiez59hw?sub_confirmation=1",
       "X": "https://twitter.com/tokoyamitowa",
       "MMD": "https://3d.nicovideo.jp/works/td84870"
+    },
+    "links": {
+      "youtube": "https://www.youtube.com/channel/UC1uv2Oq6kNxgATlCiez59hw?sub_confirmation=1",
+      "twitter": "https://twitter.com/tokoyamitowa"
     },
     "tags": [
       "ホロライブ"
@@ -285,10 +384,14 @@
   },
   {
     "name": "姫森ルーナ",
-    "links": {
+    "allLinks": {
       "YouTube": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw?sub_confirmation=1",
       "X": "https://twitter.com/himemoriluna",
       "MMD": "https://3d.nicovideo.jp/works/td84746"
+    },
+    "links": {
+      "youtube": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw?sub_confirmation=1",
+      "twitter": "https://twitter.com/himemoriluna"
     },
     "tags": [
       "ホロライブ"
@@ -296,11 +399,15 @@
   },
   {
     "name": "雪花ラミィ",
-    "links": {
+    "allLinks": {
       "YouTube": "https://www.youtube.com/channel/UCFKOVgVbGmX65RxO3EtH3iw?sub_confirmation=1",
       "X": "https://twitter.com/yukihanalamy",
       "MMD": "https://3d.nicovideo.jp/works/td78503",
       "ARアプリ『hololy』で会う": "https://hololive.hololivepro.com/special/1937/"
+    },
+    "links": {
+      "youtube": "https://www.youtube.com/channel/UCFKOVgVbGmX65RxO3EtH3iw?sub_confirmation=1",
+      "twitter": "https://twitter.com/yukihanalamy"
     },
     "tags": [
       "ホロライブ"
@@ -308,11 +415,15 @@
   },
   {
     "name": "桃鈴ねね",
-    "links": {
+    "allLinks": {
       "YouTube": "https://www.youtube.com/channel/UCAWSyEs_Io8MtpY3m-zqILA?sub_confirmation=1",
       "X": "https://twitter.com/momosuzunene",
       "MMD": "https://3d.nicovideo.jp/works/td78505",
       "ARアプリ『hololy』で会う": "https://hololive.hololivepro.com/special/1937/"
+    },
+    "links": {
+      "youtube": "https://www.youtube.com/channel/UCAWSyEs_Io8MtpY3m-zqILA?sub_confirmation=1",
+      "twitter": "https://twitter.com/momosuzunene"
     },
     "tags": [
       "ホロライブ"
@@ -320,11 +431,15 @@
   },
   {
     "name": "獅白ぼたん",
-    "links": {
+    "allLinks": {
       "YouTube": "https://www.youtube.com/channel/UCUKD-uaobj9jiqB-VXt71mA?sub_confirmation=1",
       "X": "https://twitter.com/shishirobotan",
       "MMD": "https://3d.nicovideo.jp/works/td78506",
       "ARアプリ『hololy』で会う": "https://hololive.hololivepro.com/special/1937/"
+    },
+    "links": {
+      "youtube": "https://www.youtube.com/channel/UCUKD-uaobj9jiqB-VXt71mA?sub_confirmation=1",
+      "twitter": "https://twitter.com/shishirobotan"
     },
     "tags": [
       "ホロライブ"
@@ -332,11 +447,15 @@
   },
   {
     "name": "尾丸ポルカ",
-    "links": {
+    "allLinks": {
       "YouTube": "https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA?sub_confirmation=1",
       "X": "https://twitter.com/omarupolka",
       "MMD": "https://3d.nicovideo.jp/works/td78507",
       "ARアプリ『hololy』で会う": "https://hololive.hololivepro.com/special/1937/"
+    },
+    "links": {
+      "youtube": "https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA?sub_confirmation=1",
+      "twitter": "https://twitter.com/omarupolka"
     },
     "tags": [
       "ホロライブ"
@@ -344,10 +463,14 @@
   },
   {
     "name": "ラプラス・ダークネス",
-    "links": {
+    "allLinks": {
       "YouTube": "https://www.youtube.com/channel/UCENwRMx5Yh42zWpzURebzTw",
       "X": "https://twitter.com/LaplusDarknesss",
       "MMD": "https://3d.nicovideo.jp/works/td84838"
+    },
+    "links": {
+      "youtube": "https://www.youtube.com/channel/UCENwRMx5Yh42zWpzURebzTw",
+      "twitter": "https://twitter.com/LaplusDarknesss"
     },
     "tags": [
       "ホロライブ"
@@ -355,11 +478,15 @@
   },
   {
     "name": "鷹嶺ルイ",
-    "links": {
+    "allLinks": {
       "YouTube": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
       "X": "https://twitter.com/takanelui",
       "オリジナル楽曲販売ページ": "https://cover.lnk.to/Overd",
       "MMD": "https://3d.nicovideo.jp/works/td84837"
+    },
+    "links": {
+      "youtube": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
+      "twitter": "https://twitter.com/takanelui"
     },
     "tags": [
       "ホロライブ"
@@ -367,7 +494,7 @@
   },
   {
     "name": "博衣こより",
-    "links": {
+    "allLinks": {
       "YouTube": "https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw",
       "X": "https://twitter.com/hakuikoyori",
       "Twitch": "https://m.twitch.tv/hakuikoyori_hololive/home",
@@ -375,18 +502,29 @@
       "歌の再生リスト": "https://www.youtube.com/watch?v=dZSLSAFqzAA&list=PLCxKJRIVDrYHVk6OfBsuGwIujL63ooOQV&index=1",
       "MMD": "https://3d.nicovideo.jp/works/td84748"
     },
+    "links": {
+      "youtube": "https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw",
+      "twitter": "https://twitter.com/hakuikoyori",
+      "twitch": "https://m.twitch.tv/hakuikoyori_hololive/home",
+      "tiktok": "https://www.tiktok.com/@hakuikoyori_hololive"
+    },
     "tags": [
       "ホロライブ"
     ]
   },
   {
     "name": "沙花叉クロヱ",
-    "links": {
+    "allLinks": {
       "YouTube": "https://www.youtube.com/channel/UCIBY1ollUsauvVi4hW4cumw",
       "X": "https://twitter.com/sakamatachloe",
       "TikTok": "https://www.tiktok.com/@sakamatachloe_hololive",
       "歌の再生リスト": "https://www.youtube.com/watch?v=rFbJlErkcGw&list=PLi6TWx3pTf1fVyYNxUCKNHmmssZjKnK9K&index=1",
       "MMD": "https://3d.nicovideo.jp/works/td84836"
+    },
+    "links": {
+      "youtube": "https://www.youtube.com/channel/UCIBY1ollUsauvVi4hW4cumw",
+      "twitter": "https://twitter.com/sakamatachloe",
+      "tiktok": "https://www.tiktok.com/@sakamatachloe_hololive"
     },
     "tags": [
       "ホロライブ"
@@ -394,10 +532,14 @@
   },
   {
     "name": "風真いろは",
-    "links": {
+    "allLinks": {
       "YouTube": "https://www.youtube.com/channel/UC_vMYWcDjmfdpH6r4TTn1MQ",
       "X": "https://twitter.com/kazamairohach",
       "MMD": "https://3d.nicovideo.jp/works/td84835"
+    },
+    "links": {
+      "youtube": "https://www.youtube.com/channel/UC_vMYWcDjmfdpH6r4TTn1MQ",
+      "twitter": "https://twitter.com/kazamairohach"
     },
     "tags": [
       "ホロライブ"
@@ -405,10 +547,14 @@
   },
   {
     "name": "アユンダ・リス",
-    "links": {
+    "allLinks": {
       "YouTube": "https://www.youtube.com/channel/UCOyYb1c43VlX9rc_lT6NKQw?sub_confirmation=1",
       "X": "https://twitter.com/ayunda_risu",
       "MMD": "https://3d.nicovideo.jp/works/td88678"
+    },
+    "links": {
+      "youtube": "https://www.youtube.com/channel/UCOyYb1c43VlX9rc_lT6NKQw?sub_confirmation=1",
+      "twitter": "https://twitter.com/ayunda_risu"
     },
     "tags": [
       "ホロライブ"
@@ -416,10 +562,14 @@
   },
   {
     "name": "ムーナ・ホシノヴァ",
-    "links": {
+    "allLinks": {
       "YouTube": "https://www.youtube.com/channel/UCP0BspO_AMEe3aQqqpo89Dg?sub_confirmation=1",
       "X": "https://twitter.com/moonahoshinova",
       "MMD": "https://3d.nicovideo.jp/works/td88680"
+    },
+    "links": {
+      "youtube": "https://www.youtube.com/channel/UCP0BspO_AMEe3aQqqpo89Dg?sub_confirmation=1",
+      "twitter": "https://twitter.com/moonahoshinova"
     },
     "tags": [
       "ホロライブ"
@@ -427,10 +577,14 @@
   },
   {
     "name": "アイラニ・イオフィフティーン",
-    "links": {
+    "allLinks": {
       "YouTube": "https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg?sub_confirmation=1",
       "X": "https://twitter.com/airaniiofifteen",
       "MMD": "https://3d.nicovideo.jp/works/td88681"
+    },
+    "links": {
+      "youtube": "https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg?sub_confirmation=1",
+      "twitter": "https://twitter.com/airaniiofifteen"
     },
     "tags": [
       "ホロライブ"
@@ -438,10 +592,14 @@
   },
   {
     "name": "クレイジー・オリー",
-    "links": {
+    "allLinks": {
       "YouTube": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
       "X": "https://twitter.com/kureijiollie",
       "MMD": "https://3d.nicovideo.jp/works/td92058"
+    },
+    "links": {
+      "youtube": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
+      "twitter": "https://twitter.com/kureijiollie"
     },
     "tags": [
       "ホロライブ"
@@ -449,10 +607,14 @@
   },
   {
     "name": "アーニャ・メルフィッサ",
-    "links": {
+    "allLinks": {
       "YouTube": "https://www.youtube.com/channel/UC727SQYUvx5pDDGQpTICNWg/featured",
       "X": "https://twitter.com/anyamelfissa",
       "MMD": "https://3d.nicovideo.jp/works/td92057"
+    },
+    "links": {
+      "youtube": "https://www.youtube.com/channel/UC727SQYUvx5pDDGQpTICNWg/featured",
+      "twitter": "https://twitter.com/anyamelfissa"
     },
     "tags": [
       "ホロライブ"
@@ -460,10 +622,14 @@
   },
   {
     "name": "パヴォリア・レイネ",
-    "links": {
+    "allLinks": {
       "YouTube": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q?",
       "X": "https://twitter.com/pavoliareine",
       "MMD": "https://3d.nicovideo.jp/works/td92056"
+    },
+    "links": {
+      "youtube": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q?",
+      "twitter": "https://twitter.com/pavoliareine"
     },
     "tags": [
       "ホロライブ"
@@ -471,12 +637,18 @@
   },
   {
     "name": "ベスティア・ゼータ",
-    "links": {
+    "allLinks": {
       "YouTube": "https://www.youtube.com/channel/UCTvHWSfBZgtxE4sILOaurIQ",
       "X": "https://twitter.com/vestiazeta",
       "Instagram": "https://instagram.com/vestiazeta",
       "TikTok": "https://tiktok.com/@vestiazeta",
       "Facebook": "https://facebook.com/VestiaZeta"
+    },
+    "links": {
+      "youtube": "https://www.youtube.com/channel/UCTvHWSfBZgtxE4sILOaurIQ",
+      "twitter": "https://twitter.com/vestiazeta",
+      "tiktok": "https://tiktok.com/@vestiazeta",
+      "instagram": "https://instagram.com/vestiazeta"
     },
     "tags": [
       "ホロライブ"
@@ -484,9 +656,13 @@
   },
   {
     "name": "カエラ・コヴァルスキア",
-    "links": {
+    "allLinks": {
       "YouTube": "https://www.youtube.com/channel/UCZLZ8Jjx_RN2CXloOmgTHVg",
       "X": "https://twitter.com/kaelakovalskia"
+    },
+    "links": {
+      "youtube": "https://www.youtube.com/channel/UCZLZ8Jjx_RN2CXloOmgTHVg",
+      "twitter": "https://twitter.com/kaelakovalskia"
     },
     "tags": [
       "ホロライブ"
@@ -494,9 +670,13 @@
   },
   {
     "name": "こぼ・かなえる",
-    "links": {
+    "allLinks": {
       "YouTube": "https://www.youtube.com/channel/UCjLEmnpCNeisMxy134KPwWw",
       "X": "https://twitter.com/kobokanaeru"
+    },
+    "links": {
+      "youtube": "https://www.youtube.com/channel/UCjLEmnpCNeisMxy134KPwWw",
+      "twitter": "https://twitter.com/kobokanaeru"
     },
     "tags": [
       "ホロライブ"
@@ -504,9 +684,13 @@
   },
   {
     "name": "森カリオペ",
-    "links": {
+    "allLinks": {
       "YouTube": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg?sub_confirmation=1",
       "X": "https://twitter.com/moricalliope"
+    },
+    "links": {
+      "youtube": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg?sub_confirmation=1",
+      "twitter": "https://twitter.com/moricalliope"
     },
     "tags": [
       "ホロライブ"
@@ -514,10 +698,14 @@
   },
   {
     "name": "小鳥遊キアラ",
-    "links": {
+    "allLinks": {
       "YouTube": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww?sub_confirmation=1",
       "X": "https://twitter.com/takanashikiara",
       "MMD": "https://3d.nicovideo.jp/works/td88338"
+    },
+    "links": {
+      "youtube": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww?sub_confirmation=1",
+      "twitter": "https://twitter.com/takanashikiara"
     },
     "tags": [
       "ホロライブ"
@@ -525,9 +713,13 @@
   },
   {
     "name": "一伊那尓栖",
-    "links": {
+    "allLinks": {
       "YouTube": "https://www.youtube.com/channel/UCMwGHR0BTZuLsmjY_NT5Pwg?sub_confirmation=1",
       "X": "https://twitter.com/ninomaeinanis"
+    },
+    "links": {
+      "youtube": "https://www.youtube.com/channel/UCMwGHR0BTZuLsmjY_NT5Pwg?sub_confirmation=1",
+      "twitter": "https://twitter.com/ninomaeinanis"
     },
     "tags": [
       "ホロライブ"
@@ -535,10 +727,14 @@
   },
   {
     "name": "がうる・ぐら",
-    "links": {
+    "allLinks": {
       "YouTube": "https://www.youtube.com/channel/UCoSrY_IQQVpmIRZ9Xf-y93g?sub_confirmation=1",
       "X": "https://twitter.com/gawrgura",
       "MMD": "https://3d.nicovideo.jp/works/td88336"
+    },
+    "links": {
+      "youtube": "https://www.youtube.com/channel/UCoSrY_IQQVpmIRZ9Xf-y93g?sub_confirmation=1",
+      "twitter": "https://twitter.com/gawrgura"
     },
     "tags": [
       "ホロライブ"
@@ -546,10 +742,14 @@
   },
   {
     "name": "ワトソン・アメリア",
-    "links": {
+    "allLinks": {
       "YouTube": "https://www.youtube.com/channel/UCyl1z3jo3XHR1riLFKG5UAg?sub_confirmation=1",
       "X": "https://twitter.com/watsonameliaEN",
       "MMD": "https://3d.nicovideo.jp/works/td88334"
+    },
+    "links": {
+      "youtube": "https://www.youtube.com/channel/UCyl1z3jo3XHR1riLFKG5UAg?sub_confirmation=1",
+      "twitter": "https://twitter.com/watsonameliaEN"
     },
     "tags": [
       "ホロライブ"
@@ -557,9 +757,13 @@
   },
   {
     "name": "IRyS",
-    "links": {
+    "allLinks": {
       "YouTube": "https://www.youtube.com/channel/UC8rcEBzJSleTkf_-agPM20g",
       "X": "https://twitter.com/irys_en"
+    },
+    "links": {
+      "youtube": "https://www.youtube.com/channel/UC8rcEBzJSleTkf_-agPM20g",
+      "twitter": "https://twitter.com/irys_en"
     },
     "tags": [
       "ホロライブ"
@@ -567,9 +771,13 @@
   },
   {
     "name": "セレス・ファウナ",
-    "links": {
+    "allLinks": {
       "YouTube": "https://www.youtube.com/channel/UCO_aKKYxn4tvrqPjcTzZ6EQ",
       "X": "https://twitter.com/ceresfauna"
+    },
+    "links": {
+      "youtube": "https://www.youtube.com/channel/UCO_aKKYxn4tvrqPjcTzZ6EQ",
+      "twitter": "https://twitter.com/ceresfauna"
     },
     "tags": [
       "ホロライブ"
@@ -577,9 +785,13 @@
   },
   {
     "name": "オーロ・クロニー",
-    "links": {
+    "allLinks": {
       "YouTube": "https://www.youtube.com/channel/UCmbs8T6MWqUHP1tIQvSgKrg",
       "X": "https://twitter.com/ourokronii"
+    },
+    "links": {
+      "youtube": "https://www.youtube.com/channel/UCmbs8T6MWqUHP1tIQvSgKrg",
+      "twitter": "https://twitter.com/ourokronii"
     },
     "tags": [
       "ホロライブ"
@@ -587,9 +799,13 @@
   },
   {
     "name": "七詩ムメイ",
-    "links": {
+    "allLinks": {
       "YouTube": "https://www.youtube.com/channel/UC3n5uGu18FoCy23ggWWp8tA",
       "X": "https://twitter.com/nanashimumei_en"
+    },
+    "links": {
+      "youtube": "https://www.youtube.com/channel/UC3n5uGu18FoCy23ggWWp8tA",
+      "twitter": "https://twitter.com/nanashimumei_en"
     },
     "tags": [
       "ホロライブ"
@@ -597,9 +813,13 @@
   },
   {
     "name": "ハコス・ベールズ",
-    "links": {
+    "allLinks": {
       "YouTube": "https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ",
       "X": "https://twitter.com/hakosbaelz"
+    },
+    "links": {
+      "youtube": "https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ",
+      "twitter": "https://twitter.com/hakosbaelz"
     },
     "tags": [
       "ホロライブ"
@@ -607,10 +827,15 @@
   },
   {
     "name": "シオリ・ノヴェラ",
-    "links": {
+    "allLinks": {
       "YouTube": "https://www.youtube.com/channel/UCgnfPPb9JI3e9A4cXHnWbyg",
       "X": "https://twitter.com/shiorinovella",
       "TikTok": "https://www.tiktok.com/@shiorinovella"
+    },
+    "links": {
+      "youtube": "https://www.youtube.com/channel/UCgnfPPb9JI3e9A4cXHnWbyg",
+      "twitter": "https://twitter.com/shiorinovella",
+      "tiktok": "https://www.tiktok.com/@shiorinovella"
     },
     "tags": [
       "ホロライブ"
@@ -618,9 +843,13 @@
   },
   {
     "name": "古石ビジュー",
-    "links": {
+    "allLinks": {
       "YouTube": "https://www.youtube.com/channel/UC9p_lqQ0FEDz327Vgf5JwqA",
       "X": "https://twitter.com/kosekibijou"
+    },
+    "links": {
+      "youtube": "https://www.youtube.com/channel/UC9p_lqQ0FEDz327Vgf5JwqA",
+      "twitter": "https://twitter.com/kosekibijou"
     },
     "tags": [
       "ホロライブ"
@@ -628,9 +857,13 @@
   },
   {
     "name": "ネリッサ・レイヴンクロフト",
-    "links": {
+    "allLinks": {
       "YouTube": "https://www.youtube.com/channel/UC_sFNM0z0MWm9A6WlKPuMMg",
       "X": "https://twitter.com/nerissa_en"
+    },
+    "links": {
+      "youtube": "https://www.youtube.com/channel/UC_sFNM0z0MWm9A6WlKPuMMg",
+      "twitter": "https://twitter.com/nerissa_en"
     },
     "tags": [
       "ホロライブ"
@@ -638,9 +871,13 @@
   },
   {
     "name": "フワワ・アビスガード",
-    "links": {
+    "allLinks": {
       "YouTube": "https://www.youtube.com/channel/UCt9H_RpQzhxzlyBxFqrdHqA",
       "X": "https://twitter.com/fuwamoco_en"
+    },
+    "links": {
+      "youtube": "https://www.youtube.com/channel/UCt9H_RpQzhxzlyBxFqrdHqA",
+      "twitter": "https://twitter.com/fuwamoco_en"
     },
     "tags": [
       "ホロライブ"
@@ -648,9 +885,13 @@
   },
   {
     "name": "モココ・アビスガード",
-    "links": {
+    "allLinks": {
       "YouTube": "https://www.youtube.com/channel/UCt9H_RpQzhxzlyBxFqrdHqA",
       "X": "https://twitter.com/fuwamoco_en"
+    },
+    "links": {
+      "youtube": "https://www.youtube.com/channel/UCt9H_RpQzhxzlyBxFqrdHqA",
+      "twitter": "https://twitter.com/fuwamoco_en"
     },
     "tags": [
       "ホロライブ"
@@ -658,9 +899,13 @@
   },
   {
     "name": "エリザベス・ローズ・ブラッドフレイム",
-    "links": {
+    "allLinks": {
       "YouTube": "https://www.youtube.com/channel/UCW5uhrG1eCBYditmhL0Ykjw",
       "X": "https://x.com/ERBloodflame"
+    },
+    "links": {
+      "youtube": "https://www.youtube.com/channel/UCW5uhrG1eCBYditmhL0Ykjw",
+      "twitter": "https://x.com/ERBloodflame"
     },
     "tags": [
       "ホロライブ"
@@ -668,9 +913,13 @@
   },
   {
     "name": "ジジ・ムリン",
-    "links": {
+    "allLinks": {
       "YouTube": "https://www.youtube.com/channel/UCDHABijvPBnJm7F-KlNME3w",
       "X": "https://x.com/gigimurin"
+    },
+    "links": {
+      "youtube": "https://www.youtube.com/channel/UCDHABijvPBnJm7F-KlNME3w",
+      "twitter": "https://x.com/gigimurin"
     },
     "tags": [
       "ホロライブ"
@@ -678,9 +927,13 @@
   },
   {
     "name": "セシリア・イマーグリーン",
-    "links": {
+    "allLinks": {
       "YouTube": "https://www.youtube.com/channel/UCvN5h1ShZtc7nly3pezRayg",
       "X": "https://x.com/ceciliaimgreen"
+    },
+    "links": {
+      "youtube": "https://www.youtube.com/channel/UCvN5h1ShZtc7nly3pezRayg",
+      "twitter": "https://x.com/ceciliaimgreen"
     },
     "tags": [
       "ホロライブ"
@@ -688,9 +941,13 @@
   },
   {
     "name": "ラオーラ・パンテーラ",
-    "links": {
+    "allLinks": {
       "YouTube": "https://www.youtube.com/channel/UCl69AEx4MdqMZH7Jtsm7Tig",
       "X": "https://x.com/raorapanthera"
+    },
+    "links": {
+      "youtube": "https://www.youtube.com/channel/UCl69AEx4MdqMZH7Jtsm7Tig",
+      "twitter": "https://x.com/raorapanthera"
     },
     "tags": [
       "ホロライブ"
@@ -698,9 +955,13 @@
   },
   {
     "name": "火威青",
-    "links": {
+    "allLinks": {
       "YouTube": "https://www.youtube.com/channel/UCMGfV7TVTmHhEErVJg1oHBQ",
       "X": "https://twitter.com/hiodoshiao"
+    },
+    "links": {
+      "youtube": "https://www.youtube.com/channel/UCMGfV7TVTmHhEErVJg1oHBQ",
+      "twitter": "https://twitter.com/hiodoshiao"
     },
     "tags": [
       "ホロライブ"
@@ -708,9 +969,13 @@
   },
   {
     "name": "音乃瀬奏",
-    "links": {
+    "allLinks": {
       "YouTube": "https://youtube.com/@OtonoseKanade",
       "X": "https://twitter.com/otonosekanade"
+    },
+    "links": {
+      "youtube": "https://youtube.com/@OtonoseKanade",
+      "twitter": "https://twitter.com/otonosekanade"
     },
     "tags": [
       "ホロライブ"
@@ -718,9 +983,13 @@
   },
   {
     "name": "一条莉々華",
-    "links": {
+    "allLinks": {
       "YouTube": "https://www.youtube.com/@IchijouRirika",
       "X": "https://twitter.com/ichijouririka"
+    },
+    "links": {
+      "youtube": "https://www.youtube.com/@IchijouRirika",
+      "twitter": "https://twitter.com/ichijouririka"
     },
     "tags": [
       "ホロライブ"
@@ -728,9 +997,13 @@
   },
   {
     "name": "儒烏風亭らでん",
-    "links": {
+    "allLinks": {
       "YouTube": "https://www.youtube.com/@JuufuuteiRaden",
       "X": "https://twitter.com/juufuuteiraden"
+    },
+    "links": {
+      "youtube": "https://www.youtube.com/@JuufuuteiRaden",
+      "twitter": "https://twitter.com/juufuuteiraden"
     },
     "tags": [
       "ホロライブ"
@@ -738,9 +1011,13 @@
   },
   {
     "name": "轟はじめ",
-    "links": {
+    "allLinks": {
       "YouTube": "https://www.youtube.com/@TodorokiHajime",
       "X": "https://twitter.com/todoroki_hajime"
+    },
+    "links": {
+      "youtube": "https://www.youtube.com/@TodorokiHajime",
+      "twitter": "https://twitter.com/todoroki_hajime"
     },
     "tags": [
       "ホロライブ"
@@ -748,9 +1025,13 @@
   },
   {
     "name": "【卒業生】桐生ココ",
-    "links": {
+    "allLinks": {
       "YouTube": "https://www.youtube.com/channel/UCS9uQI-jC3DE0L4IpXyvr6w?sub_confirmation=1",
       "X": "https://twitter.com/kiryucoco"
+    },
+    "links": {
+      "youtube": "https://www.youtube.com/channel/UCS9uQI-jC3DE0L4IpXyvr6w?sub_confirmation=1",
+      "twitter": "https://twitter.com/kiryucoco"
     },
     "tags": [
       "ホロライブ"
@@ -758,9 +1039,13 @@
   },
   {
     "name": "【卒業生】九十九佐命",
-    "links": {
+    "allLinks": {
       "YouTube": "https://www.youtube.com/channel/UCsUj0dszADCGbF3gNrQEuSQ",
       "X": "https://twitter.com/tsukumosana"
+    },
+    "links": {
+      "youtube": "https://www.youtube.com/channel/UCsUj0dszADCGbF3gNrQEuSQ",
+      "twitter": "https://twitter.com/tsukumosana"
     },
     "tags": [
       "ホロライブ"
@@ -768,9 +1053,13 @@
   },
   {
     "name": "春先のどか",
-    "links": {
+    "allLinks": {
       "YouTube": "https://www.youtube.com/channel/UCJFZiqLMntJufDCHc6bQixg",
       "X": "https://twitter.com/harusakinodoka"
+    },
+    "links": {
+      "youtube": "https://www.youtube.com/channel/UCJFZiqLMntJufDCHc6bQixg",
+      "twitter": "https://twitter.com/harusakinodoka"
     },
     "tags": [
       "ホロライブ"
@@ -778,9 +1067,13 @@
   },
   {
     "name": "【退職】友人A（えーちゃん）",
-    "links": {
+    "allLinks": {
       "YouTube": "https://www.youtube.com/channel/UCJFZiqLMntJufDCHc6bQixg",
       "X": "https://twitter.com/achan_UGA"
+    },
+    "links": {
+      "youtube": "https://www.youtube.com/channel/UCJFZiqLMntJufDCHc6bQixg",
+      "twitter": "https://twitter.com/achan_UGA"
     },
     "tags": [
       "ホロライブ"

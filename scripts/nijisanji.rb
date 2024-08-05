@@ -30,9 +30,10 @@ def get_liver_detail(build_id, liver_id)
   detail = hash['pageProps']['liverDetail']
 
   name = detail['name']
-  links = detail['socialLinks'].except('fieldId')
+  allLinks = detail['socialLinks'].except('fieldId')
+  links = create_link_map(allLinks.values).slice(*%w[twitter youtube bilibili twitch])
 
-  { name: name, links: links, tags: [GROUP_NAME] }
+  { name: name, allLinks: allLinks, links: links, tags: [GROUP_NAME] }
 end
 
 def main
