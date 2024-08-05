@@ -50,7 +50,7 @@ def main
   len = streamer_list.length
   result = streamer_list.map.with_index(1) do |streamer, i|
     id = streamer['slug']
-    puts format("   * [#{Time.now}] %03d/%03d (%.2f%%) parsing: %s", i, len, i.to_f / len, id)
+    puts format("   * [#{Time.now}] [#{GROUP_NAME}] %03d/%03d (%.2f%%) parsing: %s", i, len, i.to_f / len, id)
     get_streamer_detail(build_id, id)
   end
 

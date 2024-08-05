@@ -31,14 +31,14 @@ def get_streamer_detail(url)
 end
 
 def main
-  puts " * [#{Time.now}] start retrieving #{GROUP_NAME} data..."
+  puts " * [#{Time.now}] [#{GROUP_NAME}] Starting to retrieve data..."
 
   streamer_list = get_streamer_list
-  puts " * [#{Time.now}] parse streamer list completed."
+  puts " * [#{Time.now}] [#{GROUP_NAME}] Parsing Streamer list completed."
 
   len = streamer_list.length
   result = streamer_list.map.with_index(1) do |url, i|
-    puts format("   * [#{Time.now}] %03d/%03d (%.2f%%) parsing: %s", i, len, i.to_f / len, url)
+    puts format("   * [#{Time.now}] [#{GROUP_NAME}] %03d/%03d (%.2f%%) parsing: %s", i, len, i.to_f / len, url)
     get_streamer_detail(url)
   end
 
@@ -47,7 +47,7 @@ def main
     file.write(JSON.pretty_generate(result))
   end
 
-  puts " * [#{Time.now}] retrieving #{GROUP_NAME} data completed!"
+  puts " * [#{Time.now}] [#{GROUP_NAME}] Data retrieval completed!"
 end
 
 puts main
