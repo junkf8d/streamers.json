@@ -30,6 +30,6 @@ def create_link_map(url_list)
   url_list.map do |url|
     key = URI.parse(url).hostname.split('.')[-2]
     key = 'twitter' if key == 'x'
-    [key, url]
+    [key, url.sub(/\?.+?$/, '')]
   end.to_h
 end
