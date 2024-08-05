@@ -16,17 +16,17 @@ def fetch_build_id
   script_tag['src'].match(%r{/_next/static/([^/]+)/_buildManifest\.js})[1]
 end
 
-def get_liver_list(build_id)
+def get_streamer_list(build_id)
   url = "https://www.nijisanji.jp/_next/data/#{build_id}/ja/talents.json"
   json = retrieve_and_cache(url)
   hash = JSON[json]
   hash['pageProps']['allLivers']
 end
 
-def get_liver_detail(build_id, liver_id)
-  url = "https://www.nijisanji.jp/talents/l/#{liver_id}"
+def get_streamer_detail(build_id, streamer_id)
+  url = "https://www.nijisanji.jp/talents/l/#{streamer_id}"
 
-  json_url = "https://www.nijisanji.jp/_next/data/#{build_id}/ja/talents/l/#{liver_id}.json"
+  json_url = "https://www.nijisanji.jp/_next/data/#{build_id}/ja/talents/l/#{streamer_id}.json"
   json = retrieve_and_cache(json_url)
   hash = JSON[json]
   detail = hash['pageProps']['liverDetail']
@@ -41,17 +41,17 @@ def get_liver_detail(build_id, liver_id)
 end
 
 def main
-  puts " * [#{Time.now}] start retrieving #{GROUP_NAME} data..."
+  puts " * [#{Time.now}] [#{GROUP_NAME}] Starting to retrieve data..."
 
   build_id = fetch_build_id
-  liver_list = get_liver_list(build_id)
-  puts " * [#{Time.now}] parse liver list completed."
+  streamer_list = get_streamer_list(build_id)
+  puts " * [#{Time.now}] [#{GROUP_NAME}] Parsing Streamer list completed."
 
-  len = liver_list.length
-  result = liver_list.map.with_index(1) do |liver, i|
-    id = liver['slug']
+  len = streamer_list.length
+  result = streamer_list.map.with_index(1) do |streamer, i|
+    id = streamer['slug']
     puts format("   * [#{Time.now}] %03d/%03d (%.2f%%) parsing: %s", i, len, i.to_f / len, id)
-    get_liver_detail(build_id, id)
+    get_streamer_detail(build_id, id)
   end
 
   file_path = File.join(RESULT_DIR, "#{GROUP_SLUG}.json")
@@ -59,7 +59,7 @@ def main
     file.write(JSON.pretty_generate(result))
   end
 
-  puts " * [#{Time.now}] retrieving #{GROUP_NAME} data completed!"
+  puts " * [#{Time.now}] [#{GROUP_NAME}] Data retrieval completed!"
 end
 
 main

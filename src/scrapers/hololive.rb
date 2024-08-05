@@ -7,14 +7,14 @@ require_relative '../common'
 GROUP_NAME = 'ホロライブ'
 GROUP_SLUG = 'hololive'
 
-def get_liver_list
+def get_streamer_list
   url = 'https://hololive.hololivepro.com/talents/'
   html = retrieve_and_cache(url, extension: '.html')
   doc = Nokogiri::HTML.parse(html)
   doc.css('.talent_list > li').map { |li| li.at_css('a')['href'] }
 end
 
-def get_liver_detail(url)
+def get_streamer_detail(url)
   html = retrieve_and_cache(url)
   doc = Nokogiri::HTML.parse(html)
 
@@ -33,13 +33,13 @@ end
 def main
   puts " * [#{Time.now}] start retrieving #{GROUP_NAME} data..."
 
-  liver_list = get_liver_list
-  puts " * [#{Time.now}] parse liver list completed."
+  streamer_list = get_streamer_list
+  puts " * [#{Time.now}] parse streamer list completed."
 
-  len = liver_list.length
-  result = liver_list.map.with_index(1) do |url, i|
+  len = streamer_list.length
+  result = streamer_list.map.with_index(1) do |url, i|
     puts format("   * [#{Time.now}] %03d/%03d (%.2f%%) parsing: %s", i, len, i.to_f / len, url)
-    get_liver_detail(url)
+    get_streamer_detail(url)
   end
 
   file_path = File.join(RESULT_DIR, "#{GROUP_SLUG}.json")
