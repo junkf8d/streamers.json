@@ -52,4 +52,4 @@ def main
   puts " * [#{Time.now}] [#{GROUP_NAME}] Data retrieval completed!"
 end
 
-puts main
+main
