@@ -11,9 +11,14 @@ RESULT_DIR = File.expand_path('../results', __dir__)
 # 今日の日付のフォルダからキャッシュを読むか、ダウンロードしてくる
 # ファイルパスの指定をかなり適当にやってるのでエラーになる場合はこのメソッド使わないこと
 # urlからそのままファイルパスを作るのでhttps://foo.com/bar/をダウンロードしたいときは保存したい拡張子を指定すること (そのままだとbarフォルダと被るため)
-def retrieve_and_cache(url, extension: '', cache: true)
+def retrieve_and_cache(url, extension: '', cache: true, replace: {})
   uri = URI.parse(url)
   uri_path = "#{uri.host}#{uri.path}".gsub(/[\\:*?"<>|]/, '_').sub(%r{/$}, '')
+
+  # パスとして保存したくない文字列を置換
+  replace.each do |k, v|
+    uri_path = uri_path.sub(k, v)
+  end
 
   path = File.join(CACHE_DIR, uri_path + extension)
   return File.read(path) if File.exist?(path) && cache

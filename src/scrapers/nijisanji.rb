@@ -11,7 +11,7 @@ UPDATE_LIST = ARGV[0] == 'update_list'
 
 def fetch_build_id
   url = 'https://www.nijisanji.jp/talents'
-  html = retrieve_and_cache(url)
+  html = retrieve_and_cache(url, extension: '.html', cache: !UPDATE_LIST)
   doc = Nokogiri::HTML.parse(html)
 
   script_tag = doc.at_xpath('//script[contains(@src, "/_next/static/") and contains(@src, "_buildManifest.js")]')
@@ -20,7 +20,7 @@ end
 
 def get_streamer_list(build_id)
   url = "https://www.nijisanji.jp/_next/data/#{build_id}/ja/talents.json"
-  json = retrieve_and_cache(url, cache: !UPDATE_LIST)
+  json = retrieve_and_cache(url, cache: !UPDATE_LIST, replace: { build_id => '_' })
   hash = JSON[json]
   hash['pageProps']['allLivers']
 end
@@ -29,7 +29,7 @@ def get_streamer_detail(build_id, streamer_id)
   url = "https://www.nijisanji.jp/talents/l/#{streamer_id}"
 
   json_url = "https://www.nijisanji.jp/_next/data/#{build_id}/ja/talents/l/#{streamer_id}.json"
-  json = retrieve_and_cache(json_url)
+  json = retrieve_and_cache(json_url, replace: { build_id => '_' })
   hash = JSON[json]
   detail = hash['pageProps']['liverDetail']
 
