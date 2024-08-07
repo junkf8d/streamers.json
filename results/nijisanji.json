@@ -1,68 +1,69 @@
 [
   {
-    "name": "壱百満天原サロメ",
+    "name": "える",
     "allLinks": {
-      "twitter": "https://twitter.com/1000000lome",
-      "youtube": "https://www.youtube.com/channel/UCgIfLpQvelloDi8I0Ycbwpg",
-      "fanclub": "https://www.nijisanji.jp/fanclubs/hyakumantenbara-salome",
-      "officialShop": "https://shop.nijisanji.jp/s/niji/group/list/115/item?ima=2938"
+      "twitter": "https://twitter.com/elu_world",
+      "youtube": "https://www.youtube.com/channel/UCYKP16oMX9KKPbrNgo_Kgag",
+      "fanclub": "https://www.nijisanji.jp/fanclubs/elu",
+      "officialShop": "https://shop.nijisanji.jp/s/niji/group/list/005/item"
     },
     "links": {
-      "twitter": "https://twitter.com/1000000lome",
-      "youtube": "https://www.youtube.com/channel/UCgIfLpQvelloDi8I0Ycbwpg"
+      "twitter": "https://twitter.com/elu_world",
+      "youtube": "https://www.youtube.com/channel/UCYKP16oMX9KKPbrNgo_Kgag"
     },
     "tags": [
       "にじさんじ"
     ],
-    "page": "https://www.nijisanji.jp/talents/l/salome-hyakumantenbara"
+    "page": "https://www.nijisanji.jp/talents/l/elu"
   },
   {
-    "name": "葛葉",
+    "name": "静凛",
     "allLinks": {
-      "twitter": "https://twitter.com/vamp_kuzu",
-      "youtube": "https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g",
-      "officialShop": "https://shop.nijisanji.jp/s/niji/group/list/036/item"
+      "twitter": "https://twitter.com/ShizuRin23",
+      "youtube": "https://www.youtube.com/channel/UC6oDys1BGgBsIC3WhG1BovQ",
+      "officialShop": "https://shop.nijisanji.jp/s/niji/group/list/008/item"
     },
     "links": {
-      "twitter": "https://twitter.com/vamp_kuzu",
-      "youtube": "https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g"
+      "twitter": "https://twitter.com/ShizuRin23",
+      "youtube": "https://www.youtube.com/channel/UC6oDys1BGgBsIC3WhG1BovQ"
     },
     "tags": [
       "にじさんじ"
     ],
-    "page": "https://www.nijisanji.jp/talents/l/kuzuha"
+    "page": "https://www.nijisanji.jp/talents/l/rin-shizuka"
   },
   {
-    "name": "ヴォックス・アクマ",
+    "name": "渋谷ハジメ",
     "allLinks": {
-      "twitter": "https://twitter.com/Vox_Akuma",
-      "youtube": "https://www.youtube.com/channel/UCckdfYDGrjojJM28n5SHYrA"
+      "twitter": "https://twitter.com/sibuya_hajime",
+      "youtube": "https://www.youtube.com/channel/UCeK9HFcRZoTrvqcUCtccMoQ",
+      "officialShop": "https://shop.nijisanji.jp/s/niji/group/list/001/item"
     },
     "links": {
-      "twitter": "https://twitter.com/Vox_Akuma",
-      "youtube": "https://www.youtube.com/channel/UCckdfYDGrjojJM28n5SHYrA"
-    },
-    "tags": [
-      "にじさんじ",
-      "NIJISANJI EN"
-    ],
-    "page": "https://www.nijisanji.jp/talents/l/vox-akuma"
-  },
-  {
-    "name": "叶",
-    "allLinks": {
-      "twitter": "https://twitter.com/kanae_2434",
-      "youtube": "https://www.youtube.com/channel/UCspv01oxUFf_MTSipURRhkA",
-      "officialShop": "https://shop.nijisanji.jp/s/niji/group/list/019/item"
-    },
-    "links": {
-      "twitter": "https://twitter.com/kanae_2434",
-      "youtube": "https://www.youtube.com/channel/UCspv01oxUFf_MTSipURRhkA"
+      "twitter": "https://twitter.com/sibuya_hajime",
+      "youtube": "https://www.youtube.com/channel/UCeK9HFcRZoTrvqcUCtccMoQ"
     },
     "tags": [
       "にじさんじ"
     ],
-    "page": "https://www.nijisanji.jp/talents/l/kanae"
+    "page": "https://www.nijisanji.jp/talents/l/hajime-shibuya"
+  },
+  {
+    "name": "鈴谷アキ",
+    "allLinks": {
+      "twitter": "https://twitter.com/aki_suzuya",
+      "youtube": "https://www.youtube.com/channel/UCpnvhOIJ6BN-vPkYU9ls-Eg",
+      "fanclub": "https://www.nijisanji.jp/fanclubs/aki-suzuya",
+      "officialShop": "https://shop.nijisanji.jp/s/niji/group/list/003/item"
+    },
+    "links": {
+      "twitter": "https://twitter.com/aki_suzuya",
+      "youtube": "https://www.youtube.com/channel/UCpnvhOIJ6BN-vPkYU9ls-Eg"
+    },
+    "tags": [
+      "にじさんじ"
+    ],
+    "page": "https://www.nijisanji.jp/talents/l/aki-suzuya"
   },
   {
     "name": "月ノ美兎",
@@ -81,37 +82,87 @@
     "page": "https://www.nijisanji.jp/talents/l/mito-tsukino"
   },
   {
-    "name": "星川サラ",
+    "name": "樋口楓",
     "allLinks": {
-      "twitter": "https://twitter.com/Sara_Hoshikawa",
-      "youtube": "https://www.youtube.com/channel/UC9V3Y3_uzU5e-usObb6IE1w",
-      "fanclub": "https://www.nijisanji.jp/fanclubs/sara-hoshikawa",
-      "officialShop": "https://shop.nijisanji.jp/s/niji/group/list/082/item"
+      "twitter": "https://twitter.com/Higuchikaede",
+      "youtube": "https://www.youtube.com/channel/UCsg-YqdqQ-KFF0LNk23BY4A",
+      "fanclub": "https://www.nijisanji.jp/fanclubs/kaede-higuchi",
+      "officialShop": "https://shop.nijisanji.jp/s/niji/group/list/004/item"
     },
     "links": {
-      "twitter": "https://twitter.com/Sara_Hoshikawa",
-      "youtube": "https://www.youtube.com/channel/UC9V3Y3_uzU5e-usObb6IE1w"
+      "twitter": "https://twitter.com/Higuchikaede",
+      "youtube": "https://www.youtube.com/channel/UCsg-YqdqQ-KFF0LNk23BY4A"
     },
     "tags": [
       "にじさんじ"
     ],
-    "page": "https://www.nijisanji.jp/talents/l/sara-hoshikawa"
+    "page": "https://www.nijisanji.jp/talents/l/kaede-higuchi"
   },
   {
-    "name": "ルカ・カネシロ",
+    "name": "モイラ",
     "allLinks": {
-      "twitter": "https://twitter.com/Luca_Kaneshiro",
-      "youtube": "https://www.youtube.com/channel/UC7Gb7Uawe20QyFibhLl1lzA"
+      "twitter": "https://twitter.com/moiramoimoimoi",
+      "youtube": "https://www.youtube.com/channel/UCvmppcdYf4HOv-tFQhHHJMA",
+      "fanclub": "https://www.nijisanji.jp/fanclubs/moira",
+      "officialShop": "https://shop.nijisanji.jp/s/niji/group/list/002/item"
     },
     "links": {
-      "twitter": "https://twitter.com/Luca_Kaneshiro",
-      "youtube": "https://www.youtube.com/channel/UC7Gb7Uawe20QyFibhLl1lzA"
+      "twitter": "https://twitter.com/moiramoimoimoi",
+      "youtube": "https://www.youtube.com/channel/UCvmppcdYf4HOv-tFQhHHJMA"
     },
     "tags": [
-      "にじさんじ",
-      "NIJISANJI EN"
+      "にじさんじ"
     ],
-    "page": "https://www.nijisanji.jp/talents/l/luca-kaneshiro"
+    "page": "https://www.nijisanji.jp/talents/l/moira"
+  },
+  {
+    "name": "家長むぎ",
+    "allLinks": {
+      "twitter": "https://twitter.com/ienaga_mugi23",
+      "youtube": "https://www.youtube.com/channel/UC_GCs6GARLxEHxy1w40d6VQ",
+      "fanclub": "https://www.nijisanji.jp/fanclubs/ienaga-mugi",
+      "officialShop": "https://shop.nijisanji.jp/s/niji/group/list/009/item"
+    },
+    "links": {
+      "twitter": "https://twitter.com/ienaga_mugi23",
+      "youtube": "https://www.youtube.com/channel/UC_GCs6GARLxEHxy1w40d6VQ"
+    },
+    "tags": [
+      "にじさんじ"
+    ],
+    "page": "https://www.nijisanji.jp/talents/l/mugi-ienaga"
+  },
+  {
+    "name": "宇志海いちご",
+    "allLinks": {
+      "twitter": "https://twitter.com/ushimi_ichigo",
+      "youtube": "https://www.youtube.com/channel/UCmUjjW5zF1MMOhYUwwwQv9Q",
+      "officialShop": "https://shop.nijisanji.jp/s/niji/group/list/015/item"
+    },
+    "links": {
+      "twitter": "https://twitter.com/ushimi_ichigo",
+      "youtube": "https://www.youtube.com/channel/UCmUjjW5zF1MMOhYUwwwQv9Q"
+    },
+    "tags": [
+      "にじさんじ"
+    ],
+    "page": "https://www.nijisanji.jp/talents/l/ichigo-ushimi"
+  },
+  {
+    "name": "ギルザレンⅢ世",
+    "allLinks": {
+      "twitter": "https://twitter.com/gilzaren_iii",
+      "youtube": "https://www.youtube.com/channel/UCUzJ90o1EjqUbk2pBAy0_aw",
+      "officialShop": "https://shop.nijisanji.jp/s/niji/group/list/016/item"
+    },
+    "links": {
+      "twitter": "https://twitter.com/gilzaren_iii",
+      "youtube": "https://www.youtube.com/channel/UCUzJ90o1EjqUbk2pBAy0_aw"
+    },
+    "tags": [
+      "にじさんじ"
+    ],
+    "page": "https://www.nijisanji.jp/talents/l/gilzaren-iii"
   },
   {
     "name": "剣持刀也",
@@ -130,52 +181,279 @@
     "page": "https://www.nijisanji.jp/talents/l/toya-kenmochi"
   },
   {
-    "name": "不破湊",
+    "name": "伏見ガク",
     "allLinks": {
-      "twitter": "https://twitter.com/Fuwa_Minato",
-      "youtube": "https://www.youtube.com/channel/UC6wvdADTJ88OfIbJYIpAaDA",
-      "officialShop": "https://shop.nijisanji.jp/s/niji/group/list/088/item"
+      "twitter": "https://twitter.com/gaku_fushimi",
+      "youtube": "https://www.youtube.com/channel/UCXU7YYxy_iQd3ulXyO-zC2w",
+      "officialShop": "https://shop.nijisanji.jp/s/niji/group/list/011/item"
     },
     "links": {
-      "twitter": "https://twitter.com/Fuwa_Minato",
-      "youtube": "https://www.youtube.com/channel/UC6wvdADTJ88OfIbJYIpAaDA"
+      "twitter": "https://twitter.com/gaku_fushimi",
+      "youtube": "https://www.youtube.com/channel/UCXU7YYxy_iQd3ulXyO-zC2w"
     },
     "tags": [
       "にじさんじ"
     ],
-    "page": "https://www.nijisanji.jp/talents/l/minato-fuwa"
+    "page": "https://www.nijisanji.jp/talents/l/gaku-fushimi"
   },
   {
-    "name": "アイク・イーヴランド",
+    "name": "文野環",
     "allLinks": {
-      "twitter": "https://twitter.com/Ike_Eveland",
-      "youtube": "https://www.youtube.com/channel/UC4yNIKGvy-YUrwYupVdLDXA"
+      "twitter": "https://twitter.com/nekokan_chu",
+      "youtube": "https://www.youtube.com/channel/UCBiqkFJljoxAj10SoP2w2Cg",
+      "officialShop": "https://shop.nijisanji.jp/s/niji/group/list/017/item"
     },
     "links": {
-      "twitter": "https://twitter.com/Ike_Eveland",
-      "youtube": "https://www.youtube.com/channel/UC4yNIKGvy-YUrwYupVdLDXA"
+      "twitter": "https://twitter.com/nekokan_chu",
+      "youtube": "https://www.youtube.com/channel/UCBiqkFJljoxAj10SoP2w2Cg"
     },
     "tags": [
-      "にじさんじ",
-      "NIJISANJI EN"
+      "にじさんじ"
     ],
-    "page": "https://www.nijisanji.jp/talents/l/ike-eveland"
+    "page": "https://www.nijisanji.jp/talents/l/tamaki-fumino"
   },
   {
-    "name": "闇ノシュウ",
+    "name": "物述有栖",
     "allLinks": {
-      "twitter": "https://twitter.com/Shu_Yamino",
-      "youtube": "https://www.youtube.com/channel/UCG0rzBZV_QMP4MtWg6IjhEA"
+      "twitter": "https://twitter.com/alicemononobe",
+      "youtube": "https://www.youtube.com/channel/UCt0clH12Xk1-Ej5PXKGfdPA",
+      "fanclub": "https://www.nijisanji.jp/fanclubs/mononobe-alice",
+      "officialShop": "https://shop.nijisanji.jp/s/niji/group/list/013/item"
     },
     "links": {
-      "twitter": "https://twitter.com/Shu_Yamino",
-      "youtube": "https://www.youtube.com/channel/UCG0rzBZV_QMP4MtWg6IjhEA"
+      "twitter": "https://twitter.com/alicemononobe",
+      "youtube": "https://www.youtube.com/channel/UCt0clH12Xk1-Ej5PXKGfdPA"
     },
     "tags": [
-      "にじさんじ",
-      "NIJISANJI EN"
+      "にじさんじ"
     ],
-    "page": "https://www.nijisanji.jp/talents/l/shu-yamino"
+    "page": "https://www.nijisanji.jp/talents/l/alice-mononobe"
+  },
+  {
+    "name": "森中花咲",
+    "allLinks": {
+      "twitter": "https://twitter.com/kazakimorinaka",
+      "youtube": "https://www.youtube.com/channel/UCtpB6Bvhs1Um93ziEDACQ8g",
+      "officialShop": "https://shop.nijisanji.jp/s/niji/group/list/018/item"
+    },
+    "links": {
+      "twitter": "https://twitter.com/kazakimorinaka",
+      "youtube": "https://www.youtube.com/channel/UCtpB6Bvhs1Um93ziEDACQ8g"
+    },
+    "tags": [
+      "にじさんじ"
+    ],
+    "page": "https://www.nijisanji.jp/talents/l/kazaki-morinaka"
+  },
+  {
+    "name": "夕陽リリ",
+    "allLinks": {
+      "twitter": "https://twitter.com/yuuhi_riri",
+      "youtube": "https://www.youtube.com/channel/UC48jH1ul-6HOrcSSfoR02fQ",
+      "officialShop": "https://shop.nijisanji.jp/s/niji/group/list/010/item"
+    },
+    "links": {
+      "twitter": "https://twitter.com/yuuhi_riri",
+      "youtube": "https://www.youtube.com/channel/UC48jH1ul-6HOrcSSfoR02fQ"
+    },
+    "tags": [
+      "にじさんじ"
+    ],
+    "page": "https://www.nijisanji.jp/talents/l/riri-yuhi"
+  },
+  {
+    "name": "赤羽葉子",
+    "allLinks": {
+      "twitter": "https://twitter.com/youko_akabane",
+      "youtube": "https://www.youtube.com/channel/UCBi8YaVyZpiKWN3_Z0dCTfQ",
+      "officialShop": "https://shop.nijisanji.jp/s/niji/group/list/020/item"
+    },
+    "links": {
+      "twitter": "https://twitter.com/youko_akabane",
+      "youtube": "https://www.youtube.com/channel/UCBi8YaVyZpiKWN3_Z0dCTfQ"
+    },
+    "tags": [
+      "にじさんじ"
+    ],
+    "page": "https://www.nijisanji.jp/talents/l/youko-akabane"
+  },
+  {
+    "name": "叶",
+    "allLinks": {
+      "twitter": "https://twitter.com/kanae_2434",
+      "youtube": "https://www.youtube.com/channel/UCspv01oxUFf_MTSipURRhkA",
+      "officialShop": "https://shop.nijisanji.jp/s/niji/group/list/019/item"
+    },
+    "links": {
+      "twitter": "https://twitter.com/kanae_2434",
+      "youtube": "https://www.youtube.com/channel/UCspv01oxUFf_MTSipURRhkA"
+    },
+    "tags": [
+      "にじさんじ"
+    ],
+    "page": "https://www.nijisanji.jp/talents/l/kanae"
+  },
+  {
+    "name": "卯月コウ",
+    "allLinks": {
+      "twitter": "https://twitter.com/udukikohh",
+      "youtube": "https://www.youtube.com/channel/UC3lNFeJiTq6L3UWoz4g1e-A",
+      "officialShop": "https://shop.nijisanji.jp/s/niji/group/list/026/item"
+    },
+    "links": {
+      "twitter": "https://twitter.com/udukikohh",
+      "youtube": "https://www.youtube.com/channel/UC3lNFeJiTq6L3UWoz4g1e-A"
+    },
+    "tags": [
+      "にじさんじ"
+    ],
+    "page": "https://www.nijisanji.jp/talents/l/kou-uzuki"
+  },
+  {
+    "name": "シスター・クレア",
+    "allLinks": {
+      "twitter": "https://twitter.com/sistercleaire",
+      "youtube": "https://www.youtube.com/channel/UC1zFJrfEKvCixhsjNSb1toQ",
+      "fanclub": "https://www.nijisanji.jp/fanclubs/sister-claire",
+      "officialShop": "https://shop.nijisanji.jp/s/niji/group/list/022/item"
+    },
+    "links": {
+      "twitter": "https://twitter.com/sistercleaire",
+      "youtube": "https://www.youtube.com/channel/UC1zFJrfEKvCixhsjNSb1toQ"
+    },
+    "tags": [
+      "にじさんじ"
+    ],
+    "page": "https://www.nijisanji.jp/talents/l/sister-claire"
+  },
+  {
+    "name": "鈴木勝",
+    "allLinks": {
+      "twitter": "https://twitter.com/darkness_eater",
+      "youtube": "https://www.youtube.com/channel/UCryOPk2GZ1meIDt53tL30Tw",
+      "officialShop": "https://shop.nijisanji.jp/s/niji/group/list/027/item"
+    },
+    "links": {
+      "twitter": "https://twitter.com/darkness_eater",
+      "youtube": "https://www.youtube.com/channel/UCryOPk2GZ1meIDt53tL30Tw"
+    },
+    "tags": [
+      "にじさんじ"
+    ],
+    "page": "https://www.nijisanji.jp/talents/l/masaru-suzuki"
+  },
+  {
+    "name": "ドーラ",
+    "allLinks": {
+      "twitter": "https://twitter.com/___dola",
+      "youtube": "https://www.youtube.com/channel/UC53UDnhAAYwvNO7j_2Ju1cQ",
+      "officialShop": "https://shop.nijisanji.jp/s/niji/group/list/023/item"
+    },
+    "links": {
+      "twitter": "https://twitter.com/___dola",
+      "youtube": "https://www.youtube.com/channel/UC53UDnhAAYwvNO7j_2Ju1cQ"
+    },
+    "tags": [
+      "にじさんじ"
+    ],
+    "page": "https://www.nijisanji.jp/talents/l/dola"
+  },
+  {
+    "name": "轟京子",
+    "allLinks": {
+      "twitter": "https://twitter.com/kt_seeds",
+      "youtube": "https://www.youtube.com/channel/UCRV9d6YCYIMUszK-83TwxVA",
+      "officialShop": "https://shop.nijisanji.jp/s/niji/group/list/024/item"
+    },
+    "links": {
+      "twitter": "https://twitter.com/kt_seeds",
+      "youtube": "https://www.youtube.com/channel/UCRV9d6YCYIMUszK-83TwxVA"
+    },
+    "tags": [
+      "にじさんじ"
+    ],
+    "page": "https://www.nijisanji.jp/talents/l/kyoko-todoroki"
+  },
+  {
+    "name": "花畑チャイカ",
+    "allLinks": {
+      "twitter": "https://twitter.com/zulmihp1nlmot5y",
+      "youtube": "https://www.youtube.com/channel/UCsFn_ueskBkMCEyzCEqAOvg",
+      "officialShop": "https://shop.nijisanji.jp/s/niji/group/list/030/item"
+    },
+    "links": {
+      "twitter": "https://twitter.com/zulmihp1nlmot5y",
+      "youtube": "https://www.youtube.com/channel/UCsFn_ueskBkMCEyzCEqAOvg"
+    },
+    "tags": [
+      "にじさんじ"
+    ],
+    "page": "https://www.nijisanji.jp/talents/l/chaika-hanabatake"
+  },
+  {
+    "name": "社築",
+    "allLinks": {
+      "twitter": "https://twitter.com/846kizuq",
+      "youtube": "https://www.youtube.com/channel/UCKMYISTJAQ8xTplUPHiABlA",
+      "officialShop": "https://shop.nijisanji.jp/s/niji/group/list/021/item"
+    },
+    "links": {
+      "twitter": "https://twitter.com/846kizuq",
+      "youtube": "https://www.youtube.com/channel/UCKMYISTJAQ8xTplUPHiABlA"
+    },
+    "tags": [
+      "にじさんじ"
+    ],
+    "page": "https://www.nijisanji.jp/talents/l/kizuku-yashiro"
+  },
+  {
+    "name": "緑仙",
+    "allLinks": {
+      "twitter": "https://twitter.com/midori_2434",
+      "youtube": "https://www.youtube.com/channel/UCt5-0i4AVHXaWJrL8Wql3mw",
+      "fanclub": "https://www.nijisanji.jp/fanclubs/ryushen",
+      "officialShop": "https://shop.nijisanji.jp/s/niji/group/list/028/item"
+    },
+    "links": {
+      "twitter": "https://twitter.com/midori_2434",
+      "youtube": "https://www.youtube.com/channel/UCt5-0i4AVHXaWJrL8Wql3mw"
+    },
+    "tags": [
+      "にじさんじ"
+    ],
+    "page": "https://www.nijisanji.jp/talents/l/ryushen"
+  },
+  {
+    "name": "成瀬鳴",
+    "allLinks": {
+      "twitter": "https://twitter.com/narusenaru_2434",
+      "youtube": "https://www.youtube.com/channel/UCoM_XmK45j504hfUWvN06Qg",
+      "officialShop": "https://shop.nijisanji.jp/s/niji/group/list/031/item"
+    },
+    "links": {
+      "twitter": "https://twitter.com/narusenaru_2434",
+      "youtube": "https://www.youtube.com/channel/UCoM_XmK45j504hfUWvN06Qg"
+    },
+    "tags": [
+      "にじさんじ"
+    ],
+    "page": "https://www.nijisanji.jp/talents/l/naru-naruse"
+  },
+  {
+    "name": "春崎エアル",
+    "allLinks": {
+      "twitter": "https://twitter.com/harusakiair2434",
+      "youtube": "https://www.youtube.com/channel/UCtAvQ5U0aXyKwm2i4GqFgJg",
+      "officialShop": "https://shop.nijisanji.jp/s/niji/group/list/032/item"
+    },
+    "links": {
+      "twitter": "https://twitter.com/harusakiair2434",
+      "youtube": "https://www.youtube.com/channel/UCtAvQ5U0aXyKwm2i4GqFgJg"
+    },
+    "tags": [
+      "にじさんじ"
+    ],
+    "page": "https://www.nijisanji.jp/talents/l/air-harusaki"
   },
   {
     "name": "笹木咲",
@@ -195,20 +473,363 @@
     "page": "https://www.nijisanji.jp/talents/l/saku-sasaki"
   },
   {
-    "name": "リゼ・ヘルエスタ",
+    "name": "本間ひまわり",
     "allLinks": {
-      "twitter": "https://twitter.com/Lize_Helesta",
-      "youtube": "https://www.youtube.com/channel/UCZ1xuCK1kNmn5RzPYIZop3w",
-      "officialShop": "https://shop.nijisanji.jp/s/niji/group/list/061/item"
+      "twitter": "https://twitter.com/honmahimawari",
+      "youtube": "https://www.youtube.com/channel/UC0g1AE0DOjBYnLhkgoRWN1w",
+      "officialShop": "https://shop.nijisanji.jp/s/niji/group/list/034/item"
     },
     "links": {
-      "twitter": "https://twitter.com/Lize_Helesta",
-      "youtube": "https://www.youtube.com/channel/UCZ1xuCK1kNmn5RzPYIZop3w"
+      "twitter": "https://twitter.com/honmahimawari",
+      "youtube": "https://www.youtube.com/channel/UC0g1AE0DOjBYnLhkgoRWN1w"
     },
     "tags": [
       "にじさんじ"
     ],
-    "page": "https://www.nijisanji.jp/talents/l/lize-helesta"
+    "page": "https://www.nijisanji.jp/talents/l/himawari-honma"
+  },
+  {
+    "name": "葛葉",
+    "allLinks": {
+      "twitter": "https://twitter.com/vamp_kuzu",
+      "youtube": "https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g",
+      "officialShop": "https://shop.nijisanji.jp/s/niji/group/list/036/item"
+    },
+    "links": {
+      "twitter": "https://twitter.com/vamp_kuzu",
+      "youtube": "https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g"
+    },
+    "tags": [
+      "にじさんじ"
+    ],
+    "page": "https://www.nijisanji.jp/talents/l/kuzuha"
+  },
+  {
+    "name": "椎名唯華",
+    "allLinks": {
+      "twitter": "https://twitter.com/yuika_siina",
+      "youtube": "https://www.youtube.com/channel/UC_4tXjqecqox5Uc05ncxpxg",
+      "fanclub": "https://www.nijisanji.jp/fanclubs/yuika-shiina",
+      "officialShop": "https://shop.nijisanji.jp/s/niji/group/list/037/item"
+    },
+    "links": {
+      "twitter": "https://twitter.com/yuika_siina",
+      "youtube": "https://www.youtube.com/channel/UC_4tXjqecqox5Uc05ncxpxg"
+    },
+    "tags": [
+      "にじさんじ"
+    ],
+    "page": "https://www.nijisanji.jp/talents/l/yuika-shiina"
+  },
+  {
+    "name": "魔界ノりりむ",
+    "allLinks": {
+      "twitter": "https://twitter.com/makaino_ririmu",
+      "youtube": "https://www.youtube.com/channel/UC9EjSJ8pvxtvPdxLOElv73w",
+      "officialShop": "https://shop.nijisanji.jp/s/niji/group/list/035/item"
+    },
+    "links": {
+      "twitter": "https://twitter.com/makaino_ririmu",
+      "youtube": "https://www.youtube.com/channel/UC9EjSJ8pvxtvPdxLOElv73w"
+    },
+    "tags": [
+      "にじさんじ"
+    ],
+    "page": "https://www.nijisanji.jp/talents/l/makaino-ririmu"
+  },
+  {
+    "name": "飛鳥ひな",
+    "allLinks": {
+      "twitter": "https://twitter.com/hina__asuka",
+      "youtube": "https://www.youtube.com/channel/UCiSRx1a2k-0tOg-fs6gAolQ",
+      "officialShop": "https://shop.nijisanji.jp/s/niji/group/list/042/item"
+    },
+    "links": {
+      "twitter": "https://twitter.com/hina__asuka",
+      "youtube": "https://www.youtube.com/channel/UCiSRx1a2k-0tOg-fs6gAolQ"
+    },
+    "tags": [
+      "にじさんじ"
+    ],
+    "page": "https://www.nijisanji.jp/talents/l/hina-asuka"
+  },
+  {
+    "name": "雨森小夜",
+    "allLinks": {
+      "twitter": "https://twitter.com/sayo_amemori",
+      "youtube": "https://www.youtube.com/channel/UCRWOdwLRsenx2jLaiCAIU4A",
+      "officialShop": "https://shop.nijisanji.jp/s/niji/group/list/041/item"
+    },
+    "links": {
+      "twitter": "https://twitter.com/sayo_amemori",
+      "youtube": "https://www.youtube.com/channel/UCRWOdwLRsenx2jLaiCAIU4A"
+    },
+    "tags": [
+      "にじさんじ"
+    ],
+    "page": "https://www.nijisanji.jp/talents/l/sayo-amemori"
+  },
+  {
+    "name": "神田笑一",
+    "allLinks": {
+      "twitter": "https://twitter.com/kanda_shoichi",
+      "youtube": "https://www.youtube.com/channel/UCWz0CSYCxf4MhRKPDm220AQ",
+      "fanclub": "https://www.nijisanji.jp/fanclubs/shoichi-kanda",
+      "officialShop": "https://shop.nijisanji.jp/s/niji/group/list/040/item"
+    },
+    "links": {
+      "twitter": "https://twitter.com/kanda_shoichi",
+      "youtube": "https://www.youtube.com/channel/UCWz0CSYCxf4MhRKPDm220AQ"
+    },
+    "tags": [
+      "にじさんじ"
+    ],
+    "page": "https://www.nijisanji.jp/talents/l/shoichi-kanda"
+  },
+  {
+    "name": "鷹宮リオン",
+    "allLinks": {
+      "twitter": "https://twitter.com/takamiyarion",
+      "youtube": "https://www.youtube.com/channel/UCV5ZZlLjk5MKGg3L0n0vbzw",
+      "fanclub": "https://www.nijisanji.jp/fanclubs/rion-takamiya",
+      "officialShop": "https://shop.nijisanji.jp/s/niji/group/list/038/item"
+    },
+    "links": {
+      "twitter": "https://twitter.com/takamiyarion",
+      "youtube": "https://www.youtube.com/channel/UCV5ZZlLjk5MKGg3L0n0vbzw"
+    },
+    "tags": [
+      "にじさんじ"
+    ],
+    "page": "https://www.nijisanji.jp/talents/l/rion-takamiya"
+  },
+  {
+    "name": "舞元啓介",
+    "allLinks": {
+      "twitter": "https://twitter.com/maimoto_k",
+      "youtube": "https://www.youtube.com/channel/UCJubINhCcFXlsBwnHp0wl_g",
+      "officialShop": "https://shop.nijisanji.jp/s/niji/group/list/039/item"
+    },
+    "links": {
+      "twitter": "https://twitter.com/maimoto_k",
+      "youtube": "https://www.youtube.com/channel/UCJubINhCcFXlsBwnHp0wl_g"
+    },
+    "tags": [
+      "にじさんじ"
+    ],
+    "page": "https://www.nijisanji.jp/talents/l/keisuke-maimoto"
+  },
+  {
+    "name": "桜凛月",
+    "allLinks": {
+      "twitter": "https://twitter.com/sakura_ritsuki",
+      "youtube": "https://www.youtube.com/channel/UCfQVs_KuXeNAlGa3fb8rlnQ",
+      "officialShop": "https://shop.nijisanji.jp/s/niji/group/list/045/item"
+    },
+    "links": {
+      "twitter": "https://twitter.com/sakura_ritsuki",
+      "youtube": "https://www.youtube.com/channel/UCfQVs_KuXeNAlGa3fb8rlnQ"
+    },
+    "tags": [
+      "にじさんじ"
+    ],
+    "page": "https://www.nijisanji.jp/talents/l/ritsuki-sakura"
+  },
+  {
+    "name": "ジョー・力一",
+    "allLinks": {
+      "twitter": "https://twitter.com/joerikiichi",
+      "youtube": "https://www.youtube.com/channel/UChUJbHiTVeGrSkTdBzVfNCQ",
+      "officialShop": "https://shop.nijisanji.jp/s/niji/group/list/047/item"
+    },
+    "links": {
+      "twitter": "https://twitter.com/joerikiichi",
+      "youtube": "https://www.youtube.com/channel/UChUJbHiTVeGrSkTdBzVfNCQ"
+    },
+    "tags": [
+      "にじさんじ"
+    ],
+    "page": "https://www.nijisanji.jp/talents/l/joe-rikiichi"
+  },
+  {
+    "name": "でびでび・でびる",
+    "allLinks": {
+      "twitter": "https://twitter.com/debidebiru_sama",
+      "youtube": "https://www.youtube.com/channel/UCjlmCrq4TP1I4xguOtJ-31w",
+      "officialShop": "https://shop.nijisanji.jp/s/niji/group/list/044/item"
+    },
+    "links": {
+      "twitter": "https://twitter.com/debidebiru_sama",
+      "youtube": "https://www.youtube.com/channel/UCjlmCrq4TP1I4xguOtJ-31w"
+    },
+    "tags": [
+      "にじさんじ"
+    ],
+    "page": "https://www.nijisanji.jp/talents/l/debidebi-debiru"
+  },
+  {
+    "name": "町田ちま",
+    "allLinks": {
+      "twitter": "https://twitter.com/chima_machita23",
+      "youtube": "https://www.youtube.com/channel/UCo7TRj3cS-f_1D9ZDmuTsjw",
+      "officialShop": "https://shop.nijisanji.jp/s/niji/group/list/046/item"
+    },
+    "links": {
+      "twitter": "https://twitter.com/chima_machita23",
+      "youtube": "https://www.youtube.com/channel/UCo7TRj3cS-f_1D9ZDmuTsjw"
+    },
+    "tags": [
+      "にじさんじ"
+    ],
+    "page": "https://www.nijisanji.jp/talents/l/chima-machita"
+  },
+  {
+    "name": "竜胆尊",
+    "allLinks": {
+      "twitter": "https://twitter.com/rindoumikoto",
+      "youtube": "https://www.youtube.com/channel/UCPvGypSgfDkVe7JG2KygK7A",
+      "officialShop": "https://shop.nijisanji.jp/s/niji/group/list/043/item"
+    },
+    "links": {
+      "twitter": "https://twitter.com/rindoumikoto",
+      "youtube": "https://www.youtube.com/channel/UCPvGypSgfDkVe7JG2KygK7A"
+    },
+    "tags": [
+      "にじさんじ"
+    ],
+    "page": "https://www.nijisanji.jp/talents/l/mikoto-rindou"
+  },
+  {
+    "name": "黒井しば",
+    "allLinks": {
+      "twitter": "https://twitter.com/blackshiba_chan",
+      "youtube": "https://www.youtube.com/channel/UCmeyo5pRj_6PXG-CsGUuWWg",
+      "officialShop": "https://shop.nijisanji.jp/s/niji/group/list/049/item"
+    },
+    "links": {
+      "twitter": "https://twitter.com/blackshiba_chan",
+      "youtube": "https://www.youtube.com/channel/UCmeyo5pRj_6PXG-CsGUuWWg"
+    },
+    "tags": [
+      "にじさんじ"
+    ],
+    "page": "https://www.nijisanji.jp/talents/l/shiba-kuroi"
+  },
+  {
+    "name": "ベルモンド・バンデラス",
+    "allLinks": {
+      "twitter": "https://twitter.com/belmond_b_2434",
+      "youtube": "https://www.youtube.com/channel/UCbc8fwhdUNlqi-J99ISYu4A",
+      "officialShop": "https://shop.nijisanji.jp/s/niji/group/list/051/item"
+    },
+    "links": {
+      "twitter": "https://twitter.com/belmond_b_2434",
+      "youtube": "https://www.youtube.com/channel/UCbc8fwhdUNlqi-J99ISYu4A"
+    },
+    "tags": [
+      "にじさんじ"
+    ],
+    "page": "https://www.nijisanji.jp/talents/l/belmond-banderas"
+  },
+  {
+    "name": "矢車りね",
+    "allLinks": {
+      "twitter": "https://twitter.com/rine_yaguruma",
+      "youtube": "https://www.youtube.com/channel/UCvzVB-EYuHFXHZrObB8a_Og",
+      "officialShop": "https://shop.nijisanji.jp/s/niji/group/list/050/item"
+    },
+    "links": {
+      "twitter": "https://twitter.com/rine_yaguruma",
+      "youtube": "https://www.youtube.com/channel/UCvzVB-EYuHFXHZrObB8a_Og"
+    },
+    "tags": [
+      "にじさんじ"
+    ],
+    "page": "https://www.nijisanji.jp/talents/l/rine-yaguruma"
+  },
+  {
+    "name": "夢追翔",
+    "allLinks": {
+      "twitter": "https://twitter.com/kakeru_yumeoi",
+      "youtube": "https://www.youtube.com/channel/UCTIE7LM5X15NVugV7Krp9Hw",
+      "fanclub": "https://www.nijisanji.jp/fanclubs/kakeru-yumeoi",
+      "officialShop": "https://shop.nijisanji.jp/s/niji/group/list/048/item"
+    },
+    "links": {
+      "twitter": "https://twitter.com/kakeru_yumeoi",
+      "youtube": "https://www.youtube.com/channel/UCTIE7LM5X15NVugV7Krp9Hw"
+    },
+    "tags": [
+      "にじさんじ"
+    ],
+    "page": "https://www.nijisanji.jp/talents/l/kakeru-yumeoi"
+  },
+  {
+    "name": "夢月ロア",
+    "allLinks": {
+      "twitter": "https://twitter.com/yuzuki_roa",
+      "youtube": "https://www.youtube.com/channel/UCCVwhI5trmaSxfcze_Ovzfw",
+      "fanclub": "https://www.nijisanji.jp/fanclubs/roa-yuzuki",
+      "officialShop": "https://shop.nijisanji.jp/s/niji/group/list/053/item"
+    },
+    "links": {
+      "twitter": "https://twitter.com/yuzuki_roa",
+      "youtube": "https://www.youtube.com/channel/UCCVwhI5trmaSxfcze_Ovzfw"
+    },
+    "tags": [
+      "にじさんじ"
+    ],
+    "page": "https://www.nijisanji.jp/talents/l/roa-yuzuki"
+  },
+  {
+    "name": "小野町春香",
+    "allLinks": {
+      "twitter": "https://twitter.com/onomachi_haruka",
+      "youtube": "https://www.youtube.com/channel/UCg63a3lk6PNeWhVvMRM_mrQ",
+      "fanclub": "https://www.nijisanji.jp/fanclubs/onomachi-haruka",
+      "officialShop": "https://shop.nijisanji.jp/s/niji/group/list/055/item"
+    },
+    "links": {
+      "twitter": "https://twitter.com/onomachi_haruka",
+      "youtube": "https://www.youtube.com/channel/UCg63a3lk6PNeWhVvMRM_mrQ"
+    },
+    "tags": [
+      "にじさんじ"
+    ],
+    "page": "https://www.nijisanji.jp/talents/l/haruka-onomachi"
+  },
+  {
+    "name": "語部紡",
+    "allLinks": {
+      "twitter": "https://twitter.com/KataribeTsumugu",
+      "youtube": "https://www.youtube.com/channel/UCufQu4q65z63IgE4cfKs1BQ",
+      "officialShop": "https://shop.nijisanji.jp/s/niji/group/list/056/item"
+    },
+    "links": {
+      "twitter": "https://twitter.com/KataribeTsumugu",
+      "youtube": "https://www.youtube.com/channel/UCufQu4q65z63IgE4cfKs1BQ"
+    },
+    "tags": [
+      "にじさんじ"
+    ],
+    "page": "https://www.nijisanji.jp/talents/l/tsumugu-kataribe"
+  },
+  {
+    "name": "瀬戸美夜子",
+    "allLinks": {
+      "twitter": "https://twitter.com/seto_miyako",
+      "youtube": "https://www.youtube.com/channel/UCHK5wkevfaGrPr7j3g56Jmw",
+      "fanclub": "https://www.nijisanji.jp/fanclubs/seto-miyako",
+      "officialShop": "https://shop.nijisanji.jp/s/niji/group/list/057/item"
+    },
+    "links": {
+      "twitter": "https://twitter.com/seto_miyako",
+      "youtube": "https://www.youtube.com/channel/UCHK5wkevfaGrPr7j3g56Jmw"
+    },
+    "tags": [
+      "にじさんじ"
+    ],
+    "page": "https://www.nijisanji.jp/talents/l/miyako-seto"
   },
   {
     "name": "アンジュ・カトリーナ",
@@ -243,216 +864,37 @@
     "page": "https://www.nijisanji.jp/talents/l/toko-inui"
   },
   {
-    "name": "社築",
+    "name": "リゼ・ヘルエスタ",
     "allLinks": {
-      "twitter": "https://twitter.com/846kizuq",
-      "youtube": "https://www.youtube.com/channel/UCKMYISTJAQ8xTplUPHiABlA",
-      "officialShop": "https://shop.nijisanji.jp/s/niji/group/list/021/item"
+      "twitter": "https://twitter.com/Lize_Helesta",
+      "youtube": "https://www.youtube.com/channel/UCZ1xuCK1kNmn5RzPYIZop3w",
+      "officialShop": "https://shop.nijisanji.jp/s/niji/group/list/061/item"
     },
     "links": {
-      "twitter": "https://twitter.com/846kizuq",
-      "youtube": "https://www.youtube.com/channel/UCKMYISTJAQ8xTplUPHiABlA"
+      "twitter": "https://twitter.com/Lize_Helesta",
+      "youtube": "https://www.youtube.com/channel/UCZ1xuCK1kNmn5RzPYIZop3w"
     },
     "tags": [
       "にじさんじ"
     ],
-    "page": "https://www.nijisanji.jp/talents/l/kizuku-yashiro"
+    "page": "https://www.nijisanji.jp/talents/l/lize-helesta"
   },
   {
-    "name": "アルス・アルマル",
+    "name": "愛園愛美",
     "allLinks": {
-      "twitter": "https://twitter.com/ars_almal",
-      "youtube": "https://www.youtube.com/channel/UCdpUojq0KWZCN9bxXnZwz5w",
-      "fanclub": "https://www.nijisanji.jp/fanclubs/ars-almal",
-      "officialShop": "https://shop.nijisanji.jp/s/niji/group/list/074/item"
+      "twitter": "https://twitter.com/manami_aizono",
+      "youtube": "https://www.youtube.com/channel/UC0WwEfE-jOM2rzjpdfhTzZA",
+      "fanclub": "https://www.nijisanji.jp/fanclubs/aizono-manami",
+      "officialShop": "https://shop.nijisanji.jp/s/niji/group/list/062/item"
     },
     "links": {
-      "twitter": "https://twitter.com/ars_almal",
-      "youtube": "https://www.youtube.com/channel/UCdpUojq0KWZCN9bxXnZwz5w"
+      "twitter": "https://twitter.com/manami_aizono",
+      "youtube": "https://www.youtube.com/channel/UC0WwEfE-jOM2rzjpdfhTzZA"
     },
     "tags": [
       "にじさんじ"
     ],
-    "page": "https://www.nijisanji.jp/talents/l/ars-almal"
-  },
-  {
-    "name": "樋口楓",
-    "allLinks": {
-      "twitter": "https://twitter.com/Higuchikaede",
-      "youtube": "https://www.youtube.com/channel/UCsg-YqdqQ-KFF0LNk23BY4A",
-      "fanclub": "https://www.nijisanji.jp/fanclubs/kaede-higuchi",
-      "officialShop": "https://shop.nijisanji.jp/s/niji/group/list/004/item"
-    },
-    "links": {
-      "twitter": "https://twitter.com/Higuchikaede",
-      "youtube": "https://www.youtube.com/channel/UCsg-YqdqQ-KFF0LNk23BY4A"
-    },
-    "tags": [
-      "にじさんじ"
-    ],
-    "page": "https://www.nijisanji.jp/talents/l/kaede-higuchi"
-  },
-  {
-    "name": "椎名唯華",
-    "allLinks": {
-      "twitter": "https://twitter.com/yuika_siina",
-      "youtube": "https://www.youtube.com/channel/UC_4tXjqecqox5Uc05ncxpxg",
-      "fanclub": "https://www.nijisanji.jp/fanclubs/yuika-shiina",
-      "officialShop": "https://shop.nijisanji.jp/s/niji/group/list/037/item"
-    },
-    "links": {
-      "twitter": "https://twitter.com/yuika_siina",
-      "youtube": "https://www.youtube.com/channel/UC_4tXjqecqox5Uc05ncxpxg"
-    },
-    "tags": [
-      "にじさんじ"
-    ],
-    "page": "https://www.nijisanji.jp/talents/l/yuika-shiina"
-  },
-  {
-    "name": "加賀美ハヤト",
-    "allLinks": {
-      "twitter": "https://twitter.com/H_KAGAMI2434",
-      "youtube": "https://www.youtube.com/channel/UCmovZ2th3Sqpd00F5RdeigQ",
-      "officialShop": "https://shop.nijisanji.jp/s/niji/group/list/071/item"
-    },
-    "links": {
-      "twitter": "https://twitter.com/H_KAGAMI2434",
-      "youtube": "https://www.youtube.com/channel/UCmovZ2th3Sqpd00F5RdeigQ"
-    },
-    "tags": [
-      "にじさんじ"
-    ],
-    "page": "https://www.nijisanji.jp/talents/l/hayato-kagami"
-  },
-  {
-    "name": "本間ひまわり",
-    "allLinks": {
-      "twitter": "https://twitter.com/honmahimawari",
-      "youtube": "https://www.youtube.com/channel/UC0g1AE0DOjBYnLhkgoRWN1w",
-      "officialShop": "https://shop.nijisanji.jp/s/niji/group/list/034/item"
-    },
-    "links": {
-      "twitter": "https://twitter.com/honmahimawari",
-      "youtube": "https://www.youtube.com/channel/UC0g1AE0DOjBYnLhkgoRWN1w"
-    },
-    "tags": [
-      "にじさんじ"
-    ],
-    "page": "https://www.nijisanji.jp/talents/l/himawari-honma"
-  },
-  {
-    "name": "緑仙",
-    "allLinks": {
-      "twitter": "https://twitter.com/midori_2434",
-      "youtube": "https://www.youtube.com/channel/UCt5-0i4AVHXaWJrL8Wql3mw",
-      "fanclub": "https://www.nijisanji.jp/fanclubs/ryushen",
-      "officialShop": "https://shop.nijisanji.jp/s/niji/group/list/028/item"
-    },
-    "links": {
-      "twitter": "https://twitter.com/midori_2434",
-      "youtube": "https://www.youtube.com/channel/UCt5-0i4AVHXaWJrL8Wql3mw"
-    },
-    "tags": [
-      "にじさんじ"
-    ],
-    "page": "https://www.nijisanji.jp/talents/l/ryushen"
-  },
-  {
-    "name": "町田ちま",
-    "allLinks": {
-      "twitter": "https://twitter.com/chima_machita23",
-      "youtube": "https://www.youtube.com/channel/UCo7TRj3cS-f_1D9ZDmuTsjw",
-      "officialShop": "https://shop.nijisanji.jp/s/niji/group/list/046/item"
-    },
-    "links": {
-      "twitter": "https://twitter.com/chima_machita23",
-      "youtube": "https://www.youtube.com/channel/UCo7TRj3cS-f_1D9ZDmuTsjw"
-    },
-    "tags": [
-      "にじさんじ"
-    ],
-    "page": "https://www.nijisanji.jp/talents/l/chima-machita"
-  },
-  {
-    "name": "ローレン・イロアス",
-    "allLinks": {
-      "twitter": "https://twitter.com/Lauren_iroas",
-      "youtube": "https://www.youtube.com/channel/UCgmFrRcyH7d1zR9sIVQhFow",
-      "officialShop": "https://shop.nijisanji.jp/s/niji/group/list/109/item"
-    },
-    "links": {
-      "twitter": "https://twitter.com/Lauren_iroas",
-      "youtube": "https://www.youtube.com/channel/UCgmFrRcyH7d1zR9sIVQhFow"
-    },
-    "tags": [
-      "にじさんじ"
-    ],
-    "page": "https://www.nijisanji.jp/talents/l/lauren-iroas"
-  },
-  {
-    "name": "イブラヒム",
-    "allLinks": {
-      "twitter": "https://twitter.com/honmono_ibrahim",
-      "youtube": "https://www.youtube.com/channel/UCmZ1Rbthn-6Jm_qOGjYsh5A",
-      "officialShop": "https://shop.nijisanji.jp/s/niji/group/list/095/item"
-    },
-    "links": {
-      "twitter": "https://twitter.com/honmono_ibrahim",
-      "youtube": "https://www.youtube.com/channel/UCmZ1Rbthn-6Jm_qOGjYsh5A"
-    },
-    "tags": [
-      "にじさんじ"
-    ],
-    "page": "https://www.nijisanji.jp/talents/l/ibrahim"
-  },
-  {
-    "name": "アルバーン・ノックス",
-    "allLinks": {
-      "twitter": "https://twitter.com/alban_knox",
-      "youtube": "https://www.youtube.com/channel/UCQ1zGxHrfEmmW4CPpBx9-qw"
-    },
-    "links": {
-      "twitter": "https://twitter.com/alban_knox",
-      "youtube": "https://www.youtube.com/channel/UCQ1zGxHrfEmmW4CPpBx9-qw"
-    },
-    "tags": [
-      "にじさんじ",
-      "NIJISANJI EN"
-    ],
-    "page": "https://www.nijisanji.jp/talents/l/alban-knox"
-  },
-  {
-    "name": "フレン・E・ルスタリオ",
-    "allLinks": {
-      "twitter": "https://twitter.com/furen_2434",
-      "youtube": "https://www.youtube.com/channel/UCuep1JCrMvSxOGgGhBfJuYw",
-      "officialShop": "https://shop.nijisanji.jp/s/niji/group/list/094/item"
-    },
-    "links": {
-      "twitter": "https://twitter.com/furen_2434",
-      "youtube": "https://www.youtube.com/channel/UCuep1JCrMvSxOGgGhBfJuYw"
-    },
-    "tags": [
-      "にじさんじ"
-    ],
-    "page": "https://www.nijisanji.jp/talents/l/furen-e-lustario"
-  },
-  {
-    "name": "天宮こころ",
-    "allLinks": {
-      "twitter": "https://twitter.com/amamiya_kokoro",
-      "youtube": "https://www.youtube.com/channel/UCkIimWZ9gBJRamKF0rmPU8w",
-      "officialShop": "https://shop.nijisanji.jp/s/niji/group/list/076/item"
-    },
-    "links": {
-      "twitter": "https://twitter.com/amamiya_kokoro",
-      "youtube": "https://www.youtube.com/channel/UCkIimWZ9gBJRamKF0rmPU8w"
-    },
-    "tags": [
-      "にじさんじ"
-    ],
-    "page": "https://www.nijisanji.jp/talents/l/kokoro-amamiya"
+    "page": "https://www.nijisanji.jp/talents/l/manami-aizono"
   },
   {
     "name": "三枝明那",
@@ -471,641 +913,37 @@
     "page": "https://www.nijisanji.jp/talents/l/akina-saegusa"
   },
   {
-    "name": "エナー・アールウェット",
+    "name": "雪城眞尋",
     "allLinks": {
-      "twitter": "https://twitter.com/EnnaAlouette",
-      "youtube": "https://www.youtube.com/channel/UCR6qhsLpn62WVxCBK1dkLow"
+      "twitter": "https://twitter.com/mahiroyukishiro",
+      "youtube": "https://www.youtube.com/channel/UCHX7YpFG8rVwhsHCx34xt7w",
+      "fanclub": "https://www.nijisanji.jp/fanclubs/mahiro-yukishiro",
+      "officialShop": "https://shop.nijisanji.jp/s/niji/group/list/065/item"
     },
     "links": {
-      "twitter": "https://twitter.com/EnnaAlouette",
-      "youtube": "https://www.youtube.com/channel/UCR6qhsLpn62WVxCBK1dkLow"
+      "twitter": "https://twitter.com/mahiroyukishiro",
+      "youtube": "https://www.youtube.com/channel/UCHX7YpFG8rVwhsHCx34xt7w"
+    },
+    "tags": [
+      "にじさんじ"
+    ],
+    "page": "https://www.nijisanji.jp/talents/l/mahiro-yukishiro"
+  },
+  {
+    "name": "艾因",
+    "allLinks": {
+      "twitter": "https://twitter.com/VirtuaRealEine",
+      "bilibili": "https://space.bilibili.com/421267475"
+    },
+    "links": {
+      "twitter": "https://twitter.com/VirtuaRealEine",
+      "bilibili": "https://space.bilibili.com/421267475"
     },
     "tags": [
       "にじさんじ",
-      "NIJISANJI EN"
+      "VirtuaReal"
     ],
-    "page": "https://www.nijisanji.jp/talents/l/enna-alouette"
-  },
-  {
-    "name": "浮奇・ヴィオレタ",
-    "allLinks": {
-      "twitter": "https://twitter.com/uki_violeta",
-      "youtube": "https://www.youtube.com/channel/UChJ5FTsHOu72_5OVx0rvsvQ"
-    },
-    "links": {
-      "twitter": "https://twitter.com/uki_violeta",
-      "youtube": "https://www.youtube.com/channel/UChJ5FTsHOu72_5OVx0rvsvQ"
-    },
-    "tags": [
-      "にじさんじ",
-      "NIJISANJI EN"
-    ],
-    "page": "https://www.nijisanji.jp/talents/l/uki-violeta"
-  },
-  {
-    "name": "える",
-    "allLinks": {
-      "twitter": "https://twitter.com/elu_world",
-      "youtube": "https://www.youtube.com/channel/UCYKP16oMX9KKPbrNgo_Kgag",
-      "fanclub": "https://www.nijisanji.jp/fanclubs/elu",
-      "officialShop": "https://shop.nijisanji.jp/s/niji/group/list/005/item"
-    },
-    "links": {
-      "twitter": "https://twitter.com/elu_world",
-      "youtube": "https://www.youtube.com/channel/UCYKP16oMX9KKPbrNgo_Kgag"
-    },
-    "tags": [
-      "にじさんじ"
-    ],
-    "page": "https://www.nijisanji.jp/talents/l/elu"
-  },
-  {
-    "name": "甲斐田晴",
-    "allLinks": {
-      "twitter": "https://twitter.com/Kaida_Haru",
-      "youtube": "https://www.youtube.com/channel/UCo2N7C-Z91waaR6lF3LL_jw",
-      "officialShop": "https://shop.nijisanji.jp/s/niji/group/list/097/item"
-    },
-    "links": {
-      "twitter": "https://twitter.com/Kaida_Haru",
-      "youtube": "https://www.youtube.com/channel/UCo2N7C-Z91waaR6lF3LL_jw"
-    },
-    "tags": [
-      "にじさんじ"
-    ],
-    "page": "https://www.nijisanji.jp/talents/l/haru-kaida"
-  },
-  {
-    "name": "ラトナ・プティ",
-    "allLinks": {
-      "twitter": "https://twitter.com/ratna_petit",
-      "youtube": "https://www.youtube.com/channel/UCIG9rDtgR45VCZmYnd-4DUw",
-      "officialShop": "https://shop.nijisanji.jp/s/niji/group/list/078/item"
-    },
-    "links": {
-      "twitter": "https://twitter.com/ratna_petit",
-      "youtube": "https://www.youtube.com/channel/UCIG9rDtgR45VCZmYnd-4DUw"
-    },
-    "tags": [
-      "にじさんじ"
-    ],
-    "page": "https://www.nijisanji.jp/talents/l/ratna-petit"
-  },
-  {
-    "name": "ニュイ・ソシエール",
-    "allLinks": {
-      "twitter": "https://twitter.com/Nui_Sociere",
-      "youtube": "https://www.youtube.com/channel/UCUc8GZfFxtmk7ZwSO7ccQ0g",
-      "fanclub": "https://www.nijisanji.jp/fanclubs/nui-sociere",
-      "officialShop": "https://shop.nijisanji.jp/s/niji/group/list/069/item"
-    },
-    "links": {
-      "twitter": "https://twitter.com/Nui_Sociere",
-      "youtube": "https://www.youtube.com/channel/UCUc8GZfFxtmk7ZwSO7ccQ0g"
-    },
-    "tags": [
-      "にじさんじ"
-    ],
-    "page": "https://www.nijisanji.jp/talents/l/nui-sociere"
-  },
-  {
-    "name": "健屋花那",
-    "allLinks": {
-      "twitter": "https://twitter.com/sukosuko_sukoya",
-      "youtube": "https://www.youtube.com/channel/UC8C1LLhBhf_E2IBPLSDJXlQ",
-      "officialShop": "https://shop.nijisanji.jp/s/niji/group/list/080/item"
-    },
-    "links": {
-      "twitter": "https://twitter.com/sukosuko_sukoya",
-      "youtube": "https://www.youtube.com/channel/UC8C1LLhBhf_E2IBPLSDJXlQ"
-    },
-    "tags": [
-      "にじさんじ"
-    ],
-    "page": "https://www.nijisanji.jp/talents/l/kana-sukoya"
-  },
-  {
-    "name": "西園チグサ",
-    "allLinks": {
-      "twitter": "https://twitter.com/Chigusa_24zono",
-      "youtube": "https://www.youtube.com/channel/UCkngxfPbmGyGl_RIq4FA3MQ",
-      "officialShop": "https://shop.nijisanji.jp/s/niji/group/list/106/item"
-    },
-    "links": {
-      "twitter": "https://twitter.com/Chigusa_24zono",
-      "youtube": "https://www.youtube.com/channel/UCkngxfPbmGyGl_RIq4FA3MQ"
-    },
-    "tags": [
-      "にじさんじ"
-    ],
-    "page": "https://www.nijisanji.jp/talents/l/chigusa-nishizono"
-  },
-  {
-    "name": "竜胆尊",
-    "allLinks": {
-      "twitter": "https://twitter.com/rindoumikoto",
-      "youtube": "https://www.youtube.com/channel/UCPvGypSgfDkVe7JG2KygK7A",
-      "officialShop": "https://shop.nijisanji.jp/s/niji/group/list/043/item"
-    },
-    "links": {
-      "twitter": "https://twitter.com/rindoumikoto",
-      "youtube": "https://www.youtube.com/channel/UCPvGypSgfDkVe7JG2KygK7A"
-    },
-    "tags": [
-      "にじさんじ"
-    ],
-    "page": "https://www.nijisanji.jp/talents/l/mikoto-rindou"
-  },
-  {
-    "name": "でびでび・でびる",
-    "allLinks": {
-      "twitter": "https://twitter.com/debidebiru_sama",
-      "youtube": "https://www.youtube.com/channel/UCjlmCrq4TP1I4xguOtJ-31w",
-      "officialShop": "https://shop.nijisanji.jp/s/niji/group/list/044/item"
-    },
-    "links": {
-      "twitter": "https://twitter.com/debidebiru_sama",
-      "youtube": "https://www.youtube.com/channel/UCjlmCrq4TP1I4xguOtJ-31w"
-    },
-    "tags": [
-      "にじさんじ"
-    ],
-    "page": "https://www.nijisanji.jp/talents/l/debidebi-debiru"
-  },
-  {
-    "name": "シスター・クレア",
-    "allLinks": {
-      "twitter": "https://twitter.com/sistercleaire",
-      "youtube": "https://www.youtube.com/channel/UC1zFJrfEKvCixhsjNSb1toQ",
-      "fanclub": "https://www.nijisanji.jp/fanclubs/sister-claire",
-      "officialShop": "https://shop.nijisanji.jp/s/niji/group/list/022/item"
-    },
-    "links": {
-      "twitter": "https://twitter.com/sistercleaire",
-      "youtube": "https://www.youtube.com/channel/UC1zFJrfEKvCixhsjNSb1toQ"
-    },
-    "tags": [
-      "にじさんじ"
-    ],
-    "page": "https://www.nijisanji.jp/talents/l/sister-claire"
-  },
-  {
-    "name": "周央サンゴ",
-    "allLinks": {
-      "twitter": "https://twitter.com/Suo_Sango",
-      "youtube": "https://www.youtube.com/channel/UCL_O_HXgLJx3Auteer0n0pA",
-      "officialShop": "https://shop.nijisanji.jp/s/niji/group/list/103/item"
-    },
-    "links": {
-      "twitter": "https://twitter.com/Suo_Sango",
-      "youtube": "https://www.youtube.com/channel/UCL_O_HXgLJx3Auteer0n0pA"
-    },
-    "tags": [
-      "にじさんじ"
-    ],
-    "page": "https://www.nijisanji.jp/talents/l/sango-suo"
-  },
-  {
-    "name": "エリーラ ペンドラ",
-    "allLinks": {
-      "twitter": "https://twitter.com/EliraPendora",
-      "youtube": "https://www.youtube.com/channel/UCIeSUTOTkF9Hs7q3SGcO-Ow",
-      "reddit": "https://www.reddit.com/user/Elira_Pendora"
-    },
-    "links": {
-      "twitter": "https://twitter.com/EliraPendora",
-      "youtube": "https://www.youtube.com/channel/UCIeSUTOTkF9Hs7q3SGcO-Ow"
-    },
-    "tags": [
-      "にじさんじ",
-      "NIJISANJI EN"
-    ],
-    "page": "https://www.nijisanji.jp/talents/l/elira-pendora"
-  },
-  {
-    "name": "夜見れな",
-    "allLinks": {
-      "twitter": "https://twitter.com/rena_yorumi",
-      "youtube": "https://www.youtube.com/channel/UCL34fAoFim9oHLbVzMKFavQ",
-      "fanclub": "https://www.nijisanji.jp/fanclubs/yorumi-rena",
-      "officialShop": "https://shop.nijisanji.jp/s/niji/group/list/072/item"
-    },
-    "links": {
-      "twitter": "https://twitter.com/rena_yorumi",
-      "youtube": "https://www.youtube.com/channel/UCL34fAoFim9oHLbVzMKFavQ"
-    },
-    "tags": [
-      "にじさんじ"
-    ],
-    "page": "https://www.nijisanji.jp/talents/l/rena-yorumi"
-  },
-  {
-    "name": "サニー・ブリスコー",
-    "allLinks": {
-      "twitter": "https://twitter.com/sonny_brisko",
-      "youtube": "https://www.youtube.com/channel/UCuuAb_72QzK0M1USPMEl1yw"
-    },
-    "links": {
-      "twitter": "https://twitter.com/sonny_brisko",
-      "youtube": "https://www.youtube.com/channel/UCuuAb_72QzK0M1USPMEl1yw"
-    },
-    "tags": [
-      "にじさんじ",
-      "NIJISANJI EN"
-    ],
-    "page": "https://www.nijisanji.jp/talents/l/sonny-brisko"
-  },
-  {
-    "name": "ジョー・力一",
-    "allLinks": {
-      "twitter": "https://twitter.com/joerikiichi",
-      "youtube": "https://www.youtube.com/channel/UChUJbHiTVeGrSkTdBzVfNCQ",
-      "officialShop": "https://shop.nijisanji.jp/s/niji/group/list/047/item"
-    },
-    "links": {
-      "twitter": "https://twitter.com/joerikiichi",
-      "youtube": "https://www.youtube.com/channel/UChUJbHiTVeGrSkTdBzVfNCQ"
-    },
-    "tags": [
-      "にじさんじ"
-    ],
-    "page": "https://www.nijisanji.jp/talents/l/joe-rikiichi"
-  },
-  {
-    "name": "レン ゾット",
-    "allLinks": {
-      "twitter": "https://twitter.com/RenZott0",
-      "youtube": "https://www.youtube.com/channel/UCKu59gTZ_rdEmerdx5rV4Yg"
-    },
-    "links": {
-      "twitter": "https://twitter.com/RenZott0",
-      "youtube": "https://www.youtube.com/channel/UCKu59gTZ_rdEmerdx5rV4Yg"
-    },
-    "tags": [
-      "にじさんじ",
-      "NIJISANJI EN"
-    ],
-    "page": "https://www.nijisanji.jp/talents/l/ren-zotto"
-  },
-  {
-    "name": "ミリー・パフェ",
-    "allLinks": {
-      "twitter": "https://twitter.com/MillieParfait",
-      "youtube": "https://www.youtube.com/channel/UC47rNmkDcNgbOcM-2BwzJTQ"
-    },
-    "links": {
-      "twitter": "https://twitter.com/MillieParfait",
-      "youtube": "https://www.youtube.com/channel/UC47rNmkDcNgbOcM-2BwzJTQ"
-    },
-    "tags": [
-      "にじさんじ",
-      "NIJISANJI EN"
-    ],
-    "page": "https://www.nijisanji.jp/talents/l/millie-parfait"
-  },
-  {
-    "name": "ペトラ グリン",
-    "allLinks": {
-      "twitter": "https://twitter.com/Petra_Gurin",
-      "youtube": "https://www.youtube.com/channel/UCgA2jKRkqpY_8eysPUs8sjw",
-      "twitch": "https://www.twitch.tv/petragurin"
-    },
-    "links": {
-      "twitter": "https://twitter.com/Petra_Gurin",
-      "youtube": "https://www.youtube.com/channel/UCgA2jKRkqpY_8eysPUs8sjw",
-      "twitch": "https://www.twitch.tv/petragurin"
-    },
-    "tags": [
-      "にじさんじ",
-      "NIJISANJI EN"
-    ],
-    "page": "https://www.nijisanji.jp/talents/l/petra-gurin"
-  },
-  {
-    "name": "フィナーナ 竜宮",
-    "allLinks": {
-      "twitter": "https://twitter.com/FinanaRyugu",
-      "youtube": "https://www.youtube.com/channel/UCu-J8uIXuLZh16gG-cT1naw",
-      "reddit": "https://www.reddit.com/user/Finana_Ryugu"
-    },
-    "links": {
-      "twitter": "https://twitter.com/FinanaRyugu",
-      "youtube": "https://www.youtube.com/channel/UCu-J8uIXuLZh16gG-cT1naw"
-    },
-    "tags": [
-      "にじさんじ",
-      "NIJISANJI EN"
-    ],
-    "page": "https://www.nijisanji.jp/talents/l/finana-ryugu"
-  },
-  {
-    "name": "花畑チャイカ",
-    "allLinks": {
-      "twitter": "https://twitter.com/zulmihp1nlmot5y",
-      "youtube": "https://www.youtube.com/channel/UCsFn_ueskBkMCEyzCEqAOvg",
-      "officialShop": "https://shop.nijisanji.jp/s/niji/group/list/030/item"
-    },
-    "links": {
-      "twitter": "https://twitter.com/zulmihp1nlmot5y",
-      "youtube": "https://www.youtube.com/channel/UCsFn_ueskBkMCEyzCEqAOvg"
-    },
-    "tags": [
-      "にじさんじ"
-    ],
-    "page": "https://www.nijisanji.jp/talents/l/chaika-hanabatake"
-  },
-  {
-    "name": "葉山舞鈴",
-    "allLinks": {
-      "twitter": "https://twitter.com/Hayama_Marin",
-      "youtube": "https://www.youtube.com/channel/UCfipDDn7wY-C-SoUChgxCQQ",
-      "fanclub": "https://www.nijisanji.jp/fanclubs/marin-hayama",
-      "officialShop": "https://shop.nijisanji.jp/s/niji/group/list/068/item"
-    },
-    "links": {
-      "twitter": "https://twitter.com/Hayama_Marin",
-      "youtube": "https://www.youtube.com/channel/UCfipDDn7wY-C-SoUChgxCQQ"
-    },
-    "tags": [
-      "にじさんじ"
-    ],
-    "page": "https://www.nijisanji.jp/talents/l/marin-hayama"
-  },
-  {
-    "name": "魔界ノりりむ",
-    "allLinks": {
-      "twitter": "https://twitter.com/makaino_ririmu",
-      "youtube": "https://www.youtube.com/channel/UC9EjSJ8pvxtvPdxLOElv73w",
-      "officialShop": "https://shop.nijisanji.jp/s/niji/group/list/035/item"
-    },
-    "links": {
-      "twitter": "https://twitter.com/makaino_ririmu",
-      "youtube": "https://www.youtube.com/channel/UC9EjSJ8pvxtvPdxLOElv73w"
-    },
-    "tags": [
-      "にじさんじ"
-    ],
-    "page": "https://www.nijisanji.jp/talents/l/makaino-ririmu"
-  },
-  {
-    "name": "グウェル・オス・ガール",
-    "allLinks": {
-      "twitter": "https://twitter.com/Gwelu_os_gar",
-      "youtube": "https://www.youtube.com/channel/UC1QgXt46-GEvtNjEC1paHnw",
-      "officialShop": "https://shop.nijisanji.jp/s/niji/group/list/090/item"
-    },
-    "links": {
-      "twitter": "https://twitter.com/Gwelu_os_gar",
-      "youtube": "https://www.youtube.com/channel/UC1QgXt46-GEvtNjEC1paHnw"
-    },
-    "tags": [
-      "にじさんじ"
-    ],
-    "page": "https://www.nijisanji.jp/talents/l/gwelu-os-gar"
-  },
-  {
-    "name": "鷹宮リオン",
-    "allLinks": {
-      "twitter": "https://twitter.com/takamiyarion",
-      "youtube": "https://www.youtube.com/channel/UCV5ZZlLjk5MKGg3L0n0vbzw",
-      "fanclub": "https://www.nijisanji.jp/fanclubs/rion-takamiya",
-      "officialShop": "https://shop.nijisanji.jp/s/niji/group/list/038/item"
-    },
-    "links": {
-      "twitter": "https://twitter.com/takamiyarion",
-      "youtube": "https://www.youtube.com/channel/UCV5ZZlLjk5MKGg3L0n0vbzw"
-    },
-    "tags": [
-      "にじさんじ"
-    ],
-    "page": "https://www.nijisanji.jp/talents/l/rion-takamiya"
-  },
-  {
-    "name": "ロゼミ ラブロック",
-    "allLinks": {
-      "twitter": "https://twitter.com/Rosemi_Lovelock",
-      "youtube": "https://www.youtube.com/channel/UC4WvIIAo89_AzGUh1AZ6Dkg",
-      "twitch": "https://www.twitch.tv/rosemilovelock"
-    },
-    "links": {
-      "twitter": "https://twitter.com/Rosemi_Lovelock",
-      "youtube": "https://www.youtube.com/channel/UC4WvIIAo89_AzGUh1AZ6Dkg",
-      "twitch": "https://www.twitch.tv/rosemilovelock"
-    },
-    "tags": [
-      "にじさんじ",
-      "NIJISANJI EN"
-    ],
-    "page": "https://www.nijisanji.jp/talents/l/rosemi-lovelock"
-  },
-  {
-    "name": "ベルモンド・バンデラス",
-    "allLinks": {
-      "twitter": "https://twitter.com/belmond_b_2434",
-      "youtube": "https://www.youtube.com/channel/UCbc8fwhdUNlqi-J99ISYu4A",
-      "officialShop": "https://shop.nijisanji.jp/s/niji/group/list/051/item"
-    },
-    "links": {
-      "twitter": "https://twitter.com/belmond_b_2434",
-      "youtube": "https://www.youtube.com/channel/UCbc8fwhdUNlqi-J99ISYu4A"
-    },
-    "tags": [
-      "にじさんじ"
-    ],
-    "page": "https://www.nijisanji.jp/talents/l/belmond-banderas"
-  },
-  {
-    "name": "ファルガー・オーヴィド",
-    "allLinks": {
-      "twitter": "https://twitter.com/fulgur_ovid",
-      "youtube": "https://www.youtube.com/channel/UCGhqxhovNfaPBpxfCruy9EA"
-    },
-    "links": {
-      "twitter": "https://twitter.com/fulgur_ovid",
-      "youtube": "https://www.youtube.com/channel/UCGhqxhovNfaPBpxfCruy9EA"
-    },
-    "tags": [
-      "にじさんじ",
-      "NIJISANJI EN"
-    ],
-    "page": "https://www.nijisanji.jp/talents/l/fulgur-ovid"
-  },
-  {
-    "name": "奈羅花",
-    "allLinks": {
-      "twitter": "https://twitter.com/Naraka_2434",
-      "youtube": "https://www.youtube.com/channel/UC-o-E6I3IC2q8sAoAuM6Umg",
-      "officialShop": "https://shop.nijisanji.jp/s/niji/group/list/092/item"
-    },
-    "links": {
-      "twitter": "https://twitter.com/Naraka_2434",
-      "youtube": "https://www.youtube.com/channel/UC-o-E6I3IC2q8sAoAuM6Umg"
-    },
-    "tags": [
-      "にじさんじ"
-    ],
-    "page": "https://www.nijisanji.jp/talents/l/naraka"
-  },
-  {
-    "name": "狂蘭 メロコ",
-    "allLinks": {
-      "twitter": "https://twitter.com/MelocoKyoran",
-      "youtube": "https://www.youtube.com/@MelocoKyoran"
-    },
-    "links": {
-      "twitter": "https://twitter.com/MelocoKyoran",
-      "youtube": "https://www.youtube.com/@MelocoKyoran"
-    },
-    "tags": [
-      "にじさんじ",
-      "NIJISANJI EN"
-    ],
-    "page": "https://www.nijisanji.jp/talents/l/meloco-kyoran"
-  },
-  {
-    "name": "ましろ爻",
-    "allLinks": {
-      "twitter": "https://twitter.com/mashiro2434",
-      "youtube": "https://www.youtube.com/channel/UCS-XXTgVkotkbkDnGEprXpg",
-      "officialShop": "https://shop.nijisanji.jp/s/niji/group/list/091/item"
-    },
-    "links": {
-      "twitter": "https://twitter.com/mashiro2434",
-      "youtube": "https://www.youtube.com/channel/UCS-XXTgVkotkbkDnGEprXpg"
-    },
-    "tags": [
-      "にじさんじ"
-    ],
-    "page": "https://www.nijisanji.jp/talents/l/meme-mashiro"
-  },
-  {
-    "name": "レオス・ヴィンセント",
-    "allLinks": {
-      "twitter": "https://twitter.com/Leos_Vincent",
-      "youtube": "https://www.youtube.com/channel/UC-6rZgmxZSIbq786j3RD5ow",
-      "officialShop": "https://shop.nijisanji.jp/s/niji/group/list/111/item"
-    },
-    "links": {
-      "twitter": "https://twitter.com/Leos_Vincent",
-      "youtube": "https://www.youtube.com/channel/UC-6rZgmxZSIbq786j3RD5ow"
-    },
-    "tags": [
-      "にじさんじ"
-    ],
-    "page": "https://www.nijisanji.jp/talents/l/leos-vincent"
-  },
-  {
-    "name": "舞元啓介",
-    "allLinks": {
-      "twitter": "https://twitter.com/maimoto_k",
-      "youtube": "https://www.youtube.com/channel/UCJubINhCcFXlsBwnHp0wl_g",
-      "officialShop": "https://shop.nijisanji.jp/s/niji/group/list/039/item"
-    },
-    "links": {
-      "twitter": "https://twitter.com/maimoto_k",
-      "youtube": "https://www.youtube.com/channel/UCJubINhCcFXlsBwnHp0wl_g"
-    },
-    "tags": [
-      "にじさんじ"
-    ],
-    "page": "https://www.nijisanji.jp/talents/l/keisuke-maimoto"
-  },
-  {
-    "name": "渡会雲雀",
-    "allLinks": {
-      "twitter": "https://twitter.com/watarai_hibari",
-      "youtube": "https://www.youtube.com/channel/UC4l9gz3q65lTBFfFtW5LLeA",
-      "officialShop": "https://shop.nijisanji.jp/s/niji/group/list/117/item?ima=4851"
-    },
-    "links": {
-      "twitter": "https://twitter.com/watarai_hibari",
-      "youtube": "https://www.youtube.com/channel/UC4l9gz3q65lTBFfFtW5LLeA"
-    },
-    "tags": [
-      "にじさんじ"
-    ],
-    "page": "https://www.nijisanji.jp/talents/l/hibari-watarai"
-  },
-  {
-    "name": "白雪巴",
-    "allLinks": {
-      "twitter": "https://twitter.com/Tomoe_Shirayuki",
-      "youtube": "https://www.youtube.com/channel/UCuvk5PilcvDECU7dDZhQiEw",
-      "fanclub": "https://www.nijisanji.jp/fanclubs/shirayuki-tomoe?mode=contents",
-      "officialShop": "https://shop.nijisanji.jp/s/niji/group/list/089/item"
-    },
-    "links": {
-      "twitter": "https://twitter.com/Tomoe_Shirayuki",
-      "youtube": "https://www.youtube.com/channel/UCuvk5PilcvDECU7dDZhQiEw"
-    },
-    "tags": [
-      "にじさんじ"
-    ],
-    "page": "https://www.nijisanji.jp/talents/l/tomoe-shirayuki"
-  },
-  {
-    "name": "葉加瀬冬雪",
-    "allLinks": {
-      "twitter": "https://twitter.com/hakase_fuyuki",
-      "youtube": "https://www.youtube.com/channel/UCGYAYLDE7TZiiC8U6teciDQ",
-      "officialShop": "https://shop.nijisanji.jp/s/niji/group/list/070/item"
-    },
-    "links": {
-      "twitter": "https://twitter.com/hakase_fuyuki",
-      "youtube": "https://www.youtube.com/channel/UCGYAYLDE7TZiiC8U6teciDQ"
-    },
-    "tags": [
-      "にじさんじ"
-    ],
-    "page": "https://www.nijisanji.jp/talents/l/fuyuki-hakase"
-  },
-  {
-    "name": "マリア マリオネット",
-    "allLinks": {
-      "twitter": "https://twitter.com/MariaMari0nette",
-      "youtube": "https://www.youtube.com/channel/UCwaS8_S7kMiKA3izlTWHbQg"
-    },
-    "links": {
-      "twitter": "https://twitter.com/MariaMari0nette",
-      "youtube": "https://www.youtube.com/channel/UCwaS8_S7kMiKA3izlTWHbQg"
-    },
-    "tags": [
-      "にじさんじ",
-      "NIJISANJI EN"
-    ],
-    "page": "https://www.nijisanji.jp/talents/l/maria-marionette"
-  },
-  {
-    "name": "長尾景",
-    "allLinks": {
-      "twitter": "https://twitter.com/kei_nagao2434",
-      "youtube": "https://www.youtube.com/channel/UCXW4MqCQn-jCaxlX-nn-BYg",
-      "officialShop": "https://shop.nijisanji.jp/s/niji/group/list/098/item"
-    },
-    "links": {
-      "twitter": "https://twitter.com/kei_nagao2434",
-      "youtube": "https://www.youtube.com/channel/UCXW4MqCQn-jCaxlX-nn-BYg"
-    },
-    "tags": [
-      "にじさんじ"
-    ],
-    "page": "https://www.nijisanji.jp/talents/l/kei-nagao"
-  },
-  {
-    "name": "遠藤霊夢",
-    "allLinks": {
-      "twitter": "https://twitter.com/ReimuEndou",
-      "youtube": "https://www.youtube.com/channel/UCBURM8S4LH7cRZ0Clea9RDA"
-    },
-    "links": {
-      "twitter": "https://twitter.com/ReimuEndou",
-      "youtube": "https://www.youtube.com/channel/UCBURM8S4LH7cRZ0Clea9RDA"
-    },
-    "tags": [
-      "にじさんじ",
-      "NIJISANJI EN"
-    ],
-    "page": "https://www.nijisanji.jp/talents/l/reimu-endou"
+    "page": "https://www.nijisanji.jp/talents/l/eine"
   },
   {
     "name": "エクス・アルビオ",
@@ -1122,135 +960,6 @@
       "にじさんじ"
     ],
     "page": "https://www.nijisanji.jp/talents/l/ex-albio"
-  },
-  {
-    "name": "文野環",
-    "allLinks": {
-      "twitter": "https://twitter.com/nekokan_chu",
-      "youtube": "https://www.youtube.com/channel/UCBiqkFJljoxAj10SoP2w2Cg",
-      "officialShop": "https://shop.nijisanji.jp/s/niji/group/list/017/item"
-    },
-    "links": {
-      "twitter": "https://twitter.com/nekokan_chu",
-      "youtube": "https://www.youtube.com/channel/UCBiqkFJljoxAj10SoP2w2Cg"
-    },
-    "tags": [
-      "にじさんじ"
-    ],
-    "page": "https://www.nijisanji.jp/talents/l/tamaki-fumino"
-  },
-  {
-    "name": "レイン・パターソン",
-    "allLinks": {
-      "twitter": "https://twitter.com/Lain_Paterson",
-      "youtube": "https://www.youtube.com/channel/UCRm6lqtdxs_Qo6HeL-SRQ-w",
-      "officialShop": "https://shop.nijisanji.jp/s/niji/group/list/107/item"
-    },
-    "links": {
-      "twitter": "https://twitter.com/Lain_Paterson",
-      "youtube": "https://www.youtube.com/channel/UCRm6lqtdxs_Qo6HeL-SRQ-w"
-    },
-    "tags": [
-      "にじさんじ"
-    ],
-    "page": "https://www.nijisanji.jp/talents/l/lain-paterson"
-  },
-  {
-    "name": "ルンルン",
-    "allLinks": {
-      "twitter": "https://x.com/mo_lunlun_gu",
-      "youtube": "https://www.youtube.com/@Lunlun_nijisanji"
-    },
-    "links": {
-      "twitter": "https://x.com/mo_lunlun_gu",
-      "youtube": "https://www.youtube.com/@Lunlun_nijisanji"
-    },
-    "tags": [
-      "にじさんじ"
-    ],
-    "page": "https://www.nijisanji.jp/talents/l/lunlun"
-  },
-  {
-    "name": "シェリン・バーガンディ",
-    "allLinks": {
-      "twitter": "https://twitter.com/ShellinBurgundy",
-      "youtube": "https://www.youtube.com/channel/UCHBhnG2G-qN0JrrWmMO2FTA",
-      "officialShop": "https://shop.nijisanji.jp/s/niji/group/list/081/item"
-    },
-    "links": {
-      "twitter": "https://twitter.com/ShellinBurgundy",
-      "youtube": "https://www.youtube.com/channel/UCHBhnG2G-qN0JrrWmMO2FTA"
-    },
-    "tags": [
-      "にじさんじ"
-    ],
-    "page": "https://www.nijisanji.jp/talents/l/shellin-burgundy"
-  },
-  {
-    "name": "静凛",
-    "allLinks": {
-      "twitter": "https://twitter.com/ShizuRin23",
-      "youtube": "https://www.youtube.com/channel/UC6oDys1BGgBsIC3WhG1BovQ",
-      "officialShop": "https://shop.nijisanji.jp/s/niji/group/list/008/item"
-    },
-    "links": {
-      "twitter": "https://twitter.com/ShizuRin23",
-      "youtube": "https://www.youtube.com/channel/UC6oDys1BGgBsIC3WhG1BovQ"
-    },
-    "tags": [
-      "にじさんじ"
-    ],
-    "page": "https://www.nijisanji.jp/talents/l/rin-shizuka"
-  },
-  {
-    "name": "スカーレ ヨナグニ",
-    "allLinks": {
-      "twitter": "https://twitter.com/ScarleYonaguni",
-      "youtube": "https://www.youtube.com/channel/UCFgXWZOUZA2oYHNr6qDmsTQ",
-      "twitch": "https://www.twitch.tv/scarleyonaguni"
-    },
-    "links": {
-      "twitter": "https://twitter.com/ScarleYonaguni",
-      "youtube": "https://www.youtube.com/channel/UCFgXWZOUZA2oYHNr6qDmsTQ",
-      "twitch": "https://www.twitch.tv/scarleyonaguni"
-    },
-    "tags": [
-      "にじさんじ",
-      "NIJISANJI EN"
-    ],
-    "page": "https://www.nijisanji.jp/talents/l/scarle-yonaguni"
-  },
-  {
-    "name": "卯月コウ",
-    "allLinks": {
-      "twitter": "https://twitter.com/udukikohh",
-      "youtube": "https://www.youtube.com/channel/UC3lNFeJiTq6L3UWoz4g1e-A",
-      "officialShop": "https://shop.nijisanji.jp/s/niji/group/list/026/item"
-    },
-    "links": {
-      "twitter": "https://twitter.com/udukikohh",
-      "youtube": "https://www.youtube.com/channel/UC3lNFeJiTq6L3UWoz4g1e-A"
-    },
-    "tags": [
-      "にじさんじ"
-    ],
-    "page": "https://www.nijisanji.jp/talents/l/kou-uzuki"
-  },
-  {
-    "name": "四季凪アキラ",
-    "allLinks": {
-      "twitter": "https://twitter.com/Shikinagi_2434",
-      "youtube": "https://www.youtube.com/channel/UCcDDxnoQcezyTUzHg5uHaKg",
-      "officialShop": "https://shop.nijisanji.jp/s/niji/group/list/118/item?ima=4952"
-    },
-    "links": {
-      "twitter": "https://twitter.com/Shikinagi_2434",
-      "youtube": "https://www.youtube.com/channel/UCcDDxnoQcezyTUzHg5uHaKg"
-    },
-    "tags": [
-      "にじさんじ"
-    ],
-    "page": "https://www.nijisanji.jp/talents/l/akira-shikinagi"
   },
   {
     "name": "レヴィ・エリファ",
@@ -1270,264 +979,183 @@
     "page": "https://www.nijisanji.jp/talents/l/levi-elipha"
   },
   {
-    "name": "夢月ロア",
+    "name": "光一",
     "allLinks": {
-      "twitter": "https://twitter.com/yuzuki_roa",
-      "youtube": "https://www.youtube.com/channel/UCCVwhI5trmaSxfcze_Ovzfw",
-      "fanclub": "https://www.nijisanji.jp/fanclubs/roa-yuzuki",
-      "officialShop": "https://shop.nijisanji.jp/s/niji/group/list/053/item"
+      "bilibili": "https://space.bilibili.com/434401868"
     },
     "links": {
-      "twitter": "https://twitter.com/yuzuki_roa",
-      "youtube": "https://www.youtube.com/channel/UCCVwhI5trmaSxfcze_Ovzfw"
-    },
-    "tags": [
-      "にじさんじ"
-    ],
-    "page": "https://www.nijisanji.jp/talents/l/roa-yuzuki"
-  },
-  {
-    "name": "弦月藤士郎",
-    "allLinks": {
-      "twitter": "https://twitter.com/1O46V",
-      "youtube": "https://www.youtube.com/channel/UCGw7lrT-rVZCWHfdG9Frcgg",
-      "officialShop": "https://shop.nijisanji.jp/s/niji/group/list/099/item"
-    },
-    "links": {
-      "twitter": "https://twitter.com/1O46V",
-      "youtube": "https://www.youtube.com/channel/UCGw7lrT-rVZCWHfdG9Frcgg"
-    },
-    "tags": [
-      "にじさんじ"
-    ],
-    "page": "https://www.nijisanji.jp/talents/l/tojiro-genzuki"
-  },
-  {
-    "name": "夢追翔",
-    "allLinks": {
-      "twitter": "https://twitter.com/kakeru_yumeoi",
-      "youtube": "https://www.youtube.com/channel/UCTIE7LM5X15NVugV7Krp9Hw",
-      "fanclub": "https://www.nijisanji.jp/fanclubs/kakeru-yumeoi",
-      "officialShop": "https://shop.nijisanji.jp/s/niji/group/list/048/item"
-    },
-    "links": {
-      "twitter": "https://twitter.com/kakeru_yumeoi",
-      "youtube": "https://www.youtube.com/channel/UCTIE7LM5X15NVugV7Krp9Hw"
-    },
-    "tags": [
-      "にじさんじ"
-    ],
-    "page": "https://www.nijisanji.jp/talents/l/kakeru-yumeoi"
-  },
-  {
-    "name": "ドーラ",
-    "allLinks": {
-      "twitter": "https://twitter.com/___dola",
-      "youtube": "https://www.youtube.com/channel/UC53UDnhAAYwvNO7j_2Ju1cQ",
-      "officialShop": "https://shop.nijisanji.jp/s/niji/group/list/023/item"
-    },
-    "links": {
-      "twitter": "https://twitter.com/___dola",
-      "youtube": "https://www.youtube.com/channel/UC53UDnhAAYwvNO7j_2Ju1cQ"
-    },
-    "tags": [
-      "にじさんじ"
-    ],
-    "page": "https://www.nijisanji.jp/talents/l/dola"
-  },
-  {
-    "name": "アスター アルカディア",
-    "allLinks": {
-      "twitter": "https://twitter.com/AsterArcadia",
-      "youtube": "https://www.youtube.com/channel/UCpzxZW5kghGnO5TmAFJQAVw"
-    },
-    "links": {
-      "twitter": "https://twitter.com/AsterArcadia",
-      "youtube": "https://www.youtube.com/channel/UCpzxZW5kghGnO5TmAFJQAVw"
+      "bilibili": "https://space.bilibili.com/434401868"
     },
     "tags": [
       "にじさんじ",
-      "NIJISANJI EN"
+      "VirtuaReal"
     ],
-    "page": "https://www.nijisanji.jp/talents/l/aster-arcadia"
+    "page": "https://www.nijisanji.jp/talents/l/kouichi"
   },
   {
-    "name": "夕陽リリ",
+    "name": "七海",
     "allLinks": {
-      "twitter": "https://twitter.com/yuuhi_riri",
-      "youtube": "https://www.youtube.com/channel/UC48jH1ul-6HOrcSSfoR02fQ",
-      "officialShop": "https://shop.nijisanji.jp/s/niji/group/list/010/item"
+      "twitter": "https://twitter.com/NanamiVr",
+      "bilibili": "https://space.bilibili.com/434334701"
     },
     "links": {
-      "twitter": "https://twitter.com/yuuhi_riri",
-      "youtube": "https://www.youtube.com/channel/UC48jH1ul-6HOrcSSfoR02fQ"
-    },
-    "tags": [
-      "にじさんじ"
-    ],
-    "page": "https://www.nijisanji.jp/talents/l/riri-yuhi"
-  },
-  {
-    "name": "虎姫 コトカ",
-    "allLinks": {
-      "twitter": "https://twitter.com/KotokaTorahime",
-      "youtube": "https://www.youtube.com/@KotokaTorahime"
-    },
-    "links": {
-      "twitter": "https://twitter.com/KotokaTorahime",
-      "youtube": "https://www.youtube.com/@KotokaTorahime"
+      "twitter": "https://twitter.com/NanamiVr",
+      "bilibili": "https://space.bilibili.com/434334701"
     },
     "tags": [
       "にじさんじ",
-      "NIJISANJI EN"
+      "VirtuaReal"
     ],
-    "page": "https://www.nijisanji.jp/talents/l/kotoka-torahime"
+    "page": "https://www.nijisanji.jp/talents/l/nanami"
   },
   {
-    "name": "森中花咲",
+    "name": "ニュイ・ソシエール",
     "allLinks": {
-      "twitter": "https://twitter.com/kazakimorinaka",
-      "youtube": "https://www.youtube.com/channel/UCtpB6Bvhs1Um93ziEDACQ8g",
-      "officialShop": "https://shop.nijisanji.jp/s/niji/group/list/018/item"
+      "twitter": "https://twitter.com/Nui_Sociere",
+      "youtube": "https://www.youtube.com/channel/UCUc8GZfFxtmk7ZwSO7ccQ0g",
+      "fanclub": "https://www.nijisanji.jp/fanclubs/nui-sociere",
+      "officialShop": "https://shop.nijisanji.jp/s/niji/group/list/069/item"
     },
     "links": {
-      "twitter": "https://twitter.com/kazakimorinaka",
-      "youtube": "https://www.youtube.com/channel/UCtpB6Bvhs1Um93ziEDACQ8g"
+      "twitter": "https://twitter.com/Nui_Sociere",
+      "youtube": "https://www.youtube.com/channel/UCUc8GZfFxtmk7ZwSO7ccQ0g"
     },
     "tags": [
       "にじさんじ"
     ],
-    "page": "https://www.nijisanji.jp/talents/l/kazaki-morinaka"
+    "page": "https://www.nijisanji.jp/talents/l/nui-sociere"
   },
   {
-    "name": "オリバー・エバンス",
+    "name": "葉山舞鈴",
     "allLinks": {
-      "twitter": "https://twitter.com/oliverD_23",
-      "youtube": "https://www.youtube.com/channel/UCqjTqdVlvIipZXIKeCkHKUA",
-      "officialShop": "https://shop.nijisanji.jp/s/niji/group/list/110/item"
+      "twitter": "https://twitter.com/Hayama_Marin",
+      "youtube": "https://www.youtube.com/channel/UCfipDDn7wY-C-SoUChgxCQQ",
+      "fanclub": "https://www.nijisanji.jp/fanclubs/marin-hayama",
+      "officialShop": "https://shop.nijisanji.jp/s/niji/group/list/068/item"
     },
     "links": {
-      "twitter": "https://twitter.com/oliverD_23",
-      "youtube": "https://www.youtube.com/channel/UCqjTqdVlvIipZXIKeCkHKUA"
+      "twitter": "https://twitter.com/Hayama_Marin",
+      "youtube": "https://www.youtube.com/channel/UCfipDDn7wY-C-SoUChgxCQQ"
     },
     "tags": [
       "にじさんじ"
     ],
-    "page": "https://www.nijisanji.jp/talents/l/oliver-evans"
+    "page": "https://www.nijisanji.jp/talents/l/marin-hayama"
   },
   {
-    "name": "伏見ガク",
+    "name": "加賀美ハヤト",
     "allLinks": {
-      "twitter": "https://twitter.com/gaku_fushimi",
-      "youtube": "https://www.youtube.com/channel/UCXU7YYxy_iQd3ulXyO-zC2w",
-      "officialShop": "https://shop.nijisanji.jp/s/niji/group/list/011/item"
+      "twitter": "https://twitter.com/H_KAGAMI2434",
+      "youtube": "https://www.youtube.com/channel/UCmovZ2th3Sqpd00F5RdeigQ",
+      "officialShop": "https://shop.nijisanji.jp/s/niji/group/list/071/item"
     },
     "links": {
-      "twitter": "https://twitter.com/gaku_fushimi",
-      "youtube": "https://www.youtube.com/channel/UCXU7YYxy_iQd3ulXyO-zC2w"
+      "twitter": "https://twitter.com/H_KAGAMI2434",
+      "youtube": "https://www.youtube.com/channel/UCmovZ2th3Sqpd00F5RdeigQ"
     },
     "tags": [
       "にじさんじ"
     ],
-    "page": "https://www.nijisanji.jp/talents/l/gaku-fushimi"
+    "page": "https://www.nijisanji.jp/talents/l/hayato-kagami"
   },
   {
-    "name": "鈴木勝",
+    "name": "葉加瀬冬雪",
     "allLinks": {
-      "twitter": "https://twitter.com/darkness_eater",
-      "youtube": "https://www.youtube.com/channel/UCryOPk2GZ1meIDt53tL30Tw",
-      "officialShop": "https://shop.nijisanji.jp/s/niji/group/list/027/item"
+      "twitter": "https://twitter.com/hakase_fuyuki",
+      "youtube": "https://www.youtube.com/channel/UCGYAYLDE7TZiiC8U6teciDQ",
+      "officialShop": "https://shop.nijisanji.jp/s/niji/group/list/070/item"
     },
     "links": {
-      "twitter": "https://twitter.com/darkness_eater",
-      "youtube": "https://www.youtube.com/channel/UCryOPk2GZ1meIDt53tL30Tw"
+      "twitter": "https://twitter.com/hakase_fuyuki",
+      "youtube": "https://www.youtube.com/channel/UCGYAYLDE7TZiiC8U6teciDQ"
     },
     "tags": [
       "にじさんじ"
     ],
-    "page": "https://www.nijisanji.jp/talents/l/masaru-suzuki"
+    "page": "https://www.nijisanji.jp/talents/l/fuyuki-hakase"
   },
   {
-    "name": "ヘックス へイワイヤー",
+    "name": "夜見れな",
     "allLinks": {
-      "twitter": "https://twitter.com/HexHaywire",
-      "youtube": "https://www.youtube.com/@HexHaywire"
+      "twitter": "https://twitter.com/rena_yorumi",
+      "youtube": "https://www.youtube.com/channel/UCL34fAoFim9oHLbVzMKFavQ",
+      "fanclub": "https://www.nijisanji.jp/fanclubs/yorumi-rena",
+      "officialShop": "https://shop.nijisanji.jp/s/niji/group/list/072/item"
     },
     "links": {
-      "twitter": "https://twitter.com/HexHaywire",
-      "youtube": "https://www.youtube.com/@HexHaywire"
-    },
-    "tags": [
-      "にじさんじ",
-      "NIJISANJI EN"
-    ],
-    "page": "https://www.nijisanji.jp/talents/l/hex-haywire"
-  },
-  {
-    "name": "魔使マオ",
-    "allLinks": {
-      "twitter": "https://twitter.com/matsukai_mao",
-      "youtube": "https://www.youtube.com/channel/UCerkculBD7YLc_vOGrF7tKg",
-      "officialShop": "https://shop.nijisanji.jp/s/niji/group/list/087/item"
-    },
-    "links": {
-      "twitter": "https://twitter.com/matsukai_mao",
-      "youtube": "https://www.youtube.com/channel/UCerkculBD7YLc_vOGrF7tKg"
+      "twitter": "https://twitter.com/rena_yorumi",
+      "youtube": "https://www.youtube.com/channel/UCL34fAoFim9oHLbVzMKFavQ"
     },
     "tags": [
       "にじさんじ"
     ],
-    "page": "https://www.nijisanji.jp/talents/l/mao-matsukai"
+    "page": "https://www.nijisanji.jp/talents/l/rena-yorumi"
   },
   {
-    "name": "アイア アマレ",
+    "name": "アルス・アルマル",
     "allLinks": {
-      "twitter": "https://twitter.com/AiaAmare",
-      "youtube": "https://www.youtube.com/channel/UCN68LoM3khS4gdBMiWJO8WA"
+      "twitter": "https://twitter.com/ars_almal",
+      "youtube": "https://www.youtube.com/channel/UCdpUojq0KWZCN9bxXnZwz5w",
+      "fanclub": "https://www.nijisanji.jp/fanclubs/ars-almal",
+      "officialShop": "https://shop.nijisanji.jp/s/niji/group/list/074/item"
     },
     "links": {
-      "twitter": "https://twitter.com/AiaAmare",
-      "youtube": "https://www.youtube.com/channel/UCN68LoM3khS4gdBMiWJO8WA"
-    },
-    "tags": [
-      "にじさんじ",
-      "NIJISANJI EN"
-    ],
-    "page": "https://www.nijisanji.jp/talents/l/aia-amare"
-  },
-  {
-    "name": "北小路ヒスイ",
-    "allLinks": {
-      "twitter": "https://twitter.com/Hisui_Kitakoji",
-      "youtube": "https://www.youtube.com/channel/UCRqBKoKuX30ruKAq05pCeRQ",
-      "fanclub": "https://www.nijisanji.jp/fanclubs/kitakoji-hisui",
-      "officialShop": "https://shop.nijisanji.jp/s/niji/group/list/105/item"
-    },
-    "links": {
-      "twitter": "https://twitter.com/Hisui_Kitakoji",
-      "youtube": "https://www.youtube.com/channel/UCRqBKoKuX30ruKAq05pCeRQ"
+      "twitter": "https://twitter.com/ars_almal",
+      "youtube": "https://www.youtube.com/channel/UCdpUojq0KWZCN9bxXnZwz5w"
     },
     "tags": [
       "にじさんじ"
     ],
-    "page": "https://www.nijisanji.jp/talents/l/hisui-kitakoji"
+    "page": "https://www.nijisanji.jp/talents/l/ars-almal"
   },
   {
-    "name": "ヤン ナリ",
+    "name": "天宮こころ",
     "allLinks": {
-      "twitter": "https://twitter.com/NariYang2434",
-      "youtube": "https://www.youtube.com/channel/UCCHH0nWYXFZmtDS_4tvMxHQ",
-      "twitch": "https://www.twitch.tv/nariyang2434"
+      "twitter": "https://twitter.com/amamiya_kokoro",
+      "youtube": "https://www.youtube.com/channel/UCkIimWZ9gBJRamKF0rmPU8w",
+      "officialShop": "https://shop.nijisanji.jp/s/niji/group/list/076/item"
     },
     "links": {
-      "twitter": "https://twitter.com/NariYang2434",
-      "youtube": "https://www.youtube.com/channel/UCCHH0nWYXFZmtDS_4tvMxHQ",
-      "twitch": "https://www.twitch.tv/nariyang2434"
+      "twitter": "https://twitter.com/amamiya_kokoro",
+      "youtube": "https://www.youtube.com/channel/UCkIimWZ9gBJRamKF0rmPU8w"
     },
     "tags": [
       "にじさんじ"
     ],
-    "page": "https://www.nijisanji.jp/talents/l/yang-nari"
+    "page": "https://www.nijisanji.jp/talents/l/kokoro-amamiya"
+  },
+  {
+    "name": "エリー・コニファー",
+    "allLinks": {
+      "twitter": "https://twitter.com/Eli_Conifer",
+      "youtube": "https://www.youtube.com/channel/UCpNH2Zk2gw3JBjWAKSyZcQQ",
+      "fanclub": "https://www.nijisanji.jp/fanclubs/eli-conifer",
+      "officialShop": "https://shop.nijisanji.jp/s/niji/group/list/077/item"
+    },
+    "links": {
+      "twitter": "https://twitter.com/Eli_Conifer",
+      "youtube": "https://www.youtube.com/channel/UCpNH2Zk2gw3JBjWAKSyZcQQ"
+    },
+    "tags": [
+      "にじさんじ"
+    ],
+    "page": "https://www.nijisanji.jp/talents/l/eli-conifer"
+  },
+  {
+    "name": "ラトナ・プティ",
+    "allLinks": {
+      "twitter": "https://twitter.com/ratna_petit",
+      "youtube": "https://www.youtube.com/channel/UCIG9rDtgR45VCZmYnd-4DUw",
+      "officialShop": "https://shop.nijisanji.jp/s/niji/group/list/078/item"
+    },
+    "links": {
+      "twitter": "https://twitter.com/ratna_petit",
+      "youtube": "https://www.youtube.com/channel/UCIG9rDtgR45VCZmYnd-4DUw"
+    },
+    "tags": [
+      "にじさんじ"
+    ],
+    "page": "https://www.nijisanji.jp/talents/l/ratna-petit"
   },
   {
     "name": "ハナ マキア",
@@ -1546,119 +1174,52 @@
     "page": "https://www.nijisanji.jp/talents/l/hana-macchia"
   },
   {
-    "name": "セラフ・ダズルガーデン",
+    "name": "惑姫",
     "allLinks": {
-      "twitter": "https://twitter.com/SerAph_DazZ",
-      "youtube": "https://www.youtube.com/channel/UC5dJFf4m-mEcoyJRfhBljoA",
-      "officialShop": "https://shop.nijisanji.jp/s/niji/group/list/119/item?ima=5212"
+      "twitter": "https://twitter.com/wakuhime1",
+      "bilibili": "https://space.bilibili.com/472877684"
     },
     "links": {
-      "twitter": "https://twitter.com/SerAph_DazZ",
-      "youtube": "https://www.youtube.com/channel/UC5dJFf4m-mEcoyJRfhBljoA"
+      "twitter": "https://twitter.com/wakuhime1",
+      "bilibili": "https://space.bilibili.com/472877684"
     },
     "tags": [
-      "にじさんじ"
+      "にじさんじ",
+      "VirtuaReal"
     ],
-    "page": "https://www.nijisanji.jp/talents/l/seraph-dazzlegarden"
+    "page": "https://www.nijisanji.jp/talents/l/waku"
   },
   {
-    "name": "ソフィア・ヴァレンタイン",
+    "name": "シェリン・バーガンディ",
     "allLinks": {
-      "twitter": "https://twitter.com/SophiaV214",
-      "youtube": "https://www.youtube.com/channel/UCivwPlOp0ojnMPZj5pNOPPA",
-      "fanclub": "https://www.nijisanji.jp/fanclubs/sophia-valentine",
-      "officialShop": "https://shop.nijisanji.jp/s/niji/group/list/187/item"
+      "twitter": "https://twitter.com/ShellinBurgundy",
+      "youtube": "https://www.youtube.com/channel/UCHBhnG2G-qN0JrrWmMO2FTA",
+      "officialShop": "https://shop.nijisanji.jp/s/niji/group/list/081/item"
     },
     "links": {
-      "twitter": "https://twitter.com/SophiaV214",
-      "youtube": "https://www.youtube.com/channel/UCivwPlOp0ojnMPZj5pNOPPA"
+      "twitter": "https://twitter.com/ShellinBurgundy",
+      "youtube": "https://www.youtube.com/channel/UCHBhnG2G-qN0JrrWmMO2FTA"
     },
     "tags": [
       "にじさんじ"
     ],
-    "page": "https://www.nijisanji.jp/talents/l/sophia-valentine"
+    "page": "https://www.nijisanji.jp/talents/l/shellin-burgundy"
   },
   {
-    "name": "物述有栖",
+    "name": "健屋花那",
     "allLinks": {
-      "twitter": "https://twitter.com/alicemononobe",
-      "youtube": "https://www.youtube.com/channel/UCt0clH12Xk1-Ej5PXKGfdPA",
-      "fanclub": "https://www.nijisanji.jp/fanclubs/mononobe-alice",
-      "officialShop": "https://shop.nijisanji.jp/s/niji/group/list/013/item"
+      "twitter": "https://twitter.com/sukosuko_sukoya",
+      "youtube": "https://www.youtube.com/channel/UC8C1LLhBhf_E2IBPLSDJXlQ",
+      "officialShop": "https://shop.nijisanji.jp/s/niji/group/list/080/item"
     },
     "links": {
-      "twitter": "https://twitter.com/alicemononobe",
-      "youtube": "https://www.youtube.com/channel/UCt0clH12Xk1-Ej5PXKGfdPA"
+      "twitter": "https://twitter.com/sukosuko_sukoya",
+      "youtube": "https://www.youtube.com/channel/UC8C1LLhBhf_E2IBPLSDJXlQ"
     },
     "tags": [
       "にじさんじ"
     ],
-    "page": "https://www.nijisanji.jp/talents/l/alice-mononobe"
-  },
-  {
-    "name": "桜凛月",
-    "allLinks": {
-      "twitter": "https://twitter.com/sakura_ritsuki",
-      "youtube": "https://www.youtube.com/channel/UCfQVs_KuXeNAlGa3fb8rlnQ",
-      "officialShop": "https://shop.nijisanji.jp/s/niji/group/list/045/item"
-    },
-    "links": {
-      "twitter": "https://twitter.com/sakura_ritsuki",
-      "youtube": "https://www.youtube.com/channel/UCfQVs_KuXeNAlGa3fb8rlnQ"
-    },
-    "tags": [
-      "にじさんじ"
-    ],
-    "page": "https://www.nijisanji.jp/talents/l/ritsuki-sakura"
-  },
-  {
-    "name": "小清水透",
-    "allLinks": {
-      "twitter": "https://twitter.com/toru_2434",
-      "youtube": "https://www.youtube.com/channel/UCUP8TmlO7NNra88AMqGU_vQ",
-      "officialShop": "https://shop.nijisanji.jp/s/niji/group/list/185/item"
-    },
-    "links": {
-      "twitter": "https://twitter.com/toru_2434",
-      "youtube": "https://www.youtube.com/channel/UCUP8TmlO7NNra88AMqGU_vQ"
-    },
-    "tags": [
-      "にじさんじ"
-    ],
-    "page": "https://www.nijisanji.jp/talents/l/toru-koshimizu"
-  },
-  {
-    "name": "神田笑一",
-    "allLinks": {
-      "twitter": "https://twitter.com/kanda_shoichi",
-      "youtube": "https://www.youtube.com/channel/UCWz0CSYCxf4MhRKPDm220AQ",
-      "fanclub": "https://www.nijisanji.jp/fanclubs/shoichi-kanda",
-      "officialShop": "https://shop.nijisanji.jp/s/niji/group/list/040/item"
-    },
-    "links": {
-      "twitter": "https://twitter.com/kanda_shoichi",
-      "youtube": "https://www.youtube.com/channel/UCWz0CSYCxf4MhRKPDm220AQ"
-    },
-    "tags": [
-      "にじさんじ"
-    ],
-    "page": "https://www.nijisanji.jp/talents/l/shoichi-kanda"
-  },
-  {
-    "name": "先斗寧",
-    "allLinks": {
-      "twitter": "https://twitter.com/ponto_nei",
-      "youtube": "https://www.youtube.com/channel/UCe22Bcwd_GCpTjLxn83zl7A",
-      "officialShop": "https://shop.nijisanji.jp/s/niji/group/list/113/item?ima=4150"
-    },
-    "links": {
-      "twitter": "https://twitter.com/ponto_nei",
-      "youtube": "https://www.youtube.com/channel/UCe22Bcwd_GCpTjLxn83zl7A"
-    },
-    "tags": [
-      "にじさんじ"
-    ],
-    "page": "https://www.nijisanji.jp/talents/l/nei-ponto"
+    "page": "https://www.nijisanji.jp/talents/l/kana-sukoya"
   },
   {
     "name": "早瀬走",
@@ -1695,20 +1256,21 @@
     "page": "https://www.nijisanji.jp/talents/l/fumi"
   },
   {
-    "name": "ルイス・キャミー",
+    "name": "星川サラ",
     "allLinks": {
-      "twitter": "https://twitter.com/Luis_Cammy",
-      "youtube": "https://www.youtube.com/channel/UCb6ObE-XGCctO3WrjRZC-cw",
-      "officialShop": "https://shop.nijisanji.jp/s/niji/group/list/086/item"
+      "twitter": "https://twitter.com/Sara_Hoshikawa",
+      "youtube": "https://www.youtube.com/channel/UC9V3Y3_uzU5e-usObb6IE1w",
+      "fanclub": "https://www.nijisanji.jp/fanclubs/sara-hoshikawa",
+      "officialShop": "https://shop.nijisanji.jp/s/niji/group/list/082/item"
     },
     "links": {
-      "twitter": "https://twitter.com/Luis_Cammy",
-      "youtube": "https://www.youtube.com/channel/UCb6ObE-XGCctO3WrjRZC-cw"
+      "twitter": "https://twitter.com/Sara_Hoshikawa",
+      "youtube": "https://www.youtube.com/channel/UC9V3Y3_uzU5e-usObb6IE1w"
     },
     "tags": [
       "にじさんじ"
     ],
-    "page": "https://www.nijisanji.jp/talents/l/luis-cammy"
+    "page": "https://www.nijisanji.jp/talents/l/sara-hoshikawa"
   },
   {
     "name": "山神カルタ",
@@ -1727,232 +1289,20 @@
     "page": "https://www.nijisanji.jp/talents/l/karuta-yamagami"
   },
   {
-    "name": "風楽奏斗",
+    "name": "弥希",
     "allLinks": {
-      "twitter": "https://twitter.com/KNTFR2434",
-      "youtube": "https://www.youtube.com/channel/UCC7rRD6P7RQcx0hKv9RQP4w",
-      "officialShop": "https://shop.nijisanji.jp/s/niji/group/list/116/item?ima=4922"
+      "twitter": "https://twitter.com/supermikimiki2",
+      "bilibili": "https://space.bilibili.com/477317922"
     },
     "links": {
-      "twitter": "https://twitter.com/KNTFR2434",
-      "youtube": "https://www.youtube.com/channel/UCC7rRD6P7RQcx0hKv9RQP4w"
-    },
-    "tags": [
-      "にじさんじ"
-    ],
-    "page": "https://www.nijisanji.jp/talents/l/kanato-fura"
-  },
-  {
-    "name": "黒井しば",
-    "allLinks": {
-      "twitter": "https://twitter.com/blackshiba_chan",
-      "youtube": "https://www.youtube.com/channel/UCmeyo5pRj_6PXG-CsGUuWWg",
-      "officialShop": "https://shop.nijisanji.jp/s/niji/group/list/049/item"
-    },
-    "links": {
-      "twitter": "https://twitter.com/blackshiba_chan",
-      "youtube": "https://www.youtube.com/channel/UCmeyo5pRj_6PXG-CsGUuWWg"
-    },
-    "tags": [
-      "にじさんじ"
-    ],
-    "page": "https://www.nijisanji.jp/talents/l/shiba-kuroi"
-  },
-  {
-    "name": "来栖夏芽",
-    "allLinks": {
-      "twitter": "https://twitter.com/kurusu72me",
-      "youtube": "https://www.youtube.com/channel/UCRcLAVTbmx2-iNcXSsupdNA",
-      "fanclub": "https://www.nijisanji.jp/fanclubs/kurusu-natsume",
-      "officialShop": "https://shop.nijisanji.jp/s/niji/group/list/093/item"
-    },
-    "links": {
-      "twitter": "https://twitter.com/kurusu72me",
-      "youtube": "https://www.youtube.com/channel/UCRcLAVTbmx2-iNcXSsupdNA"
-    },
-    "tags": [
-      "にじさんじ"
-    ],
-    "page": "https://www.nijisanji.jp/talents/l/natsume-kurusu"
-  },
-  {
-    "name": "小野町春香",
-    "allLinks": {
-      "twitter": "https://twitter.com/onomachi_haruka",
-      "youtube": "https://www.youtube.com/channel/UCg63a3lk6PNeWhVvMRM_mrQ",
-      "fanclub": "https://www.nijisanji.jp/fanclubs/onomachi-haruka",
-      "officialShop": "https://shop.nijisanji.jp/s/niji/group/list/055/item"
-    },
-    "links": {
-      "twitter": "https://twitter.com/onomachi_haruka",
-      "youtube": "https://www.youtube.com/channel/UCg63a3lk6PNeWhVvMRM_mrQ"
-    },
-    "tags": [
-      "にじさんじ"
-    ],
-    "page": "https://www.nijisanji.jp/talents/l/haruka-onomachi"
-  },
-  {
-    "name": "海妹四葉",
-    "allLinks": {
-      "twitter": "https://twitter.com/Yotsuha_Umise",
-      "youtube": "https://www.youtube.com/channel/UCtHY-tP0dyykhTRMmnfPs_g",
-      "officialShop": "https://shop.nijisanji.jp/s/niji/group/list/114/item?ima=4217"
-    },
-    "links": {
-      "twitter": "https://twitter.com/Yotsuha_Umise",
-      "youtube": "https://www.youtube.com/channel/UCtHY-tP0dyykhTRMmnfPs_g"
-    },
-    "tags": [
-      "にじさんじ"
-    ],
-    "page": "https://www.nijisanji.jp/talents/l/yotsuha-umise"
-  },
-  {
-    "name": "家長むぎ",
-    "allLinks": {
-      "twitter": "https://twitter.com/ienaga_mugi23",
-      "youtube": "https://www.youtube.com/channel/UC_GCs6GARLxEHxy1w40d6VQ",
-      "fanclub": "https://www.nijisanji.jp/fanclubs/ienaga-mugi",
-      "officialShop": "https://shop.nijisanji.jp/s/niji/group/list/009/item"
-    },
-    "links": {
-      "twitter": "https://twitter.com/ienaga_mugi23",
-      "youtube": "https://www.youtube.com/channel/UC_GCs6GARLxEHxy1w40d6VQ"
-    },
-    "tags": [
-      "にじさんじ"
-    ],
-    "page": "https://www.nijisanji.jp/talents/l/mugi-ienaga"
-  },
-  {
-    "name": "エリー・コニファー",
-    "allLinks": {
-      "twitter": "https://twitter.com/Eli_Conifer",
-      "youtube": "https://www.youtube.com/channel/UCpNH2Zk2gw3JBjWAKSyZcQQ",
-      "fanclub": "https://www.nijisanji.jp/fanclubs/eli-conifer",
-      "officialShop": "https://shop.nijisanji.jp/s/niji/group/list/077/item"
-    },
-    "links": {
-      "twitter": "https://twitter.com/Eli_Conifer",
-      "youtube": "https://www.youtube.com/channel/UCpNH2Zk2gw3JBjWAKSyZcQQ"
-    },
-    "tags": [
-      "にじさんじ"
-    ],
-    "page": "https://www.nijisanji.jp/talents/l/eli-conifer"
-  },
-  {
-    "name": "ドッピオ ドロップサイト",
-    "allLinks": {
-      "twitter": "https://twitter.com/D_Dropscythe",
-      "youtube": "https://www.youtube.com/@DoppioDropscythe"
-    },
-    "links": {
-      "twitter": "https://twitter.com/D_Dropscythe",
-      "youtube": "https://www.youtube.com/@DoppioDropscythe"
+      "twitter": "https://twitter.com/supermikimiki2",
+      "bilibili": "https://space.bilibili.com/477317922"
     },
     "tags": [
       "にじさんじ",
-      "NIJISANJI EN"
+      "VirtuaReal"
     ],
-    "page": "https://www.nijisanji.jp/talents/l/doppio-dropscythe"
-  },
-  {
-    "name": "緋八マナ",
-    "allLinks": {
-      "twitter": "https://twitter.com/Hibachi_Mana",
-      "youtube": "https://www.youtube.com/@HibachiMana",
-      "officialShop": "https://shop.nijisanji.jp/s/niji/group/list/191/item"
-    },
-    "links": {
-      "twitter": "https://twitter.com/Hibachi_Mana",
-      "youtube": "https://www.youtube.com/@HibachiMana"
-    },
-    "tags": [
-      "にじさんじ"
-    ],
-    "page": "https://www.nijisanji.jp/talents/l/mana-hibachi"
-  },
-  {
-    "name": "小柳ロウ",
-    "allLinks": {
-      "twitter": "https://twitter.com/Rou_2434",
-      "youtube": "https://www.youtube.com/@KoyanagiRou",
-      "officialShop": "https://shop.nijisanji.jp/s/niji/group/list/193/item?ima=3626#/all/new/0"
-    },
-    "links": {
-      "twitter": "https://twitter.com/Rou_2434",
-      "youtube": "https://www.youtube.com/@KoyanagiRou"
-    },
-    "tags": [
-      "にじさんじ"
-    ],
-    "page": "https://www.nijisanji.jp/talents/l/rou-koyanagi"
-  },
-  {
-    "name": "ヴェール ヴァーミリオン",
-    "allLinks": {
-      "twitter": "https://twitter.com/Ver_Vermillion",
-      "youtube": "https://www.youtube.com/@VerVermillion"
-    },
-    "links": {
-      "twitter": "https://twitter.com/Ver_Vermillion",
-      "youtube": "https://www.youtube.com/@VerVermillion"
-    },
-    "tags": [
-      "にじさんじ",
-      "NIJISANJI EN"
-    ],
-    "page": "https://www.nijisanji.jp/talents/l/ver-vermillion"
-  },
-  {
-    "name": "星導ショウ",
-    "allLinks": {
-      "twitter": "https://twitter.com/Show_SylveSTAR",
-      "youtube": "https://www.youtube.com/@HoshirubeSho",
-      "officialShop": "https://shop.nijisanji.jp/s/niji/group/list/194/item?ima=4618#/all/new/0"
-    },
-    "links": {
-      "twitter": "https://twitter.com/Show_SylveSTAR",
-      "youtube": "https://www.youtube.com/@HoshirubeSho"
-    },
-    "tags": [
-      "にじさんじ"
-    ],
-    "page": "https://www.nijisanji.jp/talents/l/sho-hoshirube"
-  },
-  {
-    "name": "栞葉るり",
-    "allLinks": {
-      "twitter": "https://x.com/Ruri_4ori8",
-      "youtube": "https://www.youtube.com/@ShiorihaRuri",
-      "fanclub": "https://www.nijisanji.jp/fanclubs/shioriha-ruri"
-    },
-    "links": {
-      "twitter": "https://x.com/Ruri_4ori8",
-      "youtube": "https://www.youtube.com/@ShiorihaRuri"
-    },
-    "tags": [
-      "にじさんじ"
-    ],
-    "page": "https://www.nijisanji.jp/talents/l/ruri-shioriha"
-  },
-  {
-    "name": "石神のぞみ",
-    "allLinks": {
-      "twitter": "https://twitter.com/I_Nozomi_",
-      "youtube": "https://www.youtube.com/channel/UCtLfA_qUqCJtjXJM2ZR_keg",
-      "officialShop": "https://shop.nijisanji.jp/s/niji/group/list/182/item"
-    },
-    "links": {
-      "twitter": "https://twitter.com/I_Nozomi_",
-      "youtube": "https://www.youtube.com/channel/UCtLfA_qUqCJtjXJM2ZR_keg"
-    },
-    "tags": [
-      "にじさんじ"
-    ],
-    "page": "https://www.nijisanji.jp/talents/l/nozomi-ishigami"
+    "page": "https://www.nijisanji.jp/talents/l/miki"
   },
   {
     "name": "えま★おうがすと",
@@ -1972,893 +1322,131 @@
     "page": "https://www.nijisanji.jp/talents/l/emma-august"
   },
   {
-    "name": "魁星",
+    "name": "魔使マオ",
     "allLinks": {
-      "twitter": "https://x.com/Kaisei_2434",
-      "youtube": "https://www.youtube.com/@Kaisei_nijisanji"
+      "twitter": "https://twitter.com/matsukai_mao",
+      "youtube": "https://www.youtube.com/channel/UCerkculBD7YLc_vOGrF7tKg",
+      "officialShop": "https://shop.nijisanji.jp/s/niji/group/list/087/item"
     },
     "links": {
-      "twitter": "https://x.com/Kaisei_2434",
-      "youtube": "https://www.youtube.com/@Kaisei_nijisanji"
+      "twitter": "https://twitter.com/matsukai_mao",
+      "youtube": "https://www.youtube.com/channel/UCerkculBD7YLc_vOGrF7tKg"
     },
     "tags": [
       "にじさんじ"
     ],
-    "page": "https://www.nijisanji.jp/talents/l/kaisei"
+    "page": "https://www.nijisanji.jp/talents/l/mao-matsukai"
   },
   {
-    "name": "セフィナ",
+    "name": "ルイス・キャミー",
     "allLinks": {
-      "twitter": "https://twitter.com/Seffyna2434",
-      "youtube": "https://www.youtube.com/channel/UCeGendL8CO5RkffB6IFwHow",
-      "twitch": "https://www.twitch.tv/seffyna2434"
+      "twitter": "https://twitter.com/Luis_Cammy",
+      "youtube": "https://www.youtube.com/channel/UCb6ObE-XGCctO3WrjRZC-cw",
+      "officialShop": "https://shop.nijisanji.jp/s/niji/group/list/086/item"
     },
     "links": {
-      "twitter": "https://twitter.com/Seffyna2434",
-      "youtube": "https://www.youtube.com/channel/UCeGendL8CO5RkffB6IFwHow",
-      "twitch": "https://www.twitch.tv/seffyna2434"
+      "twitter": "https://twitter.com/Luis_Cammy",
+      "youtube": "https://www.youtube.com/channel/UCb6ObE-XGCctO3WrjRZC-cw"
     },
     "tags": [
       "にじさんじ"
     ],
-    "page": "https://www.nijisanji.jp/talents/l/seffyna"
+    "page": "https://www.nijisanji.jp/talents/l/luis-cammy"
   },
   {
-    "name": "雪城眞尋",
+    "name": "阿萨",
     "allLinks": {
-      "twitter": "https://twitter.com/mahiroyukishiro",
-      "youtube": "https://www.youtube.com/channel/UCHX7YpFG8rVwhsHCx34xt7w",
-      "fanclub": "https://www.nijisanji.jp/fanclubs/mahiro-yukishiro",
-      "officialShop": "https://shop.nijisanji.jp/s/niji/group/list/065/item"
+      "twitter": "https://twitter.com/Aza_VirtuaReal",
+      "bilibili": "https://space.bilibili.com/480680646"
     },
     "links": {
-      "twitter": "https://twitter.com/mahiroyukishiro",
-      "youtube": "https://www.youtube.com/channel/UCHX7YpFG8rVwhsHCx34xt7w"
-    },
-    "tags": [
-      "にじさんじ"
-    ],
-    "page": "https://www.nijisanji.jp/talents/l/mahiro-yukishiro"
-  },
-  {
-    "name": "獅子堂あかり",
-    "allLinks": {
-      "twitter": "https://twitter.com/44do_akari",
-      "youtube": "https://www.youtube.com/channel/UCWRPqA0ehhWV4Hnp27PJCkQ",
-      "officialShop": "https://shop.nijisanji.jp/s/niji/group/list/186/item"
-    },
-    "links": {
-      "twitter": "https://twitter.com/44do_akari",
-      "youtube": "https://www.youtube.com/channel/UCWRPqA0ehhWV4Hnp27PJCkQ"
-    },
-    "tags": [
-      "にじさんじ"
-    ],
-    "page": "https://www.nijisanji.jp/talents/l/akari-shishido"
-  },
-  {
-    "name": "赤羽葉子",
-    "allLinks": {
-      "twitter": "https://twitter.com/youko_akabane",
-      "youtube": "https://www.youtube.com/channel/UCBi8YaVyZpiKWN3_Z0dCTfQ",
-      "officialShop": "https://shop.nijisanji.jp/s/niji/group/list/020/item"
-    },
-    "links": {
-      "twitter": "https://twitter.com/youko_akabane",
-      "youtube": "https://www.youtube.com/channel/UCBi8YaVyZpiKWN3_Z0dCTfQ"
-    },
-    "tags": [
-      "にじさんじ"
-    ],
-    "page": "https://www.nijisanji.jp/talents/l/youko-akabane"
-  },
-  {
-    "name": "佐伯イッテツ",
-    "allLinks": {
-      "twitter": "https://twitter.com/Saiki_Supadari",
-      "youtube": "https://www.youtube.com/@SaikiIttetsu",
-      "officialShop": "https://shop.nijisanji.jp/s/niji/group/list/190/item"
-    },
-    "links": {
-      "twitter": "https://twitter.com/Saiki_Supadari",
-      "youtube": "https://www.youtube.com/@SaikiIttetsu"
-    },
-    "tags": [
-      "にじさんじ"
-    ],
-    "page": "https://www.nijisanji.jp/talents/l/ittetsu-saiki"
-  },
-  {
-    "name": "空星きらめ",
-    "allLinks": {
-      "twitter": "https://twitter.com/kirame_2434",
-      "youtube": "https://www.youtube.com/channel/UC_82HBGtvwN1hcGeOGHzUBQ",
-      "officialShop": "https://shop.nijisanji.jp/s/niji/group/list/101/item"
-    },
-    "links": {
-      "twitter": "https://twitter.com/kirame_2434",
-      "youtube": "https://www.youtube.com/channel/UC_82HBGtvwN1hcGeOGHzUBQ"
-    },
-    "tags": [
-      "にじさんじ"
-    ],
-    "page": "https://www.nijisanji.jp/talents/l/kirame-sorahoshi"
-  },
-  {
-    "name": "宇志海いちご",
-    "allLinks": {
-      "twitter": "https://twitter.com/ushimi_ichigo",
-      "youtube": "https://www.youtube.com/channel/UCmUjjW5zF1MMOhYUwwwQv9Q",
-      "officialShop": "https://shop.nijisanji.jp/s/niji/group/list/015/item"
-    },
-    "links": {
-      "twitter": "https://twitter.com/ushimi_ichigo",
-      "youtube": "https://www.youtube.com/channel/UCmUjjW5zF1MMOhYUwwwQv9Q"
-    },
-    "tags": [
-      "にじさんじ"
-    ],
-    "page": "https://www.nijisanji.jp/talents/l/ichigo-ushimi"
-  },
-  {
-    "name": "五十嵐梨花",
-    "allLinks": {
-      "twitter": "https://twitter.com/1garashi_Rika",
-      "youtube": "https://www.youtube.com/channel/UCu-rV2gPtJ-CsGxe71z_BrQ",
-      "fanclub": "https://www.nijisanji.jp/fanclubs/igarashi-rika",
-      "officialShop": "https://shop.nijisanji.jp/s/niji/group/list/181/item"
-    },
-    "links": {
-      "twitter": "https://twitter.com/1garashi_Rika",
-      "youtube": "https://www.youtube.com/channel/UCu-rV2gPtJ-CsGxe71z_BrQ"
-    },
-    "tags": [
-      "にじさんじ"
-    ],
-    "page": "https://www.nijisanji.jp/talents/l/rika-igarashi"
-  },
-  {
-    "name": "愛園愛美",
-    "allLinks": {
-      "twitter": "https://twitter.com/manami_aizono",
-      "youtube": "https://www.youtube.com/channel/UC0WwEfE-jOM2rzjpdfhTzZA",
-      "fanclub": "https://www.nijisanji.jp/fanclubs/aizono-manami",
-      "officialShop": "https://shop.nijisanji.jp/s/niji/group/list/062/item"
-    },
-    "links": {
-      "twitter": "https://twitter.com/manami_aizono",
-      "youtube": "https://www.youtube.com/channel/UC0WwEfE-jOM2rzjpdfhTzZA"
-    },
-    "tags": [
-      "にじさんじ"
-    ],
-    "page": "https://www.nijisanji.jp/talents/l/manami-aizono"
-  },
-  {
-    "name": "榊ネス",
-    "allLinks": {
-      "twitter": "https://x.com/Ness_Sakaki",
-      "youtube": "https://www.youtube.com/@SakakiNess"
-    },
-    "links": {
-      "twitter": "https://x.com/Ness_Sakaki",
-      "youtube": "https://www.youtube.com/@SakakiNess"
-    },
-    "tags": [
-      "にじさんじ"
-    ],
-    "page": "https://www.nijisanji.jp/talents/l/ness-sakaki"
-  },
-  {
-    "name": "ベンタクロウ ブリンガー",
-    "allLinks": {
-      "twitter": "https://twitter.com/Tyrant_Vanta",
-      "youtube": "https://www.youtube.com/@VantacrowBringer"
-    },
-    "links": {
-      "twitter": "https://twitter.com/Tyrant_Vanta",
-      "youtube": "https://www.youtube.com/@VantacrowBringer"
+      "twitter": "https://twitter.com/Aza_VirtuaReal",
+      "bilibili": "https://space.bilibili.com/480680646"
     },
     "tags": [
       "にじさんじ",
-      "NIJISANJI EN"
+      "VirtuaReal"
     ],
-    "page": "https://www.nijisanji.jp/talents/l/vantacrow-bringer"
+    "page": "https://www.nijisanji.jp/talents/l/aza"
   },
   {
-    "name": "ヴェザリウス バンデージ",
+    "name": "度人",
     "allLinks": {
-      "twitter": "https://twitter.com/VezaliusBandage",
-      "youtube": "https://www.youtube.com/@VezaliusBandage"
+      "twitter": "https://twitter.com/VRduelTabibito",
+      "bilibili": "https://space.bilibili.com/474369808"
     },
     "links": {
-      "twitter": "https://twitter.com/VezaliusBandage",
-      "youtube": "https://www.youtube.com/@VezaliusBandage"
+      "twitter": "https://twitter.com/VRduelTabibito",
+      "bilibili": "https://space.bilibili.com/474369808"
     },
     "tags": [
       "にじさんじ",
-      "NIJISANJI EN"
+      "VirtuaReal"
     ],
-    "page": "https://www.nijisanji.jp/talents/l/vezalius-bandage"
+    "page": "https://www.nijisanji.jp/talents/l/tabibito"
   },
   {
-    "name": "雨森小夜",
+    "name": "八木迪之",
     "allLinks": {
-      "twitter": "https://twitter.com/sayo_amemori",
-      "youtube": "https://www.youtube.com/channel/UCRWOdwLRsenx2jLaiCAIU4A",
-      "officialShop": "https://shop.nijisanji.jp/s/niji/group/list/041/item"
+      "bilibili": "https://space.bilibili.com/480675481"
     },
     "links": {
-      "twitter": "https://twitter.com/sayo_amemori",
-      "youtube": "https://www.youtube.com/channel/UCRWOdwLRsenx2jLaiCAIU4A"
-    },
-    "tags": [
-      "にじさんじ"
-    ],
-    "page": "https://www.nijisanji.jp/talents/l/sayo-amemori"
-  },
-  {
-    "name": "瀬戸美夜子",
-    "allLinks": {
-      "twitter": "https://twitter.com/seto_miyako",
-      "youtube": "https://www.youtube.com/channel/UCHK5wkevfaGrPr7j3g56Jmw",
-      "fanclub": "https://www.nijisanji.jp/fanclubs/seto-miyako",
-      "officialShop": "https://shop.nijisanji.jp/s/niji/group/list/057/item"
-    },
-    "links": {
-      "twitter": "https://twitter.com/seto_miyako",
-      "youtube": "https://www.youtube.com/channel/UCHK5wkevfaGrPr7j3g56Jmw"
-    },
-    "tags": [
-      "にじさんじ"
-    ],
-    "page": "https://www.nijisanji.jp/talents/l/miyako-seto"
-  },
-  {
-    "name": "ミン スゥーハ",
-    "allLinks": {
-      "twitter": "https://twitter.com/SuhaMin2434",
-      "youtube": "https://www.youtube.com/channel/UCUtKkGKef8BYMs3h-3zQm9A",
-      "twitch": "https://www.twitch.tv/suha2434"
-    },
-    "links": {
-      "twitter": "https://twitter.com/SuhaMin2434",
-      "youtube": "https://www.youtube.com/channel/UCUtKkGKef8BYMs3h-3zQm9A",
-      "twitch": "https://www.twitch.tv/suha2434"
-    },
-    "tags": [
-      "にじさんじ"
-    ],
-    "page": "https://www.nijisanji.jp/talents/l/min-suha"
-  },
-  {
-    "name": "ギルザレンⅢ世",
-    "allLinks": {
-      "twitter": "https://twitter.com/gilzaren_iii",
-      "youtube": "https://www.youtube.com/channel/UCUzJ90o1EjqUbk2pBAy0_aw",
-      "officialShop": "https://shop.nijisanji.jp/s/niji/group/list/016/item"
-    },
-    "links": {
-      "twitter": "https://twitter.com/gilzaren_iii",
-      "youtube": "https://www.youtube.com/channel/UCUzJ90o1EjqUbk2pBAy0_aw"
-    },
-    "tags": [
-      "にじさんじ"
-    ],
-    "page": "https://www.nijisanji.jp/talents/l/gilzaren-iii"
-  },
-  {
-    "name": "春崎エアル",
-    "allLinks": {
-      "twitter": "https://twitter.com/harusakiair2434",
-      "youtube": "https://www.youtube.com/channel/UCtAvQ5U0aXyKwm2i4GqFgJg",
-      "officialShop": "https://shop.nijisanji.jp/s/niji/group/list/032/item"
-    },
-    "links": {
-      "twitter": "https://twitter.com/harusakiair2434",
-      "youtube": "https://www.youtube.com/channel/UCtAvQ5U0aXyKwm2i4GqFgJg"
-    },
-    "tags": [
-      "にじさんじ"
-    ],
-    "page": "https://www.nijisanji.jp/talents/l/air-harusaki"
-  },
-  {
-    "name": "ユウ Q ウィルソン",
-    "allLinks": {
-      "twitter": "https://twitter.com/YuQWilson",
-      "youtube": "https://www.youtube.com/@YuQ.Wilson"
-    },
-    "links": {
-      "twitter": "https://twitter.com/YuQWilson",
-      "youtube": "https://www.youtube.com/@YuQ.Wilson"
+      "bilibili": "https://space.bilibili.com/480675481"
     },
     "tags": [
       "にじさんじ",
-      "NIJISANJI EN"
+      "VirtuaReal"
     ],
-    "page": "https://www.nijisanji.jp/talents/l/yu-q-wilson"
+    "page": "https://www.nijisanji.jp/talents/l/yagi"
   },
   {
-    "name": "鈴谷アキ",
+    "name": "グウェル・オス・ガール",
     "allLinks": {
-      "twitter": "https://twitter.com/aki_suzuya",
-      "youtube": "https://www.youtube.com/channel/UCpnvhOIJ6BN-vPkYU9ls-Eg",
-      "fanclub": "https://www.nijisanji.jp/fanclubs/aki-suzuya",
-      "officialShop": "https://shop.nijisanji.jp/s/niji/group/list/003/item"
+      "twitter": "https://twitter.com/Gwelu_os_gar",
+      "youtube": "https://www.youtube.com/channel/UC1QgXt46-GEvtNjEC1paHnw",
+      "officialShop": "https://shop.nijisanji.jp/s/niji/group/list/090/item"
     },
     "links": {
-      "twitter": "https://twitter.com/aki_suzuya",
-      "youtube": "https://www.youtube.com/channel/UCpnvhOIJ6BN-vPkYU9ls-Eg"
+      "twitter": "https://twitter.com/Gwelu_os_gar",
+      "youtube": "https://www.youtube.com/channel/UC1QgXt46-GEvtNjEC1paHnw"
     },
     "tags": [
       "にじさんじ"
     ],
-    "page": "https://www.nijisanji.jp/talents/l/aki-suzuya"
+    "page": "https://www.nijisanji.jp/talents/l/gwelu-os-gar"
   },
   {
-    "name": "伊波ライ",
+    "name": "白雪巴",
     "allLinks": {
-      "twitter": "https://twitter.com/rai_173",
-      "youtube": "https://www.youtube.com/@InamiRai",
-      "officialShop": "https://shop.nijisanji.jp/s/niji/group/list/192/item?ima=4306#/all/new/0"
+      "twitter": "https://twitter.com/Tomoe_Shirayuki",
+      "youtube": "https://www.youtube.com/channel/UCuvk5PilcvDECU7dDZhQiEw",
+      "fanclub": "https://www.nijisanji.jp/fanclubs/shirayuki-tomoe?mode=contents",
+      "officialShop": "https://shop.nijisanji.jp/s/niji/group/list/089/item"
     },
     "links": {
-      "twitter": "https://twitter.com/rai_173",
-      "youtube": "https://www.youtube.com/@InamiRai"
+      "twitter": "https://twitter.com/Tomoe_Shirayuki",
+      "youtube": "https://www.youtube.com/channel/UCuvk5PilcvDECU7dDZhQiEw"
     },
     "tags": [
       "にじさんじ"
     ],
-    "page": "https://www.nijisanji.jp/talents/l/rai-inami"
+    "page": "https://www.nijisanji.jp/talents/l/tomoe-shirayuki"
   },
   {
-    "name": "渋谷ハジメ",
+    "name": "不破湊",
     "allLinks": {
-      "twitter": "https://twitter.com/sibuya_hajime",
-      "youtube": "https://www.youtube.com/channel/UCeK9HFcRZoTrvqcUCtccMoQ",
-      "officialShop": "https://shop.nijisanji.jp/s/niji/group/list/001/item"
+      "twitter": "https://twitter.com/Fuwa_Minato",
+      "youtube": "https://www.youtube.com/channel/UC6wvdADTJ88OfIbJYIpAaDA",
+      "officialShop": "https://shop.nijisanji.jp/s/niji/group/list/088/item"
     },
     "links": {
-      "twitter": "https://twitter.com/sibuya_hajime",
-      "youtube": "https://www.youtube.com/channel/UCeK9HFcRZoTrvqcUCtccMoQ"
+      "twitter": "https://twitter.com/Fuwa_Minato",
+      "youtube": "https://www.youtube.com/channel/UC6wvdADTJ88OfIbJYIpAaDA"
     },
     "tags": [
       "にじさんじ"
     ],
-    "page": "https://www.nijisanji.jp/talents/l/hajime-shibuya"
-  },
-  {
-    "name": "叢雲カゲツ",
-    "allLinks": {
-      "twitter": "https://twitter.com/Kagetsu_2434",
-      "youtube": "https://www.youtube.com/@MurakumoKagetsu",
-      "officialShop": "https://shop.nijisanji.jp/s/niji/group/list/195/item?ima=4824#/all/new/0"
-    },
-    "links": {
-      "twitter": "https://twitter.com/Kagetsu_2434",
-      "youtube": "https://www.youtube.com/@MurakumoKagetsu"
-    },
-    "tags": [
-      "にじさんじ"
-    ],
-    "page": "https://www.nijisanji.jp/talents/l/kagetsu-murakumo"
-  },
-  {
-    "name": "宇佐美リト",
-    "allLinks": {
-      "twitter": "https://twitter.com/usamirito_power",
-      "youtube": "https://www.youtube.com/@UsamiRito",
-      "officialShop": "https://shop.nijisanji.jp/s/niji/group/list/189/item"
-    },
-    "links": {
-      "twitter": "https://twitter.com/usamirito_power",
-      "youtube": "https://www.youtube.com/@UsamiRito"
-    },
-    "tags": [
-      "にじさんじ"
-    ],
-    "page": "https://www.nijisanji.jp/talents/l/rito-usami"
-  },
-  {
-    "name": "鏑木ろこ",
-    "allLinks": {
-      "twitter": "https://twitter.com/65_kaburaki",
-      "youtube": "https://www.youtube.com/channel/UClrQ7xhRBxS_v_-WuudGKmA",
-      "fanclub": "https://www.nijisanji.jp/fanclubs/kaburaki-roco",
-      "officialShop": "https://shop.nijisanji.jp/s/niji/group/list/183/item"
-    },
-    "links": {
-      "twitter": "https://twitter.com/65_kaburaki",
-      "youtube": "https://www.youtube.com/channel/UClrQ7xhRBxS_v_-WuudGKmA"
-    },
-    "tags": [
-      "にじさんじ"
-    ],
-    "page": "https://www.nijisanji.jp/talents/l/roco-kaburaki"
-  },
-  {
-    "name": "轟京子",
-    "allLinks": {
-      "twitter": "https://twitter.com/kt_seeds",
-      "youtube": "https://www.youtube.com/channel/UCRV9d6YCYIMUszK-83TwxVA",
-      "officialShop": "https://shop.nijisanji.jp/s/niji/group/list/024/item"
-    },
-    "links": {
-      "twitter": "https://twitter.com/kt_seeds",
-      "youtube": "https://www.youtube.com/channel/UCRV9d6YCYIMUszK-83TwxVA"
-    },
-    "tags": [
-      "にじさんじ"
-    ],
-    "page": "https://www.nijisanji.jp/talents/l/kyoko-todoroki"
-  },
-  {
-    "name": "東堂コハク",
-    "allLinks": {
-      "twitter": "https://twitter.com/kohaku_todo",
-      "youtube": "https://www.youtube.com/channel/UCebT4Aq-3XWb5je1S1FvR_A",
-      "officialShop": "https://shop.nijisanji.jp/s/niji/group/list/104/item"
-    },
-    "links": {
-      "twitter": "https://twitter.com/kohaku_todo",
-      "youtube": "https://www.youtube.com/channel/UCebT4Aq-3XWb5je1S1FvR_A"
-    },
-    "tags": [
-      "にじさんじ"
-    ],
-    "page": "https://www.nijisanji.jp/talents/l/kohaku-todo"
-  },
-  {
-    "name": "モイラ",
-    "allLinks": {
-      "twitter": "https://twitter.com/moiramoimoimoi",
-      "youtube": "https://www.youtube.com/channel/UCvmppcdYf4HOv-tFQhHHJMA",
-      "fanclub": "https://www.nijisanji.jp/fanclubs/moira",
-      "officialShop": "https://shop.nijisanji.jp/s/niji/group/list/002/item"
-    },
-    "links": {
-      "twitter": "https://twitter.com/moiramoimoimoi",
-      "youtube": "https://www.youtube.com/channel/UCvmppcdYf4HOv-tFQhHHJMA"
-    },
-    "tags": [
-      "にじさんじ"
-    ],
-    "page": "https://www.nijisanji.jp/talents/l/moira"
-  },
-  {
-    "name": "倉持めると",
-    "allLinks": {
-      "twitter": "https://twitter.com/k_meruto",
-      "youtube": "https://www.youtube.com/channel/UCiA-trSZfB0i92V_-dyDqBw",
-      "officialShop": "https://shop.nijisanji.jp/s/niji/group/list/184/item"
-    },
-    "links": {
-      "twitter": "https://twitter.com/k_meruto",
-      "youtube": "https://www.youtube.com/channel/UCiA-trSZfB0i92V_-dyDqBw"
-    },
-    "tags": [
-      "にじさんじ"
-    ],
-    "page": "https://www.nijisanji.jp/talents/l/meruto-kuramochi"
-  },
-  {
-    "name": "成瀬鳴",
-    "allLinks": {
-      "twitter": "https://twitter.com/narusenaru_2434",
-      "youtube": "https://www.youtube.com/channel/UCoM_XmK45j504hfUWvN06Qg",
-      "officialShop": "https://shop.nijisanji.jp/s/niji/group/list/031/item"
-    },
-    "links": {
-      "twitter": "https://twitter.com/narusenaru_2434",
-      "youtube": "https://www.youtube.com/channel/UCoM_XmK45j504hfUWvN06Qg"
-    },
-    "tags": [
-      "にじさんじ"
-    ],
-    "page": "https://www.nijisanji.jp/talents/l/naru-naruse"
-  },
-  {
-    "name": "天ヶ瀬むゆ",
-    "allLinks": {
-      "twitter": "https://twitter.com/Muyu_Amagase",
-      "youtube": "https://www.youtube.com/channel/UCAQDFeCTVdx90GtwohwjHzQ",
-      "officialShop": "https://shop.nijisanji.jp/s/niji/group/list/112/item?ima=3241"
-    },
-    "links": {
-      "twitter": "https://twitter.com/Muyu_Amagase",
-      "youtube": "https://www.youtube.com/channel/UCAQDFeCTVdx90GtwohwjHzQ"
-    },
-    "tags": [
-      "にじさんじ"
-    ],
-    "page": "https://www.nijisanji.jp/talents/l/muyu-amagase"
-  },
-  {
-    "name": "赤城ウェン",
-    "allLinks": {
-      "twitter": "https://twitter.com/akagi_wen",
-      "youtube": "https://www.youtube.com/@AkagiWen",
-      "officialShop": "https://shop.nijisanji.jp/s/niji/group/list/188/item"
-    },
-    "links": {
-      "twitter": "https://twitter.com/akagi_wen",
-      "youtube": "https://www.youtube.com/@AkagiWen"
-    },
-    "tags": [
-      "にじさんじ"
-    ],
-    "page": "https://www.nijisanji.jp/talents/l/wen-akagi"
-  },
-  {
-    "name": "北見遊征",
-    "allLinks": {
-      "twitter": "https://x.com/Kitami_Coolguy",
-      "youtube": "https://www.youtube.com/@KitamiYusei"
-    },
-    "links": {
-      "twitter": "https://x.com/Kitami_Coolguy",
-      "youtube": "https://www.youtube.com/@KitamiYusei"
-    },
-    "tags": [
-      "にじさんじ"
-    ],
-    "page": "https://www.nijisanji.jp/talents/l/yusei-kitami"
-  },
-  {
-    "name": "矢車りね",
-    "allLinks": {
-      "twitter": "https://twitter.com/rine_yaguruma",
-      "youtube": "https://www.youtube.com/channel/UCvzVB-EYuHFXHZrObB8a_Og",
-      "officialShop": "https://shop.nijisanji.jp/s/niji/group/list/050/item"
-    },
-    "links": {
-      "twitter": "https://twitter.com/rine_yaguruma",
-      "youtube": "https://www.youtube.com/channel/UCvzVB-EYuHFXHZrObB8a_Og"
-    },
-    "tags": [
-      "にじさんじ"
-    ],
-    "page": "https://www.nijisanji.jp/talents/l/rine-yaguruma"
-  },
-  {
-    "name": "クロード クローマーク",
-    "allLinks": {
-      "twitter": "https://x.com/ClaudeClawmark",
-      "youtube": "https://www.youtube.com/@ClaudeClawmark"
-    },
-    "links": {
-      "twitter": "https://x.com/ClaudeClawmark",
-      "youtube": "https://www.youtube.com/@ClaudeClawmark"
-    },
-    "tags": [
-      "にじさんじ",
-      "NIJISANJI EN"
-    ],
-    "page": "https://www.nijisanji.jp/talents/l/claude-clawmark"
-  },
-  {
-    "name": "飛鳥ひな",
-    "allLinks": {
-      "twitter": "https://twitter.com/hina__asuka",
-      "youtube": "https://www.youtube.com/channel/UCiSRx1a2k-0tOg-fs6gAolQ",
-      "officialShop": "https://shop.nijisanji.jp/s/niji/group/list/042/item"
-    },
-    "links": {
-      "twitter": "https://twitter.com/hina__asuka",
-      "youtube": "https://www.youtube.com/channel/UCiSRx1a2k-0tOg-fs6gAolQ"
-    },
-    "tags": [
-      "にじさんじ"
-    ],
-    "page": "https://www.nijisanji.jp/talents/l/hina-asuka"
-  },
-  {
-    "name": "ミラン・ケストレル",
-    "allLinks": {
-      "twitter": "https://x.com/Milan_Kestrel",
-      "youtube": "https://www.youtube.com/@MilanKestrel"
-    },
-    "links": {
-      "twitter": "https://x.com/Milan_Kestrel",
-      "youtube": "https://www.youtube.com/@MilanKestrel"
-    },
-    "tags": [
-      "にじさんじ"
-    ],
-    "page": "https://www.nijisanji.jp/talents/l/milan-kestrel"
-  },
-  {
-    "name": "ヴィクトリア ブライトシールド",
-    "allLinks": {
-      "twitter": "https://x.com/VBrightshield",
-      "youtube": "https://www.youtube.com/@VictoriaBrightshield"
-    },
-    "links": {
-      "twitter": "https://x.com/VBrightshield",
-      "youtube": "https://www.youtube.com/@VictoriaBrightshield"
-    },
-    "tags": [
-      "にじさんじ",
-      "NIJISANJI EN"
-    ],
-    "page": "https://www.nijisanji.jp/talents/l/victoria-brightshield"
-  },
-  {
-    "name": "イ ロハ",
-    "allLinks": {
-      "twitter": "https://twitter.com/RohaLee2434",
-      "youtube": "https://www.youtube.com/channel/UCClwIqTUn5LDpFucHyaAhHg",
-      "twitch": "https://www.twitch.tv/rohalee2434"
-    },
-    "links": {
-      "twitter": "https://twitter.com/RohaLee2434",
-      "youtube": "https://www.youtube.com/channel/UCClwIqTUn5LDpFucHyaAhHg",
-      "twitch": "https://www.twitch.tv/rohalee2434"
-    },
-    "tags": [
-      "にじさんじ"
-    ],
-    "page": "https://www.nijisanji.jp/talents/l/lee-roha"
-  },
-  {
-    "name": "ハ ユン",
-    "allLinks": {
-      "twitter": "https://twitter.com/HaYun2434",
-      "youtube": "https://www.youtube.com/channel/UCrhhJPNsOqzNIkUfTABoSpg",
-      "twitch": "https://www.twitch.tv/hayun2434"
-    },
-    "links": {
-      "twitter": "https://twitter.com/HaYun2434",
-      "youtube": "https://www.youtube.com/channel/UCrhhJPNsOqzNIkUfTABoSpg",
-      "twitch": "https://www.twitch.tv/hayun2434"
-    },
-    "tags": [
-      "にじさんじ"
-    ],
-    "page": "https://www.nijisanji.jp/talents/l/ha-yun"
-  },
-  {
-    "name": "ソ ナギ",
-    "allLinks": {
-      "twitter": "https://twitter.com/NagiSo2434",
-      "youtube": "https://www.youtube.com/channel/UC5ek2GWKvUKFgnKSHuuCFrw",
-      "twitch": "https://www.twitch.tv/nagiso2434"
-    },
-    "links": {
-      "twitter": "https://twitter.com/NagiSo2434",
-      "youtube": "https://www.youtube.com/channel/UC5ek2GWKvUKFgnKSHuuCFrw",
-      "twitch": "https://www.twitch.tv/nagiso2434"
-    },
-    "tags": [
-      "にじさんじ"
-    ],
-    "page": "https://www.nijisanji.jp/talents/l/so-nagi"
-  },
-  {
-    "name": "語部紡",
-    "allLinks": {
-      "twitter": "https://twitter.com/KataribeTsumugu",
-      "youtube": "https://www.youtube.com/channel/UCufQu4q65z63IgE4cfKs1BQ",
-      "officialShop": "https://shop.nijisanji.jp/s/niji/group/list/056/item"
-    },
-    "links": {
-      "twitter": "https://twitter.com/KataribeTsumugu",
-      "youtube": "https://www.youtube.com/channel/UCufQu4q65z63IgE4cfKs1BQ"
-    },
-    "tags": [
-      "にじさんじ"
-    ],
-    "page": "https://www.nijisanji.jp/talents/l/tsumugu-kataribe"
-  },
-  {
-    "name": "立伝都々",
-    "allLinks": {
-      "twitter": "https://x.com/tctt10_10",
-      "youtube": "https://www.youtube.com/@TachitsuteToto"
-    },
-    "links": {
-      "twitter": "https://x.com/tctt10_10",
-      "youtube": "https://www.youtube.com/@TachitsuteToto"
-    },
-    "tags": [
-      "にじさんじ"
-    ],
-    "page": "https://www.nijisanji.jp/talents/l/toto-tachitsute"
-  },
-  {
-    "name": "ライラ アルストロエメリア",
-    "allLinks": {
-      "twitter": "https://twitter.com/LaylaAlstro2434",
-      "youtube": "https://www.youtube.com/channel/UCyRkQSuhJILuGOuXk10voPg",
-      "facebook": "https://www.facebook.com/LaylaAlstroemeria/"
-    },
-    "links": {
-      "twitter": "https://twitter.com/LaylaAlstro2434",
-      "youtube": "https://www.youtube.com/channel/UCyRkQSuhJILuGOuXk10voPg"
-    },
-    "tags": [
-      "にじさんじ"
-    ],
-    "page": "https://www.nijisanji.jp/talents/l/layla-alstroemeria"
-  },
-  {
-    "name": "中里 苦無",
-    "allLinks": {
-      "twitter": "https://x.com/KunaiNakasato",
-      "youtube": "https://www.youtube.com/@KunaiNakasato"
-    },
-    "links": {
-      "twitter": "https://x.com/KunaiNakasato",
-      "youtube": "https://www.youtube.com/@KunaiNakasato"
-    },
-    "tags": [
-      "にじさんじ",
-      "NIJISANJI EN"
-    ],
-    "page": "https://www.nijisanji.jp/talents/l/kunai-nakasato"
-  },
-  {
-    "name": "バン ハダ",
-    "allLinks": {
-      "twitter": "https://twitter.com/BanHada2434",
-      "youtube": "https://www.youtube.com/channel/UCLjx3lqIkYkPCBJop8czJ2A",
-      "twitch": "https://www.twitch.tv/banhada2434"
-    },
-    "links": {
-      "twitter": "https://twitter.com/BanHada2434",
-      "youtube": "https://www.youtube.com/channel/UCLjx3lqIkYkPCBJop8czJ2A",
-      "twitch": "https://www.twitch.tv/banhada2434"
-    },
-    "tags": [
-      "にじさんじ"
-    ],
-    "page": "https://www.nijisanji.jp/talents/l/ban-hada"
-  },
-  {
-    "name": "珠乃井ナナ",
-    "allLinks": {
-      "twitter": "https://x.com/7_tamanoi",
-      "youtube": "https://www.youtube.com/@TamanoiNana"
-    },
-    "links": {
-      "twitter": "https://x.com/7_tamanoi",
-      "youtube": "https://www.youtube.com/@TamanoiNana"
-    },
-    "tags": [
-      "にじさんじ"
-    ],
-    "page": "https://www.nijisanji.jp/talents/l/nana-tamanoi"
-  },
-  {
-    "name": "綺沙良",
-    "allLinks": {
-      "twitter": "https://x.com/Kisara_2434",
-      "youtube": "https://www.youtube.com/@Kisara_nijisanji"
-    },
-    "links": {
-      "twitter": "https://x.com/Kisara_2434",
-      "youtube": "https://www.youtube.com/@Kisara_nijisanji"
-    },
-    "tags": [
-      "にじさんじ"
-    ],
-    "page": "https://www.nijisanji.jp/talents/l/kisara"
-  },
-  {
-    "name": "ナ セラ",
-    "allLinks": {
-      "twitter": "https://twitter.com/NaSera2434",
-      "youtube": "https://www.youtube.com/channel/UCX88Pe54pxbJDSGIyGrzNdg",
-      "twitch": "https://www.twitch.tv/nasera2434"
-    },
-    "links": {
-      "twitter": "https://twitter.com/NaSera2434",
-      "youtube": "https://www.youtube.com/channel/UCX88Pe54pxbJDSGIyGrzNdg",
-      "twitch": "https://www.twitch.tv/nasera2434"
-    },
-    "tags": [
-      "にじさんじ"
-    ],
-    "page": "https://www.nijisanji.jp/talents/l/na-sera"
-  },
-  {
-    "name": "クララ チャームウッド",
-    "allLinks": {
-      "twitter": "https://x.com/KlaraCharmwood",
-      "youtube": "https://www.youtube.com/@KlaraCharmwood"
-    },
-    "links": {
-      "twitter": "https://x.com/KlaraCharmwood",
-      "youtube": "https://www.youtube.com/@KlaraCharmwood"
-    },
-    "tags": [
-      "にじさんじ",
-      "NIJISANJI EN"
-    ],
-    "page": "https://www.nijisanji.jp/talents/l/klara-charmwood"
-  },
-  {
-    "name": "エトナ クリムソン",
-    "allLinks": {
-      "twitter": "https://twitter.com/Etna_Crimson",
-      "youtube": "https://www.youtube.com/channel/UCjFu-9GHnabzSFRAYm1B9Dw",
-      "facebook": "https://www.facebook.com/etnacrimson/"
-    },
-    "links": {
-      "twitter": "https://twitter.com/Etna_Crimson",
-      "youtube": "https://www.youtube.com/channel/UCjFu-9GHnabzSFRAYm1B9Dw"
-    },
-    "tags": [
-      "にじさんじ"
-    ],
-    "page": "https://www.nijisanji.jp/talents/l/etna-crimson"
-  },
-  {
-    "name": "明楽レイ",
-    "allLinks": {
-      "twitter": "https://twitter.com/RayAkira2434",
-      "youtube": "https://www.youtube.com/channel/UC7hffDQLKIEG-_zoAQkMIvg",
-      "twitch": "https://www.twitch.tv/rayakira2434"
-    },
-    "links": {
-      "twitter": "https://twitter.com/RayAkira2434",
-      "youtube": "https://www.youtube.com/channel/UC7hffDQLKIEG-_zoAQkMIvg",
-      "twitch": "https://www.twitch.tv/rayakira2434"
-    },
-    "tags": [
-      "にじさんじ"
-    ],
-    "page": "https://www.nijisanji.jp/talents/l/akira-ray"
-  },
-  {
-    "name": "司賀りこ",
-    "allLinks": {
-      "twitter": "https://x.com/Shigariko_",
-      "youtube": "https://www.youtube.com/@ShigaRiko"
-    },
-    "links": {
-      "twitter": "https://x.com/Shigariko_",
-      "youtube": "https://www.youtube.com/@ShigaRiko"
-    },
-    "tags": [
-      "にじさんじ"
-    ],
-    "page": "https://www.nijisanji.jp/talents/l/riko-shiga"
-  },
-  {
-    "name": "オ ジユ",
-    "allLinks": {
-      "twitter": "https://twitter.com/JiyuOh2434",
-      "youtube": "https://www.youtube.com/channel/UCnzZmBOSrQf2wDBbnsDajVw",
-      "twitch": "https://www.twitch.tv/jiyuoh2434"
-    },
-    "links": {
-      "twitter": "https://twitter.com/JiyuOh2434",
-      "youtube": "https://www.youtube.com/channel/UCnzZmBOSrQf2wDBbnsDajVw",
-      "twitch": "https://www.twitch.tv/jiyuoh2434"
-    },
-    "tags": [
-      "にじさんじ"
-    ],
-    "page": "https://www.nijisanji.jp/talents/l/oh-jiyu"
-  },
-  {
-    "name": "ガオン",
-    "allLinks": {
-      "twitter": "https://twitter.com/Gaon2434",
-      "youtube": "https://www.youtube.com/channel/UCpRXCTyNNa-MnjhK6gisnRw",
-      "twitch": "https://www.twitch.tv/gaon_2434"
-    },
-    "links": {
-      "twitter": "https://twitter.com/Gaon2434",
-      "youtube": "https://www.youtube.com/channel/UCpRXCTyNNa-MnjhK6gisnRw",
-      "twitch": "https://www.twitch.tv/gaon_2434"
-    },
-    "tags": [
-      "にじさんじ"
-    ],
-    "page": "https://www.nijisanji.jp/talents/l/gaon"
+    "page": "https://www.nijisanji.jp/talents/l/minato-fuwa"
   },
   {
     "name": "ライ ガリレイ",
@@ -2877,162 +1465,53 @@
     "page": "https://www.nijisanji.jp/talents/l/rai-galilei"
   },
   {
-    "name": "梢桃音",
+    "name": "来栖夏芽",
     "allLinks": {
-      "twitter": "https://x.com/KozueMone",
-      "youtube": "https://www.youtube.com/@KozueMone"
+      "twitter": "https://twitter.com/kurusu72me",
+      "youtube": "https://www.youtube.com/channel/UCRcLAVTbmx2-iNcXSsupdNA",
+      "fanclub": "https://www.nijisanji.jp/fanclubs/kurusu-natsume",
+      "officialShop": "https://shop.nijisanji.jp/s/niji/group/list/093/item"
     },
     "links": {
-      "twitter": "https://x.com/KozueMone",
-      "youtube": "https://www.youtube.com/@KozueMone"
+      "twitter": "https://twitter.com/kurusu72me",
+      "youtube": "https://www.youtube.com/channel/UCRcLAVTbmx2-iNcXSsupdNA"
     },
     "tags": [
       "にじさんじ"
     ],
-    "page": "https://www.nijisanji.jp/talents/l/mone-kozue"
+    "page": "https://www.nijisanji.jp/talents/l/natsume-kurusu"
   },
   {
-    "name": "凉舞 バレンウォート",
+    "name": "奈羅花",
     "allLinks": {
-      "twitter": "https://x.com/RyomaBarrenwort",
-      "youtube": "https://www.youtube.com/@RyomaBarrenwort"
+      "twitter": "https://twitter.com/Naraka_2434",
+      "youtube": "https://www.youtube.com/channel/UC-o-E6I3IC2q8sAoAuM6Umg",
+      "officialShop": "https://shop.nijisanji.jp/s/niji/group/list/092/item"
     },
     "links": {
-      "twitter": "https://x.com/RyomaBarrenwort",
-      "youtube": "https://www.youtube.com/@RyomaBarrenwort"
-    },
-    "tags": [
-      "にじさんじ",
-      "NIJISANJI EN"
-    ],
-    "page": "https://www.nijisanji.jp/talents/l/ryoma-barrenwort"
-  },
-  {
-    "name": "トゥイスティー アマノザコ",
-    "allLinks": {
-      "twitter": "https://x.com/TwistyAmanozako",
-      "youtube": "https://www.youtube.com/@TwistyAmanozako"
-    },
-    "links": {
-      "twitter": "https://x.com/TwistyAmanozako",
-      "youtube": "https://www.youtube.com/@TwistyAmanozako"
-    },
-    "tags": [
-      "にじさんじ",
-      "NIJISANJI EN"
-    ],
-    "page": "https://www.nijisanji.jp/talents/l/twisty-amanozako"
-  },
-  {
-    "name": "デレム カド",
-    "allLinks": {
-      "twitter": "https://twitter.com/DeremKado",
-      "youtube": "https://www.youtube.com/channel/UCMzVa7B8UEdrvUGsPmSgyjA",
-      "facebook": "https://www.facebook.com/DeremKado/"
-    },
-    "links": {
-      "twitter": "https://twitter.com/DeremKado",
-      "youtube": "https://www.youtube.com/channel/UCMzVa7B8UEdrvUGsPmSgyjA"
+      "twitter": "https://twitter.com/Naraka_2434",
+      "youtube": "https://www.youtube.com/channel/UC-o-E6I3IC2q8sAoAuM6Umg"
     },
     "tags": [
       "にじさんじ"
     ],
-    "page": "https://www.nijisanji.jp/talents/l/derem-kado"
+    "page": "https://www.nijisanji.jp/talents/l/naraka"
   },
   {
-    "name": "リュ ハリ",
+    "name": "ましろ爻",
     "allLinks": {
-      "twitter": "https://twitter.com/HariRyu2434",
-      "youtube": "https://www.youtube.com/channel/UClS6k3w1sPwlVFqK3-yID5A",
-      "twitch": "https://www.twitch.tv/hariryu2434"
+      "twitter": "https://twitter.com/mashiro2434",
+      "youtube": "https://www.youtube.com/channel/UCS-XXTgVkotkbkDnGEprXpg",
+      "officialShop": "https://shop.nijisanji.jp/s/niji/group/list/091/item"
     },
     "links": {
-      "twitter": "https://twitter.com/HariRyu2434",
-      "youtube": "https://www.youtube.com/channel/UClS6k3w1sPwlVFqK3-yID5A",
-      "twitch": "https://www.twitch.tv/hariryu2434"
+      "twitter": "https://twitter.com/mashiro2434",
+      "youtube": "https://www.youtube.com/channel/UCS-XXTgVkotkbkDnGEprXpg"
     },
     "tags": [
       "にじさんじ"
     ],
-    "page": "https://www.nijisanji.jp/talents/l/ryu-hari"
-  },
-  {
-    "name": "ナギサ アルシニア",
-    "allLinks": {
-      "twitter": "https://twitter.com/NagisaArcinia",
-      "youtube": "https://www.youtube.com/channel/UCijNnZ-6m8g85UGaRAWuw7g",
-      "facebook": "https://www.facebook.com/NagisaArcinia"
-    },
-    "links": {
-      "twitter": "https://twitter.com/NagisaArcinia",
-      "youtube": "https://www.youtube.com/channel/UCijNnZ-6m8g85UGaRAWuw7g"
-    },
-    "tags": [
-      "にじさんじ"
-    ],
-    "page": "https://www.nijisanji.jp/talents/l/nagisa-arcinia"
-  },
-  {
-    "name": "希侑",
-    "allLinks": {
-      "twitter": "https://twitter.com/KiyuuVR",
-      "bilibili": "https://space.bilibili.com/1155425566"
-    },
-    "links": {
-      "twitter": "https://twitter.com/KiyuuVR",
-      "bilibili": "https://space.bilibili.com/1155425566"
-    },
-    "tags": [
-      "にじさんじ",
-      "VirtuaReal"
-    ],
-    "page": "https://www.nijisanji.jp/talents/l/kiyuu"
-  },
-  {
-    "name": "狩砂",
-    "allLinks": {
-      "bilibili": "https://space.bilibili.com/690608714"
-    },
-    "links": {
-      "bilibili": "https://space.bilibili.com/690608714"
-    },
-    "tags": [
-      "にじさんじ",
-      "VirtuaReal"
-    ],
-    "page": "https://www.nijisanji.jp/talents/l/karisa"
-  },
-  {
-    "name": "尤格",
-    "allLinks": {
-      "twitter": "https://twitter.com/yoghulk",
-      "bilibili": "https://space.bilibili.com/690608709/"
-    },
-    "links": {
-      "twitter": "https://twitter.com/yoghulk",
-      "bilibili": "https://space.bilibili.com/690608709/"
-    },
-    "tags": [
-      "にじさんじ",
-      "VirtuaReal"
-    ],
-    "page": "https://www.nijisanji.jp/talents/l/yog"
-  },
-  {
-    "name": "艾因",
-    "allLinks": {
-      "twitter": "https://twitter.com/VirtuaRealEine",
-      "bilibili": "https://space.bilibili.com/421267475"
-    },
-    "links": {
-      "twitter": "https://twitter.com/VirtuaRealEine",
-      "bilibili": "https://space.bilibili.com/421267475"
-    },
-    "tags": [
-      "にじさんじ",
-      "VirtuaReal"
-    ],
-    "page": "https://www.nijisanji.jp/talents/l/eine"
+    "page": "https://www.nijisanji.jp/talents/l/meme-mashiro"
   },
   {
     "name": "沙夜",
@@ -3065,20 +1544,473 @@
     "page": "https://www.nijisanji.jp/talents/l/yukie"
   },
   {
-    "name": "度人",
+    "name": "ガオン",
     "allLinks": {
-      "twitter": "https://twitter.com/VRduelTabibito",
-      "bilibili": "https://space.bilibili.com/474369808"
+      "twitter": "https://twitter.com/Gaon2434",
+      "youtube": "https://www.youtube.com/channel/UCpRXCTyNNa-MnjhK6gisnRw",
+      "twitch": "https://www.twitch.tv/gaon_2434"
     },
     "links": {
-      "twitter": "https://twitter.com/VRduelTabibito",
-      "bilibili": "https://space.bilibili.com/474369808"
+      "twitter": "https://twitter.com/Gaon2434",
+      "youtube": "https://www.youtube.com/channel/UCpRXCTyNNa-MnjhK6gisnRw",
+      "twitch": "https://www.twitch.tv/gaon_2434"
+    },
+    "tags": [
+      "にじさんじ"
+    ],
+    "page": "https://www.nijisanji.jp/talents/l/gaon"
+  },
+  {
+    "name": "ミン スゥーハ",
+    "allLinks": {
+      "twitter": "https://twitter.com/SuhaMin2434",
+      "youtube": "https://www.youtube.com/channel/UCUtKkGKef8BYMs3h-3zQm9A",
+      "twitch": "https://www.twitch.tv/suha2434"
+    },
+    "links": {
+      "twitter": "https://twitter.com/SuhaMin2434",
+      "youtube": "https://www.youtube.com/channel/UCUtKkGKef8BYMs3h-3zQm9A",
+      "twitch": "https://www.twitch.tv/suha2434"
+    },
+    "tags": [
+      "にじさんじ"
+    ],
+    "page": "https://www.nijisanji.jp/talents/l/min-suha"
+  },
+  {
+    "name": "イブラヒム",
+    "allLinks": {
+      "twitter": "https://twitter.com/honmono_ibrahim",
+      "youtube": "https://www.youtube.com/channel/UCmZ1Rbthn-6Jm_qOGjYsh5A",
+      "officialShop": "https://shop.nijisanji.jp/s/niji/group/list/095/item"
+    },
+    "links": {
+      "twitter": "https://twitter.com/honmono_ibrahim",
+      "youtube": "https://www.youtube.com/channel/UCmZ1Rbthn-6Jm_qOGjYsh5A"
+    },
+    "tags": [
+      "にじさんじ"
+    ],
+    "page": "https://www.nijisanji.jp/talents/l/ibrahim"
+  },
+  {
+    "name": "フレン・E・ルスタリオ",
+    "allLinks": {
+      "twitter": "https://twitter.com/furen_2434",
+      "youtube": "https://www.youtube.com/channel/UCuep1JCrMvSxOGgGhBfJuYw",
+      "officialShop": "https://shop.nijisanji.jp/s/niji/group/list/094/item"
+    },
+    "links": {
+      "twitter": "https://twitter.com/furen_2434",
+      "youtube": "https://www.youtube.com/channel/UCuep1JCrMvSxOGgGhBfJuYw"
+    },
+    "tags": [
+      "にじさんじ"
+    ],
+    "page": "https://www.nijisanji.jp/talents/l/furen-e-lustario"
+  },
+  {
+    "name": "ライラ アルストロエメリア",
+    "allLinks": {
+      "twitter": "https://twitter.com/LaylaAlstro2434",
+      "youtube": "https://www.youtube.com/channel/UCyRkQSuhJILuGOuXk10voPg",
+      "facebook": "https://www.facebook.com/LaylaAlstroemeria/"
+    },
+    "links": {
+      "twitter": "https://twitter.com/LaylaAlstro2434",
+      "youtube": "https://www.youtube.com/channel/UCyRkQSuhJILuGOuXk10voPg"
+    },
+    "tags": [
+      "にじさんじ"
+    ],
+    "page": "https://www.nijisanji.jp/talents/l/layla-alstroemeria"
+  },
+  {
+    "name": "甲斐田晴",
+    "allLinks": {
+      "twitter": "https://twitter.com/Kaida_Haru",
+      "youtube": "https://www.youtube.com/channel/UCo2N7C-Z91waaR6lF3LL_jw",
+      "officialShop": "https://shop.nijisanji.jp/s/niji/group/list/097/item"
+    },
+    "links": {
+      "twitter": "https://twitter.com/Kaida_Haru",
+      "youtube": "https://www.youtube.com/channel/UCo2N7C-Z91waaR6lF3LL_jw"
+    },
+    "tags": [
+      "にじさんじ"
+    ],
+    "page": "https://www.nijisanji.jp/talents/l/haru-kaida"
+  },
+  {
+    "name": "弦月藤士郎",
+    "allLinks": {
+      "twitter": "https://twitter.com/1O46V",
+      "youtube": "https://www.youtube.com/channel/UCGw7lrT-rVZCWHfdG9Frcgg",
+      "officialShop": "https://shop.nijisanji.jp/s/niji/group/list/099/item"
+    },
+    "links": {
+      "twitter": "https://twitter.com/1O46V",
+      "youtube": "https://www.youtube.com/channel/UCGw7lrT-rVZCWHfdG9Frcgg"
+    },
+    "tags": [
+      "にじさんじ"
+    ],
+    "page": "https://www.nijisanji.jp/talents/l/tojiro-genzuki"
+  },
+  {
+    "name": "長尾景",
+    "allLinks": {
+      "twitter": "https://twitter.com/kei_nagao2434",
+      "youtube": "https://www.youtube.com/channel/UCXW4MqCQn-jCaxlX-nn-BYg",
+      "officialShop": "https://shop.nijisanji.jp/s/niji/group/list/098/item"
+    },
+    "links": {
+      "twitter": "https://twitter.com/kei_nagao2434",
+      "youtube": "https://www.youtube.com/channel/UCXW4MqCQn-jCaxlX-nn-BYg"
+    },
+    "tags": [
+      "にじさんじ"
+    ],
+    "page": "https://www.nijisanji.jp/talents/l/kei-nagao"
+  },
+  {
+    "name": "ソ ナギ",
+    "allLinks": {
+      "twitter": "https://twitter.com/NagiSo2434",
+      "youtube": "https://www.youtube.com/channel/UC5ek2GWKvUKFgnKSHuuCFrw",
+      "twitch": "https://www.twitch.tv/nagiso2434"
+    },
+    "links": {
+      "twitter": "https://twitter.com/NagiSo2434",
+      "youtube": "https://www.youtube.com/channel/UC5ek2GWKvUKFgnKSHuuCFrw",
+      "twitch": "https://www.twitch.tv/nagiso2434"
+    },
+    "tags": [
+      "にじさんじ"
+    ],
+    "page": "https://www.nijisanji.jp/talents/l/so-nagi"
+  },
+  {
+    "name": "空星きらめ",
+    "allLinks": {
+      "twitter": "https://twitter.com/kirame_2434",
+      "youtube": "https://www.youtube.com/channel/UC_82HBGtvwN1hcGeOGHzUBQ",
+      "officialShop": "https://shop.nijisanji.jp/s/niji/group/list/101/item"
+    },
+    "links": {
+      "twitter": "https://twitter.com/kirame_2434",
+      "youtube": "https://www.youtube.com/channel/UC_82HBGtvwN1hcGeOGHzUBQ"
+    },
+    "tags": [
+      "にじさんじ"
+    ],
+    "page": "https://www.nijisanji.jp/talents/l/kirame-sorahoshi"
+  },
+  {
+    "name": "千春",
+    "allLinks": {
+      "twitter": "https://twitter.com/Chiharu_VR",
+      "bilibili": "https://space.bilibili.com/558070433/"
+    },
+    "links": {
+      "twitter": "https://twitter.com/Chiharu_VR",
+      "bilibili": "https://space.bilibili.com/558070433/"
     },
     "tags": [
       "にじさんじ",
       "VirtuaReal"
     ],
-    "page": "https://www.nijisanji.jp/talents/l/tabibito"
+    "page": "https://www.nijisanji.jp/talents/l/chiharu"
+  },
+  {
+    "name": "北小路ヒスイ",
+    "allLinks": {
+      "twitter": "https://twitter.com/Hisui_Kitakoji",
+      "youtube": "https://www.youtube.com/channel/UCRqBKoKuX30ruKAq05pCeRQ",
+      "fanclub": "https://www.nijisanji.jp/fanclubs/kitakoji-hisui",
+      "officialShop": "https://shop.nijisanji.jp/s/niji/group/list/105/item"
+    },
+    "links": {
+      "twitter": "https://twitter.com/Hisui_Kitakoji",
+      "youtube": "https://www.youtube.com/channel/UCRqBKoKuX30ruKAq05pCeRQ"
+    },
+    "tags": [
+      "にじさんじ"
+    ],
+    "page": "https://www.nijisanji.jp/talents/l/hisui-kitakoji"
+  },
+  {
+    "name": "周央サンゴ",
+    "allLinks": {
+      "twitter": "https://twitter.com/Suo_Sango",
+      "youtube": "https://www.youtube.com/channel/UCL_O_HXgLJx3Auteer0n0pA",
+      "officialShop": "https://shop.nijisanji.jp/s/niji/group/list/103/item"
+    },
+    "links": {
+      "twitter": "https://twitter.com/Suo_Sango",
+      "youtube": "https://www.youtube.com/channel/UCL_O_HXgLJx3Auteer0n0pA"
+    },
+    "tags": [
+      "にじさんじ"
+    ],
+    "page": "https://www.nijisanji.jp/talents/l/sango-suo"
+  },
+  {
+    "name": "東堂コハク",
+    "allLinks": {
+      "twitter": "https://twitter.com/kohaku_todo",
+      "youtube": "https://www.youtube.com/channel/UCebT4Aq-3XWb5je1S1FvR_A",
+      "officialShop": "https://shop.nijisanji.jp/s/niji/group/list/104/item"
+    },
+    "links": {
+      "twitter": "https://twitter.com/kohaku_todo",
+      "youtube": "https://www.youtube.com/channel/UCebT4Aq-3XWb5je1S1FvR_A"
+    },
+    "tags": [
+      "にじさんじ"
+    ],
+    "page": "https://www.nijisanji.jp/talents/l/kohaku-todo"
+  },
+  {
+    "name": "西園チグサ",
+    "allLinks": {
+      "twitter": "https://twitter.com/Chigusa_24zono",
+      "youtube": "https://www.youtube.com/channel/UCkngxfPbmGyGl_RIq4FA3MQ",
+      "officialShop": "https://shop.nijisanji.jp/s/niji/group/list/106/item"
+    },
+    "links": {
+      "twitter": "https://twitter.com/Chigusa_24zono",
+      "youtube": "https://www.youtube.com/channel/UCkngxfPbmGyGl_RIq4FA3MQ"
+    },
+    "tags": [
+      "にじさんじ"
+    ],
+    "page": "https://www.nijisanji.jp/talents/l/chigusa-nishizono"
+  },
+  {
+    "name": "明楽レイ",
+    "allLinks": {
+      "twitter": "https://twitter.com/RayAkira2434",
+      "youtube": "https://www.youtube.com/channel/UC7hffDQLKIEG-_zoAQkMIvg",
+      "twitch": "https://www.twitch.tv/rayakira2434"
+    },
+    "links": {
+      "twitter": "https://twitter.com/RayAkira2434",
+      "youtube": "https://www.youtube.com/channel/UC7hffDQLKIEG-_zoAQkMIvg",
+      "twitch": "https://www.twitch.tv/rayakira2434"
+    },
+    "tags": [
+      "にじさんじ"
+    ],
+    "page": "https://www.nijisanji.jp/talents/l/akira-ray"
+  },
+  {
+    "name": "イ ロハ",
+    "allLinks": {
+      "twitter": "https://twitter.com/RohaLee2434",
+      "youtube": "https://www.youtube.com/channel/UCClwIqTUn5LDpFucHyaAhHg",
+      "twitch": "https://www.twitch.tv/rohalee2434"
+    },
+    "links": {
+      "twitter": "https://twitter.com/RohaLee2434",
+      "youtube": "https://www.youtube.com/channel/UCClwIqTUn5LDpFucHyaAhHg",
+      "twitch": "https://www.twitch.tv/rohalee2434"
+    },
+    "tags": [
+      "にじさんじ"
+    ],
+    "page": "https://www.nijisanji.jp/talents/l/lee-roha"
+  },
+  {
+    "name": "エトナ クリムソン",
+    "allLinks": {
+      "twitter": "https://twitter.com/Etna_Crimson",
+      "youtube": "https://www.youtube.com/channel/UCjFu-9GHnabzSFRAYm1B9Dw",
+      "facebook": "https://www.facebook.com/etnacrimson/"
+    },
+    "links": {
+      "twitter": "https://twitter.com/Etna_Crimson",
+      "youtube": "https://www.youtube.com/channel/UCjFu-9GHnabzSFRAYm1B9Dw"
+    },
+    "tags": [
+      "にじさんじ"
+    ],
+    "page": "https://www.nijisanji.jp/talents/l/etna-crimson"
+  },
+  {
+    "name": "勺",
+    "allLinks": {
+      "bilibili": "https://space.bilibili.com/666726801"
+    },
+    "links": {
+      "bilibili": "https://space.bilibili.com/666726801"
+    },
+    "tags": [
+      "にじさんじ",
+      "VirtuaReal"
+    ],
+    "page": "https://www.nijisanji.jp/talents/l/shaun"
+  },
+  {
+    "name": "悠亚",
+    "allLinks": {
+      "twitter": "https://twitter.com/yyyy2114",
+      "bilibili": "https://space.bilibili.com/666726799"
+    },
+    "links": {
+      "twitter": "https://twitter.com/yyyy2114",
+      "bilibili": "https://space.bilibili.com/666726799"
+    },
+    "tags": [
+      "にじさんじ",
+      "VirtuaReal"
+    ],
+    "page": "https://www.nijisanji.jp/talents/l/yua"
+  },
+  {
+    "name": "オ ジユ",
+    "allLinks": {
+      "twitter": "https://twitter.com/JiyuOh2434",
+      "youtube": "https://www.youtube.com/channel/UCnzZmBOSrQf2wDBbnsDajVw",
+      "twitch": "https://www.twitch.tv/jiyuoh2434"
+    },
+    "links": {
+      "twitter": "https://twitter.com/JiyuOh2434",
+      "youtube": "https://www.youtube.com/channel/UCnzZmBOSrQf2wDBbnsDajVw",
+      "twitch": "https://www.twitch.tv/jiyuoh2434"
+    },
+    "tags": [
+      "にじさんじ"
+    ],
+    "page": "https://www.nijisanji.jp/talents/l/oh-jiyu"
+  },
+  {
+    "name": "ヤン ナリ",
+    "allLinks": {
+      "twitter": "https://twitter.com/NariYang2434",
+      "youtube": "https://www.youtube.com/channel/UCCHH0nWYXFZmtDS_4tvMxHQ",
+      "twitch": "https://www.twitch.tv/nariyang2434"
+    },
+    "links": {
+      "twitter": "https://twitter.com/NariYang2434",
+      "youtube": "https://www.youtube.com/channel/UCCHH0nWYXFZmtDS_4tvMxHQ",
+      "twitch": "https://www.twitch.tv/nariyang2434"
+    },
+    "tags": [
+      "にじさんじ"
+    ],
+    "page": "https://www.nijisanji.jp/talents/l/yang-nari"
+  },
+  {
+    "name": "リュ ハリ",
+    "allLinks": {
+      "twitter": "https://twitter.com/HariRyu2434",
+      "youtube": "https://www.youtube.com/channel/UClS6k3w1sPwlVFqK3-yID5A",
+      "twitch": "https://www.twitch.tv/hariryu2434"
+    },
+    "links": {
+      "twitter": "https://twitter.com/HariRyu2434",
+      "youtube": "https://www.youtube.com/channel/UClS6k3w1sPwlVFqK3-yID5A",
+      "twitch": "https://www.twitch.tv/hariryu2434"
+    },
+    "tags": [
+      "にじさんじ"
+    ],
+    "page": "https://www.nijisanji.jp/talents/l/ryu-hari"
+  },
+  {
+    "name": "デレム カド",
+    "allLinks": {
+      "twitter": "https://twitter.com/DeremKado",
+      "youtube": "https://www.youtube.com/channel/UCMzVa7B8UEdrvUGsPmSgyjA",
+      "facebook": "https://www.facebook.com/DeremKado/"
+    },
+    "links": {
+      "twitter": "https://twitter.com/DeremKado",
+      "youtube": "https://www.youtube.com/channel/UCMzVa7B8UEdrvUGsPmSgyjA"
+    },
+    "tags": [
+      "にじさんじ"
+    ],
+    "page": "https://www.nijisanji.jp/talents/l/derem-kado"
+  },
+  {
+    "name": "ナギサ アルシニア",
+    "allLinks": {
+      "twitter": "https://twitter.com/NagisaArcinia",
+      "youtube": "https://www.youtube.com/channel/UCijNnZ-6m8g85UGaRAWuw7g",
+      "facebook": "https://www.facebook.com/NagisaArcinia"
+    },
+    "links": {
+      "twitter": "https://twitter.com/NagisaArcinia",
+      "youtube": "https://www.youtube.com/channel/UCijNnZ-6m8g85UGaRAWuw7g"
+    },
+    "tags": [
+      "にじさんじ"
+    ],
+    "page": "https://www.nijisanji.jp/talents/l/nagisa-arcinia"
+  },
+  {
+    "name": "千幽",
+    "allLinks": {
+      "bilibili": "https://space.bilibili.com/690608691"
+    },
+    "links": {
+      "bilibili": "https://space.bilibili.com/690608691"
+    },
+    "tags": [
+      "にじさんじ",
+      "VirtuaReal"
+    ],
+    "page": "https://www.nijisanji.jp/talents/l/chiyuu"
+  },
+  {
+    "name": "勾檀",
+    "allLinks": {
+      "bilibili": "https://space.bilibili.com/690608693"
+    },
+    "links": {
+      "bilibili": "https://space.bilibili.com/690608693"
+    },
+    "tags": [
+      "にじさんじ",
+      "VirtuaReal"
+    ],
+    "page": "https://www.nijisanji.jp/talents/l/mayumi"
+  },
+  {
+    "name": "セフィナ",
+    "allLinks": {
+      "twitter": "https://twitter.com/Seffyna2434",
+      "youtube": "https://www.youtube.com/channel/UCeGendL8CO5RkffB6IFwHow",
+      "twitch": "https://www.twitch.tv/seffyna2434"
+    },
+    "links": {
+      "twitter": "https://twitter.com/Seffyna2434",
+      "youtube": "https://www.youtube.com/channel/UCeGendL8CO5RkffB6IFwHow",
+      "twitch": "https://www.twitch.tv/seffyna2434"
+    },
+    "tags": [
+      "にじさんじ"
+    ],
+    "page": "https://www.nijisanji.jp/talents/l/seffyna"
+  },
+  {
+    "name": "バン ハダ",
+    "allLinks": {
+      "twitter": "https://twitter.com/BanHada2434",
+      "youtube": "https://www.youtube.com/channel/UCLjx3lqIkYkPCBJop8czJ2A",
+      "twitch": "https://www.twitch.tv/banhada2434"
+    },
+    "links": {
+      "twitter": "https://twitter.com/BanHada2434",
+      "youtube": "https://www.youtube.com/channel/UCLjx3lqIkYkPCBJop8czJ2A",
+      "twitch": "https://www.twitch.tv/banhada2434"
+    },
+    "tags": [
+      "にじさんじ"
+    ],
+    "page": "https://www.nijisanji.jp/talents/l/ban-hada"
   },
   {
     "name": "吉吉",
@@ -3111,6 +2043,76 @@
     "page": "https://www.nijisanji.jp/talents/l/tocci"
   },
   {
+    "name": "エリーラ ペンドラ",
+    "allLinks": {
+      "twitter": "https://twitter.com/EliraPendora",
+      "youtube": "https://www.youtube.com/channel/UCIeSUTOTkF9Hs7q3SGcO-Ow",
+      "reddit": "https://www.reddit.com/user/Elira_Pendora"
+    },
+    "links": {
+      "twitter": "https://twitter.com/EliraPendora",
+      "youtube": "https://www.youtube.com/channel/UCIeSUTOTkF9Hs7q3SGcO-Ow"
+    },
+    "tags": [
+      "にじさんじ",
+      "NIJISANJI EN"
+    ],
+    "page": "https://www.nijisanji.jp/talents/l/elira-pendora"
+  },
+  {
+    "name": "フィナーナ 竜宮",
+    "allLinks": {
+      "twitter": "https://twitter.com/FinanaRyugu",
+      "youtube": "https://www.youtube.com/channel/UCu-J8uIXuLZh16gG-cT1naw",
+      "reddit": "https://www.reddit.com/user/Finana_Ryugu"
+    },
+    "links": {
+      "twitter": "https://twitter.com/FinanaRyugu",
+      "youtube": "https://www.youtube.com/channel/UCu-J8uIXuLZh16gG-cT1naw"
+    },
+    "tags": [
+      "にじさんじ",
+      "NIJISANJI EN"
+    ],
+    "page": "https://www.nijisanji.jp/talents/l/finana-ryugu"
+  },
+  {
+    "name": "ペトラ グリン",
+    "allLinks": {
+      "twitter": "https://twitter.com/Petra_Gurin",
+      "youtube": "https://www.youtube.com/channel/UCgA2jKRkqpY_8eysPUs8sjw",
+      "twitch": "https://www.twitch.tv/petragurin"
+    },
+    "links": {
+      "twitter": "https://twitter.com/Petra_Gurin",
+      "youtube": "https://www.youtube.com/channel/UCgA2jKRkqpY_8eysPUs8sjw",
+      "twitch": "https://www.twitch.tv/petragurin"
+    },
+    "tags": [
+      "にじさんじ",
+      "NIJISANJI EN"
+    ],
+    "page": "https://www.nijisanji.jp/talents/l/petra-gurin"
+  },
+  {
+    "name": "ロゼミ ラブロック",
+    "allLinks": {
+      "twitter": "https://twitter.com/Rosemi_Lovelock",
+      "youtube": "https://www.youtube.com/channel/UC4WvIIAo89_AzGUh1AZ6Dkg",
+      "twitch": "https://www.twitch.tv/rosemilovelock"
+    },
+    "links": {
+      "twitter": "https://twitter.com/Rosemi_Lovelock",
+      "youtube": "https://www.youtube.com/channel/UC4WvIIAo89_AzGUh1AZ6Dkg",
+      "twitch": "https://www.twitch.tv/rosemilovelock"
+    },
+    "tags": [
+      "にじさんじ",
+      "NIJISANJI EN"
+    ],
+    "page": "https://www.nijisanji.jp/talents/l/rosemi-lovelock"
+  },
+  {
     "name": "夜宫",
     "allLinks": {
       "bilibili": "https://space.bilibili.com/690608689"
@@ -3139,6 +2141,104 @@
     "page": "https://www.nijisanji.jp/talents/l/rhea"
   },
   {
+    "name": "オリバー・エバンス",
+    "allLinks": {
+      "twitter": "https://twitter.com/oliverD_23",
+      "youtube": "https://www.youtube.com/channel/UCqjTqdVlvIipZXIKeCkHKUA",
+      "officialShop": "https://shop.nijisanji.jp/s/niji/group/list/110/item"
+    },
+    "links": {
+      "twitter": "https://twitter.com/oliverD_23",
+      "youtube": "https://www.youtube.com/channel/UCqjTqdVlvIipZXIKeCkHKUA"
+    },
+    "tags": [
+      "にじさんじ"
+    ],
+    "page": "https://www.nijisanji.jp/talents/l/oliver-evans"
+  },
+  {
+    "name": "レイン・パターソン",
+    "allLinks": {
+      "twitter": "https://twitter.com/Lain_Paterson",
+      "youtube": "https://www.youtube.com/channel/UCRm6lqtdxs_Qo6HeL-SRQ-w",
+      "officialShop": "https://shop.nijisanji.jp/s/niji/group/list/107/item"
+    },
+    "links": {
+      "twitter": "https://twitter.com/Lain_Paterson",
+      "youtube": "https://www.youtube.com/channel/UCRm6lqtdxs_Qo6HeL-SRQ-w"
+    },
+    "tags": [
+      "にじさんじ"
+    ],
+    "page": "https://www.nijisanji.jp/talents/l/lain-paterson"
+  },
+  {
+    "name": "レオス・ヴィンセント",
+    "allLinks": {
+      "twitter": "https://twitter.com/Leos_Vincent",
+      "youtube": "https://www.youtube.com/channel/UC-6rZgmxZSIbq786j3RD5ow",
+      "officialShop": "https://shop.nijisanji.jp/s/niji/group/list/111/item"
+    },
+    "links": {
+      "twitter": "https://twitter.com/Leos_Vincent",
+      "youtube": "https://www.youtube.com/channel/UC-6rZgmxZSIbq786j3RD5ow"
+    },
+    "tags": [
+      "にじさんじ"
+    ],
+    "page": "https://www.nijisanji.jp/talents/l/leos-vincent"
+  },
+  {
+    "name": "ローレン・イロアス",
+    "allLinks": {
+      "twitter": "https://twitter.com/Lauren_iroas",
+      "youtube": "https://www.youtube.com/channel/UCgmFrRcyH7d1zR9sIVQhFow",
+      "officialShop": "https://shop.nijisanji.jp/s/niji/group/list/109/item"
+    },
+    "links": {
+      "twitter": "https://twitter.com/Lauren_iroas",
+      "youtube": "https://www.youtube.com/channel/UCgmFrRcyH7d1zR9sIVQhFow"
+    },
+    "tags": [
+      "にじさんじ"
+    ],
+    "page": "https://www.nijisanji.jp/talents/l/lauren-iroas"
+  },
+  {
+    "name": "ナ セラ",
+    "allLinks": {
+      "twitter": "https://twitter.com/NaSera2434",
+      "youtube": "https://www.youtube.com/channel/UCX88Pe54pxbJDSGIyGrzNdg",
+      "twitch": "https://www.twitch.tv/nasera2434"
+    },
+    "links": {
+      "twitter": "https://twitter.com/NaSera2434",
+      "youtube": "https://www.youtube.com/channel/UCX88Pe54pxbJDSGIyGrzNdg",
+      "twitch": "https://www.twitch.tv/nasera2434"
+    },
+    "tags": [
+      "にじさんじ"
+    ],
+    "page": "https://www.nijisanji.jp/talents/l/na-sera"
+  },
+  {
+    "name": "ハ ユン",
+    "allLinks": {
+      "twitter": "https://twitter.com/HaYun2434",
+      "youtube": "https://www.youtube.com/channel/UCrhhJPNsOqzNIkUfTABoSpg",
+      "twitch": "https://www.twitch.tv/hayun2434"
+    },
+    "links": {
+      "twitter": "https://twitter.com/HaYun2434",
+      "youtube": "https://www.youtube.com/channel/UCrhhJPNsOqzNIkUfTABoSpg",
+      "twitch": "https://www.twitch.tv/hayun2434"
+    },
+    "tags": [
+      "にじさんじ"
+    ],
+    "page": "https://www.nijisanji.jp/talents/l/ha-yun"
+  },
+  {
     "name": "友夏",
     "allLinks": {
       "bilibili": "https://space.bilibili.com/690608712/"
@@ -3151,6 +2251,192 @@
       "VirtuaReal"
     ],
     "page": "https://www.nijisanji.jp/talents/l/uka"
+  },
+  {
+    "name": "克克",
+    "allLinks": {
+      "bilibili": "https://space.bilibili.com/690608711/"
+    },
+    "links": {
+      "bilibili": "https://space.bilibili.com/690608711/"
+    },
+    "tags": [
+      "にじさんじ",
+      "VirtuaReal"
+    ],
+    "page": "https://www.nijisanji.jp/talents/l/keke"
+  },
+  {
+    "name": "暴食",
+    "allLinks": {
+      "bilibili": "https://space.bilibili.com/690608710/"
+    },
+    "links": {
+      "bilibili": "https://space.bilibili.com/690608710/"
+    },
+    "tags": [
+      "にじさんじ",
+      "VirtuaReal"
+    ],
+    "page": "https://www.nijisanji.jp/talents/l/hunger"
+  },
+  {
+    "name": "尤格",
+    "allLinks": {
+      "twitter": "https://twitter.com/yoghulk",
+      "bilibili": "https://space.bilibili.com/690608709/"
+    },
+    "links": {
+      "twitter": "https://twitter.com/yoghulk",
+      "bilibili": "https://space.bilibili.com/690608709/"
+    },
+    "tags": [
+      "にじさんじ",
+      "VirtuaReal"
+    ],
+    "page": "https://www.nijisanji.jp/talents/l/yog"
+  },
+  {
+    "name": "エナー・アールウェット",
+    "allLinks": {
+      "twitter": "https://twitter.com/EnnaAlouette",
+      "youtube": "https://www.youtube.com/channel/UCR6qhsLpn62WVxCBK1dkLow"
+    },
+    "links": {
+      "twitter": "https://twitter.com/EnnaAlouette",
+      "youtube": "https://www.youtube.com/channel/UCR6qhsLpn62WVxCBK1dkLow"
+    },
+    "tags": [
+      "にじさんじ",
+      "NIJISANJI EN"
+    ],
+    "page": "https://www.nijisanji.jp/talents/l/enna-alouette"
+  },
+  {
+    "name": "遠藤霊夢",
+    "allLinks": {
+      "twitter": "https://twitter.com/ReimuEndou",
+      "youtube": "https://www.youtube.com/channel/UCBURM8S4LH7cRZ0Clea9RDA"
+    },
+    "links": {
+      "twitter": "https://twitter.com/ReimuEndou",
+      "youtube": "https://www.youtube.com/channel/UCBURM8S4LH7cRZ0Clea9RDA"
+    },
+    "tags": [
+      "にじさんじ",
+      "NIJISANJI EN"
+    ],
+    "page": "https://www.nijisanji.jp/talents/l/reimu-endou"
+  },
+  {
+    "name": "ミリー・パフェ",
+    "allLinks": {
+      "twitter": "https://twitter.com/MillieParfait",
+      "youtube": "https://www.youtube.com/channel/UC47rNmkDcNgbOcM-2BwzJTQ"
+    },
+    "links": {
+      "twitter": "https://twitter.com/MillieParfait",
+      "youtube": "https://www.youtube.com/channel/UC47rNmkDcNgbOcM-2BwzJTQ"
+    },
+    "tags": [
+      "にじさんじ",
+      "NIJISANJI EN"
+    ],
+    "page": "https://www.nijisanji.jp/talents/l/millie-parfait"
+  },
+  {
+    "name": "アイク・イーヴランド",
+    "allLinks": {
+      "twitter": "https://twitter.com/Ike_Eveland",
+      "youtube": "https://www.youtube.com/channel/UC4yNIKGvy-YUrwYupVdLDXA"
+    },
+    "links": {
+      "twitter": "https://twitter.com/Ike_Eveland",
+      "youtube": "https://www.youtube.com/channel/UC4yNIKGvy-YUrwYupVdLDXA"
+    },
+    "tags": [
+      "にじさんじ",
+      "NIJISANJI EN"
+    ],
+    "page": "https://www.nijisanji.jp/talents/l/ike-eveland"
+  },
+  {
+    "name": "ヴォックス・アクマ",
+    "allLinks": {
+      "twitter": "https://twitter.com/Vox_Akuma",
+      "youtube": "https://www.youtube.com/channel/UCckdfYDGrjojJM28n5SHYrA"
+    },
+    "links": {
+      "twitter": "https://twitter.com/Vox_Akuma",
+      "youtube": "https://www.youtube.com/channel/UCckdfYDGrjojJM28n5SHYrA"
+    },
+    "tags": [
+      "にじさんじ",
+      "NIJISANJI EN"
+    ],
+    "page": "https://www.nijisanji.jp/talents/l/vox-akuma"
+  },
+  {
+    "name": "闇ノシュウ",
+    "allLinks": {
+      "twitter": "https://twitter.com/Shu_Yamino",
+      "youtube": "https://www.youtube.com/channel/UCG0rzBZV_QMP4MtWg6IjhEA"
+    },
+    "links": {
+      "twitter": "https://twitter.com/Shu_Yamino",
+      "youtube": "https://www.youtube.com/channel/UCG0rzBZV_QMP4MtWg6IjhEA"
+    },
+    "tags": [
+      "にじさんじ",
+      "NIJISANJI EN"
+    ],
+    "page": "https://www.nijisanji.jp/talents/l/shu-yamino"
+  },
+  {
+    "name": "ルカ・カネシロ",
+    "allLinks": {
+      "twitter": "https://twitter.com/Luca_Kaneshiro",
+      "youtube": "https://www.youtube.com/channel/UC7Gb7Uawe20QyFibhLl1lzA"
+    },
+    "links": {
+      "twitter": "https://twitter.com/Luca_Kaneshiro",
+      "youtube": "https://www.youtube.com/channel/UC7Gb7Uawe20QyFibhLl1lzA"
+    },
+    "tags": [
+      "にじさんじ",
+      "NIJISANJI EN"
+    ],
+    "page": "https://www.nijisanji.jp/talents/l/luca-kaneshiro"
+  },
+  {
+    "name": "狩砂",
+    "allLinks": {
+      "bilibili": "https://space.bilibili.com/690608714"
+    },
+    "links": {
+      "bilibili": "https://space.bilibili.com/690608714"
+    },
+    "tags": [
+      "にじさんじ",
+      "VirtuaReal"
+    ],
+    "page": "https://www.nijisanji.jp/talents/l/karisa"
+  },
+  {
+    "name": "希侑",
+    "allLinks": {
+      "twitter": "https://twitter.com/KiyuuVR",
+      "bilibili": "https://space.bilibili.com/1155425566"
+    },
+    "links": {
+      "twitter": "https://twitter.com/KiyuuVR",
+      "bilibili": "https://space.bilibili.com/1155425566"
+    },
+    "tags": [
+      "にじさんじ",
+      "VirtuaReal"
+    ],
+    "page": "https://www.nijisanji.jp/talents/l/kiyuu"
   },
   {
     "name": "雾深",
@@ -3183,197 +2469,911 @@
     "page": "https://www.nijisanji.jp/talents/l/sibil"
   },
   {
-    "name": "暴食",
+    "name": "アルバーン・ノックス",
     "allLinks": {
-      "bilibili": "https://space.bilibili.com/690608710/"
+      "twitter": "https://twitter.com/alban_knox",
+      "youtube": "https://www.youtube.com/channel/UCQ1zGxHrfEmmW4CPpBx9-qw"
     },
     "links": {
-      "bilibili": "https://space.bilibili.com/690608710/"
+      "twitter": "https://twitter.com/alban_knox",
+      "youtube": "https://www.youtube.com/channel/UCQ1zGxHrfEmmW4CPpBx9-qw"
     },
     "tags": [
       "にじさんじ",
-      "VirtuaReal"
+      "NIJISANJI EN"
     ],
-    "page": "https://www.nijisanji.jp/talents/l/hunger"
+    "page": "https://www.nijisanji.jp/talents/l/alban-knox"
   },
   {
-    "name": "克克",
+    "name": "浮奇・ヴィオレタ",
     "allLinks": {
-      "bilibili": "https://space.bilibili.com/690608711/"
+      "twitter": "https://twitter.com/uki_violeta",
+      "youtube": "https://www.youtube.com/channel/UChJ5FTsHOu72_5OVx0rvsvQ"
     },
     "links": {
-      "bilibili": "https://space.bilibili.com/690608711/"
+      "twitter": "https://twitter.com/uki_violeta",
+      "youtube": "https://www.youtube.com/channel/UChJ5FTsHOu72_5OVx0rvsvQ"
     },
     "tags": [
       "にじさんじ",
-      "VirtuaReal"
+      "NIJISANJI EN"
     ],
-    "page": "https://www.nijisanji.jp/talents/l/keke"
+    "page": "https://www.nijisanji.jp/talents/l/uki-violeta"
   },
   {
-    "name": "千春",
+    "name": "サニー・ブリスコー",
     "allLinks": {
-      "twitter": "https://twitter.com/Chiharu_VR",
-      "bilibili": "https://space.bilibili.com/558070433/"
+      "twitter": "https://twitter.com/sonny_brisko",
+      "youtube": "https://www.youtube.com/channel/UCuuAb_72QzK0M1USPMEl1yw"
     },
     "links": {
-      "twitter": "https://twitter.com/Chiharu_VR",
-      "bilibili": "https://space.bilibili.com/558070433/"
+      "twitter": "https://twitter.com/sonny_brisko",
+      "youtube": "https://www.youtube.com/channel/UCuuAb_72QzK0M1USPMEl1yw"
     },
     "tags": [
       "にじさんじ",
-      "VirtuaReal"
+      "NIJISANJI EN"
     ],
-    "page": "https://www.nijisanji.jp/talents/l/chiharu"
+    "page": "https://www.nijisanji.jp/talents/l/sonny-brisko"
   },
   {
-    "name": "悠亚",
+    "name": "ファルガー・オーヴィド",
     "allLinks": {
-      "twitter": "https://twitter.com/yyyy2114",
-      "bilibili": "https://space.bilibili.com/666726799"
+      "twitter": "https://twitter.com/fulgur_ovid",
+      "youtube": "https://www.youtube.com/channel/UCGhqxhovNfaPBpxfCruy9EA"
     },
     "links": {
-      "twitter": "https://twitter.com/yyyy2114",
-      "bilibili": "https://space.bilibili.com/666726799"
+      "twitter": "https://twitter.com/fulgur_ovid",
+      "youtube": "https://www.youtube.com/channel/UCGhqxhovNfaPBpxfCruy9EA"
     },
     "tags": [
       "にじさんじ",
-      "VirtuaReal"
+      "NIJISANJI EN"
     ],
-    "page": "https://www.nijisanji.jp/talents/l/yua"
+    "page": "https://www.nijisanji.jp/talents/l/fulgur-ovid"
   },
   {
-    "name": "勾檀",
+    "name": "天ヶ瀬むゆ",
     "allLinks": {
-      "bilibili": "https://space.bilibili.com/690608693"
+      "twitter": "https://twitter.com/Muyu_Amagase",
+      "youtube": "https://www.youtube.com/channel/UCAQDFeCTVdx90GtwohwjHzQ",
+      "officialShop": "https://shop.nijisanji.jp/s/niji/group/list/112/item?ima=3241"
     },
     "links": {
-      "bilibili": "https://space.bilibili.com/690608693"
+      "twitter": "https://twitter.com/Muyu_Amagase",
+      "youtube": "https://www.youtube.com/channel/UCAQDFeCTVdx90GtwohwjHzQ"
     },
     "tags": [
-      "にじさんじ",
-      "VirtuaReal"
+      "にじさんじ"
     ],
-    "page": "https://www.nijisanji.jp/talents/l/mayumi"
+    "page": "https://www.nijisanji.jp/talents/l/muyu-amagase"
   },
   {
-    "name": "千幽",
+    "name": "海妹四葉",
     "allLinks": {
-      "bilibili": "https://space.bilibili.com/690608691"
+      "twitter": "https://twitter.com/Yotsuha_Umise",
+      "youtube": "https://www.youtube.com/channel/UCtHY-tP0dyykhTRMmnfPs_g",
+      "officialShop": "https://shop.nijisanji.jp/s/niji/group/list/114/item?ima=4217"
     },
     "links": {
-      "bilibili": "https://space.bilibili.com/690608691"
+      "twitter": "https://twitter.com/Yotsuha_Umise",
+      "youtube": "https://www.youtube.com/channel/UCtHY-tP0dyykhTRMmnfPs_g"
     },
     "tags": [
-      "にじさんじ",
-      "VirtuaReal"
+      "にじさんじ"
     ],
-    "page": "https://www.nijisanji.jp/talents/l/chiyuu"
+    "page": "https://www.nijisanji.jp/talents/l/yotsuha-umise"
   },
   {
-    "name": "勺",
+    "name": "先斗寧",
     "allLinks": {
-      "bilibili": "https://space.bilibili.com/666726801"
+      "twitter": "https://twitter.com/ponto_nei",
+      "youtube": "https://www.youtube.com/channel/UCe22Bcwd_GCpTjLxn83zl7A",
+      "officialShop": "https://shop.nijisanji.jp/s/niji/group/list/113/item?ima=4150"
     },
     "links": {
-      "bilibili": "https://space.bilibili.com/666726801"
+      "twitter": "https://twitter.com/ponto_nei",
+      "youtube": "https://www.youtube.com/channel/UCe22Bcwd_GCpTjLxn83zl7A"
     },
     "tags": [
-      "にじさんじ",
-      "VirtuaReal"
+      "にじさんじ"
     ],
-    "page": "https://www.nijisanji.jp/talents/l/shaun"
+    "page": "https://www.nijisanji.jp/talents/l/nei-ponto"
   },
   {
-    "name": "七海",
+    "name": "壱百満天原サロメ",
     "allLinks": {
-      "twitter": "https://twitter.com/NanamiVr",
-      "bilibili": "https://space.bilibili.com/434334701"
+      "twitter": "https://twitter.com/1000000lome",
+      "youtube": "https://www.youtube.com/channel/UCgIfLpQvelloDi8I0Ycbwpg",
+      "fanclub": "https://www.nijisanji.jp/fanclubs/hyakumantenbara-salome",
+      "officialShop": "https://shop.nijisanji.jp/s/niji/group/list/115/item?ima=2938"
     },
     "links": {
-      "twitter": "https://twitter.com/NanamiVr",
-      "bilibili": "https://space.bilibili.com/434334701"
+      "twitter": "https://twitter.com/1000000lome",
+      "youtube": "https://www.youtube.com/channel/UCgIfLpQvelloDi8I0Ycbwpg"
     },
     "tags": [
-      "にじさんじ",
-      "VirtuaReal"
+      "にじさんじ"
     ],
-    "page": "https://www.nijisanji.jp/talents/l/nanami"
+    "page": "https://www.nijisanji.jp/talents/l/salome-hyakumantenbara"
   },
   {
-    "name": "惑姫",
+    "name": "四季凪アキラ",
     "allLinks": {
-      "twitter": "https://twitter.com/wakuhime1",
-      "bilibili": "https://space.bilibili.com/472877684"
+      "twitter": "https://twitter.com/Shikinagi_2434",
+      "youtube": "https://www.youtube.com/channel/UCcDDxnoQcezyTUzHg5uHaKg",
+      "officialShop": "https://shop.nijisanji.jp/s/niji/group/list/118/item?ima=4952"
     },
     "links": {
-      "twitter": "https://twitter.com/wakuhime1",
-      "bilibili": "https://space.bilibili.com/472877684"
+      "twitter": "https://twitter.com/Shikinagi_2434",
+      "youtube": "https://www.youtube.com/channel/UCcDDxnoQcezyTUzHg5uHaKg"
     },
     "tags": [
-      "にじさんじ",
-      "VirtuaReal"
+      "にじさんじ"
     ],
-    "page": "https://www.nijisanji.jp/talents/l/waku"
+    "page": "https://www.nijisanji.jp/talents/l/akira-shikinagi"
   },
   {
-    "name": "光一",
+    "name": "セラフ・ダズルガーデン",
     "allLinks": {
-      "bilibili": "https://space.bilibili.com/434401868"
+      "twitter": "https://twitter.com/SerAph_DazZ",
+      "youtube": "https://www.youtube.com/channel/UC5dJFf4m-mEcoyJRfhBljoA",
+      "officialShop": "https://shop.nijisanji.jp/s/niji/group/list/119/item?ima=5212"
     },
     "links": {
-      "bilibili": "https://space.bilibili.com/434401868"
+      "twitter": "https://twitter.com/SerAph_DazZ",
+      "youtube": "https://www.youtube.com/channel/UC5dJFf4m-mEcoyJRfhBljoA"
     },
     "tags": [
-      "にじさんじ",
-      "VirtuaReal"
+      "にじさんじ"
     ],
-    "page": "https://www.nijisanji.jp/talents/l/kouichi"
+    "page": "https://www.nijisanji.jp/talents/l/seraph-dazzlegarden"
   },
   {
-    "name": "阿萨",
+    "name": "風楽奏斗",
     "allLinks": {
-      "twitter": "https://twitter.com/Aza_VirtuaReal",
-      "bilibili": "https://space.bilibili.com/480680646"
+      "twitter": "https://twitter.com/KNTFR2434",
+      "youtube": "https://www.youtube.com/channel/UCC7rRD6P7RQcx0hKv9RQP4w",
+      "officialShop": "https://shop.nijisanji.jp/s/niji/group/list/116/item?ima=4922"
     },
     "links": {
-      "twitter": "https://twitter.com/Aza_VirtuaReal",
-      "bilibili": "https://space.bilibili.com/480680646"
+      "twitter": "https://twitter.com/KNTFR2434",
+      "youtube": "https://www.youtube.com/channel/UCC7rRD6P7RQcx0hKv9RQP4w"
     },
     "tags": [
-      "にじさんじ",
-      "VirtuaReal"
+      "にじさんじ"
     ],
-    "page": "https://www.nijisanji.jp/talents/l/aza"
+    "page": "https://www.nijisanji.jp/talents/l/kanato-fura"
   },
   {
-    "name": "弥希",
+    "name": "渡会雲雀",
     "allLinks": {
-      "twitter": "https://twitter.com/supermikimiki2",
-      "bilibili": "https://space.bilibili.com/477317922"
+      "twitter": "https://twitter.com/watarai_hibari",
+      "youtube": "https://www.youtube.com/channel/UC4l9gz3q65lTBFfFtW5LLeA",
+      "officialShop": "https://shop.nijisanji.jp/s/niji/group/list/117/item?ima=4851"
     },
     "links": {
-      "twitter": "https://twitter.com/supermikimiki2",
-      "bilibili": "https://space.bilibili.com/477317922"
+      "twitter": "https://twitter.com/watarai_hibari",
+      "youtube": "https://www.youtube.com/channel/UC4l9gz3q65lTBFfFtW5LLeA"
     },
     "tags": [
-      "にじさんじ",
-      "VirtuaReal"
+      "にじさんじ"
     ],
-    "page": "https://www.nijisanji.jp/talents/l/miki"
+    "page": "https://www.nijisanji.jp/talents/l/hibari-watarai"
   },
   {
-    "name": "八木迪之",
+    "name": "アイア アマレ",
     "allLinks": {
-      "bilibili": "https://space.bilibili.com/480675481"
+      "twitter": "https://twitter.com/AiaAmare",
+      "youtube": "https://www.youtube.com/channel/UCN68LoM3khS4gdBMiWJO8WA"
     },
     "links": {
-      "bilibili": "https://space.bilibili.com/480675481"
+      "twitter": "https://twitter.com/AiaAmare",
+      "youtube": "https://www.youtube.com/channel/UCN68LoM3khS4gdBMiWJO8WA"
     },
     "tags": [
       "にじさんじ",
-      "VirtuaReal"
+      "NIJISANJI EN"
     ],
-    "page": "https://www.nijisanji.jp/talents/l/yagi"
+    "page": "https://www.nijisanji.jp/talents/l/aia-amare"
+  },
+  {
+    "name": "アスター アルカディア",
+    "allLinks": {
+      "twitter": "https://twitter.com/AsterArcadia",
+      "youtube": "https://www.youtube.com/channel/UCpzxZW5kghGnO5TmAFJQAVw"
+    },
+    "links": {
+      "twitter": "https://twitter.com/AsterArcadia",
+      "youtube": "https://www.youtube.com/channel/UCpzxZW5kghGnO5TmAFJQAVw"
+    },
+    "tags": [
+      "にじさんじ",
+      "NIJISANJI EN"
+    ],
+    "page": "https://www.nijisanji.jp/talents/l/aster-arcadia"
+  },
+  {
+    "name": "スカーレ ヨナグニ",
+    "allLinks": {
+      "twitter": "https://twitter.com/ScarleYonaguni",
+      "youtube": "https://www.youtube.com/channel/UCFgXWZOUZA2oYHNr6qDmsTQ",
+      "twitch": "https://www.twitch.tv/scarleyonaguni"
+    },
+    "links": {
+      "twitter": "https://twitter.com/ScarleYonaguni",
+      "youtube": "https://www.youtube.com/channel/UCFgXWZOUZA2oYHNr6qDmsTQ",
+      "twitch": "https://www.twitch.tv/scarleyonaguni"
+    },
+    "tags": [
+      "にじさんじ",
+      "NIJISANJI EN"
+    ],
+    "page": "https://www.nijisanji.jp/talents/l/scarle-yonaguni"
+  },
+  {
+    "name": "マリア マリオネット",
+    "allLinks": {
+      "twitter": "https://twitter.com/MariaMari0nette",
+      "youtube": "https://www.youtube.com/channel/UCwaS8_S7kMiKA3izlTWHbQg"
+    },
+    "links": {
+      "twitter": "https://twitter.com/MariaMari0nette",
+      "youtube": "https://www.youtube.com/channel/UCwaS8_S7kMiKA3izlTWHbQg"
+    },
+    "tags": [
+      "にじさんじ",
+      "NIJISANJI EN"
+    ],
+    "page": "https://www.nijisanji.jp/talents/l/maria-marionette"
+  },
+  {
+    "name": "レン ゾット",
+    "allLinks": {
+      "twitter": "https://twitter.com/RenZott0",
+      "youtube": "https://www.youtube.com/channel/UCKu59gTZ_rdEmerdx5rV4Yg"
+    },
+    "links": {
+      "twitter": "https://twitter.com/RenZott0",
+      "youtube": "https://www.youtube.com/channel/UCKu59gTZ_rdEmerdx5rV4Yg"
+    },
+    "tags": [
+      "にじさんじ",
+      "NIJISANJI EN"
+    ],
+    "page": "https://www.nijisanji.jp/talents/l/ren-zotto"
+  },
+  {
+    "name": "ヴェール ヴァーミリオン",
+    "allLinks": {
+      "twitter": "https://twitter.com/Ver_Vermillion",
+      "youtube": "https://www.youtube.com/@VerVermillion"
+    },
+    "links": {
+      "twitter": "https://twitter.com/Ver_Vermillion",
+      "youtube": "https://www.youtube.com/@VerVermillion"
+    },
+    "tags": [
+      "にじさんじ",
+      "NIJISANJI EN"
+    ],
+    "page": "https://www.nijisanji.jp/talents/l/ver-vermillion"
+  },
+  {
+    "name": "狂蘭 メロコ",
+    "allLinks": {
+      "twitter": "https://twitter.com/MelocoKyoran",
+      "youtube": "https://www.youtube.com/@MelocoKyoran"
+    },
+    "links": {
+      "twitter": "https://twitter.com/MelocoKyoran",
+      "youtube": "https://www.youtube.com/@MelocoKyoran"
+    },
+    "tags": [
+      "にじさんじ",
+      "NIJISANJI EN"
+    ],
+    "page": "https://www.nijisanji.jp/talents/l/meloco-kyoran"
+  },
+  {
+    "name": "ドッピオ ドロップサイト",
+    "allLinks": {
+      "twitter": "https://twitter.com/D_Dropscythe",
+      "youtube": "https://www.youtube.com/@DoppioDropscythe"
+    },
+    "links": {
+      "twitter": "https://twitter.com/D_Dropscythe",
+      "youtube": "https://www.youtube.com/@DoppioDropscythe"
+    },
+    "tags": [
+      "にじさんじ",
+      "NIJISANJI EN"
+    ],
+    "page": "https://www.nijisanji.jp/talents/l/doppio-dropscythe"
+  },
+  {
+    "name": "虎姫 コトカ",
+    "allLinks": {
+      "twitter": "https://twitter.com/KotokaTorahime",
+      "youtube": "https://www.youtube.com/@KotokaTorahime"
+    },
+    "links": {
+      "twitter": "https://twitter.com/KotokaTorahime",
+      "youtube": "https://www.youtube.com/@KotokaTorahime"
+    },
+    "tags": [
+      "にじさんじ",
+      "NIJISANJI EN"
+    ],
+    "page": "https://www.nijisanji.jp/talents/l/kotoka-torahime"
+  },
+  {
+    "name": "ヘックス へイワイヤー",
+    "allLinks": {
+      "twitter": "https://twitter.com/HexHaywire",
+      "youtube": "https://www.youtube.com/@HexHaywire"
+    },
+    "links": {
+      "twitter": "https://twitter.com/HexHaywire",
+      "youtube": "https://www.youtube.com/@HexHaywire"
+    },
+    "tags": [
+      "にじさんじ",
+      "NIJISANJI EN"
+    ],
+    "page": "https://www.nijisanji.jp/talents/l/hex-haywire"
+  },
+  {
+    "name": "五十嵐梨花",
+    "allLinks": {
+      "twitter": "https://twitter.com/1garashi_Rika",
+      "youtube": "https://www.youtube.com/channel/UCu-rV2gPtJ-CsGxe71z_BrQ",
+      "fanclub": "https://www.nijisanji.jp/fanclubs/igarashi-rika",
+      "officialShop": "https://shop.nijisanji.jp/s/niji/group/list/181/item"
+    },
+    "links": {
+      "twitter": "https://twitter.com/1garashi_Rika",
+      "youtube": "https://www.youtube.com/channel/UCu-rV2gPtJ-CsGxe71z_BrQ"
+    },
+    "tags": [
+      "にじさんじ"
+    ],
+    "page": "https://www.nijisanji.jp/talents/l/rika-igarashi"
+  },
+  {
+    "name": "石神のぞみ",
+    "allLinks": {
+      "twitter": "https://twitter.com/I_Nozomi_",
+      "youtube": "https://www.youtube.com/channel/UCtLfA_qUqCJtjXJM2ZR_keg",
+      "officialShop": "https://shop.nijisanji.jp/s/niji/group/list/182/item"
+    },
+    "links": {
+      "twitter": "https://twitter.com/I_Nozomi_",
+      "youtube": "https://www.youtube.com/channel/UCtLfA_qUqCJtjXJM2ZR_keg"
+    },
+    "tags": [
+      "にじさんじ"
+    ],
+    "page": "https://www.nijisanji.jp/talents/l/nozomi-ishigami"
+  },
+  {
+    "name": "鏑木ろこ",
+    "allLinks": {
+      "twitter": "https://twitter.com/65_kaburaki",
+      "youtube": "https://www.youtube.com/channel/UClrQ7xhRBxS_v_-WuudGKmA",
+      "fanclub": "https://www.nijisanji.jp/fanclubs/kaburaki-roco",
+      "officialShop": "https://shop.nijisanji.jp/s/niji/group/list/183/item"
+    },
+    "links": {
+      "twitter": "https://twitter.com/65_kaburaki",
+      "youtube": "https://www.youtube.com/channel/UClrQ7xhRBxS_v_-WuudGKmA"
+    },
+    "tags": [
+      "にじさんじ"
+    ],
+    "page": "https://www.nijisanji.jp/talents/l/roco-kaburaki"
+  },
+  {
+    "name": "倉持めると",
+    "allLinks": {
+      "twitter": "https://twitter.com/k_meruto",
+      "youtube": "https://www.youtube.com/channel/UCiA-trSZfB0i92V_-dyDqBw",
+      "officialShop": "https://shop.nijisanji.jp/s/niji/group/list/184/item"
+    },
+    "links": {
+      "twitter": "https://twitter.com/k_meruto",
+      "youtube": "https://www.youtube.com/channel/UCiA-trSZfB0i92V_-dyDqBw"
+    },
+    "tags": [
+      "にじさんじ"
+    ],
+    "page": "https://www.nijisanji.jp/talents/l/meruto-kuramochi"
+  },
+  {
+    "name": "小清水透",
+    "allLinks": {
+      "twitter": "https://twitter.com/toru_2434",
+      "youtube": "https://www.youtube.com/channel/UCUP8TmlO7NNra88AMqGU_vQ",
+      "officialShop": "https://shop.nijisanji.jp/s/niji/group/list/185/item"
+    },
+    "links": {
+      "twitter": "https://twitter.com/toru_2434",
+      "youtube": "https://www.youtube.com/channel/UCUP8TmlO7NNra88AMqGU_vQ"
+    },
+    "tags": [
+      "にじさんじ"
+    ],
+    "page": "https://www.nijisanji.jp/talents/l/toru-koshimizu"
+  },
+  {
+    "name": "獅子堂あかり",
+    "allLinks": {
+      "twitter": "https://twitter.com/44do_akari",
+      "youtube": "https://www.youtube.com/channel/UCWRPqA0ehhWV4Hnp27PJCkQ",
+      "officialShop": "https://shop.nijisanji.jp/s/niji/group/list/186/item"
+    },
+    "links": {
+      "twitter": "https://twitter.com/44do_akari",
+      "youtube": "https://www.youtube.com/channel/UCWRPqA0ehhWV4Hnp27PJCkQ"
+    },
+    "tags": [
+      "にじさんじ"
+    ],
+    "page": "https://www.nijisanji.jp/talents/l/akari-shishido"
+  },
+  {
+    "name": "ソフィア・ヴァレンタイン",
+    "allLinks": {
+      "twitter": "https://twitter.com/SophiaV214",
+      "youtube": "https://www.youtube.com/channel/UCivwPlOp0ojnMPZj5pNOPPA",
+      "fanclub": "https://www.nijisanji.jp/fanclubs/sophia-valentine",
+      "officialShop": "https://shop.nijisanji.jp/s/niji/group/list/187/item"
+    },
+    "links": {
+      "twitter": "https://twitter.com/SophiaV214",
+      "youtube": "https://www.youtube.com/channel/UCivwPlOp0ojnMPZj5pNOPPA"
+    },
+    "tags": [
+      "にじさんじ"
+    ],
+    "page": "https://www.nijisanji.jp/talents/l/sophia-valentine"
+  },
+  {
+    "name": "赤城ウェン",
+    "allLinks": {
+      "twitter": "https://twitter.com/akagi_wen",
+      "youtube": "https://www.youtube.com/@AkagiWen",
+      "officialShop": "https://shop.nijisanji.jp/s/niji/group/list/188/item"
+    },
+    "links": {
+      "twitter": "https://twitter.com/akagi_wen",
+      "youtube": "https://www.youtube.com/@AkagiWen"
+    },
+    "tags": [
+      "にじさんじ"
+    ],
+    "page": "https://www.nijisanji.jp/talents/l/wen-akagi"
+  },
+  {
+    "name": "宇佐美リト",
+    "allLinks": {
+      "twitter": "https://twitter.com/usamirito_power",
+      "youtube": "https://www.youtube.com/@UsamiRito",
+      "officialShop": "https://shop.nijisanji.jp/s/niji/group/list/189/item"
+    },
+    "links": {
+      "twitter": "https://twitter.com/usamirito_power",
+      "youtube": "https://www.youtube.com/@UsamiRito"
+    },
+    "tags": [
+      "にじさんじ"
+    ],
+    "page": "https://www.nijisanji.jp/talents/l/rito-usami"
+  },
+  {
+    "name": "佐伯イッテツ",
+    "allLinks": {
+      "twitter": "https://twitter.com/Saiki_Supadari",
+      "youtube": "https://www.youtube.com/@SaikiIttetsu",
+      "officialShop": "https://shop.nijisanji.jp/s/niji/group/list/190/item"
+    },
+    "links": {
+      "twitter": "https://twitter.com/Saiki_Supadari",
+      "youtube": "https://www.youtube.com/@SaikiIttetsu"
+    },
+    "tags": [
+      "にじさんじ"
+    ],
+    "page": "https://www.nijisanji.jp/talents/l/ittetsu-saiki"
+  },
+  {
+    "name": "緋八マナ",
+    "allLinks": {
+      "twitter": "https://twitter.com/Hibachi_Mana",
+      "youtube": "https://www.youtube.com/@HibachiMana",
+      "officialShop": "https://shop.nijisanji.jp/s/niji/group/list/191/item"
+    },
+    "links": {
+      "twitter": "https://twitter.com/Hibachi_Mana",
+      "youtube": "https://www.youtube.com/@HibachiMana"
+    },
+    "tags": [
+      "にじさんじ"
+    ],
+    "page": "https://www.nijisanji.jp/talents/l/mana-hibachi"
+  },
+  {
+    "name": "伊波ライ",
+    "allLinks": {
+      "twitter": "https://twitter.com/rai_173",
+      "youtube": "https://www.youtube.com/@InamiRai",
+      "officialShop": "https://shop.nijisanji.jp/s/niji/group/list/192/item?ima=4306#/all/new/0"
+    },
+    "links": {
+      "twitter": "https://twitter.com/rai_173",
+      "youtube": "https://www.youtube.com/@InamiRai"
+    },
+    "tags": [
+      "にじさんじ"
+    ],
+    "page": "https://www.nijisanji.jp/talents/l/rai-inami"
+  },
+  {
+    "name": "小柳ロウ",
+    "allLinks": {
+      "twitter": "https://twitter.com/Rou_2434",
+      "youtube": "https://www.youtube.com/@KoyanagiRou",
+      "officialShop": "https://shop.nijisanji.jp/s/niji/group/list/193/item?ima=3626#/all/new/0"
+    },
+    "links": {
+      "twitter": "https://twitter.com/Rou_2434",
+      "youtube": "https://www.youtube.com/@KoyanagiRou"
+    },
+    "tags": [
+      "にじさんじ"
+    ],
+    "page": "https://www.nijisanji.jp/talents/l/rou-koyanagi"
+  },
+  {
+    "name": "星導ショウ",
+    "allLinks": {
+      "twitter": "https://twitter.com/Show_SylveSTAR",
+      "youtube": "https://www.youtube.com/@HoshirubeSho",
+      "officialShop": "https://shop.nijisanji.jp/s/niji/group/list/194/item?ima=4618#/all/new/0"
+    },
+    "links": {
+      "twitter": "https://twitter.com/Show_SylveSTAR",
+      "youtube": "https://www.youtube.com/@HoshirubeSho"
+    },
+    "tags": [
+      "にじさんじ"
+    ],
+    "page": "https://www.nijisanji.jp/talents/l/sho-hoshirube"
+  },
+  {
+    "name": "叢雲カゲツ",
+    "allLinks": {
+      "twitter": "https://twitter.com/Kagetsu_2434",
+      "youtube": "https://www.youtube.com/@MurakumoKagetsu",
+      "officialShop": "https://shop.nijisanji.jp/s/niji/group/list/195/item?ima=4824#/all/new/0"
+    },
+    "links": {
+      "twitter": "https://twitter.com/Kagetsu_2434",
+      "youtube": "https://www.youtube.com/@MurakumoKagetsu"
+    },
+    "tags": [
+      "にじさんじ"
+    ],
+    "page": "https://www.nijisanji.jp/talents/l/kagetsu-murakumo"
+  },
+  {
+    "name": "ヴェザリウス バンデージ",
+    "allLinks": {
+      "twitter": "https://twitter.com/VezaliusBandage",
+      "youtube": "https://www.youtube.com/@VezaliusBandage"
+    },
+    "links": {
+      "twitter": "https://twitter.com/VezaliusBandage",
+      "youtube": "https://www.youtube.com/@VezaliusBandage"
+    },
+    "tags": [
+      "にじさんじ",
+      "NIJISANJI EN"
+    ],
+    "page": "https://www.nijisanji.jp/talents/l/vezalius-bandage"
+  },
+  {
+    "name": "ベンタクロウ ブリンガー",
+    "allLinks": {
+      "twitter": "https://twitter.com/Tyrant_Vanta",
+      "youtube": "https://www.youtube.com/@VantacrowBringer"
+    },
+    "links": {
+      "twitter": "https://twitter.com/Tyrant_Vanta",
+      "youtube": "https://www.youtube.com/@VantacrowBringer"
+    },
+    "tags": [
+      "にじさんじ",
+      "NIJISANJI EN"
+    ],
+    "page": "https://www.nijisanji.jp/talents/l/vantacrow-bringer"
+  },
+  {
+    "name": "ユウ Q ウィルソン",
+    "allLinks": {
+      "twitter": "https://twitter.com/YuQWilson",
+      "youtube": "https://www.youtube.com/@YuQ.Wilson"
+    },
+    "links": {
+      "twitter": "https://twitter.com/YuQWilson",
+      "youtube": "https://www.youtube.com/@YuQ.Wilson"
+    },
+    "tags": [
+      "にじさんじ",
+      "NIJISANJI EN"
+    ],
+    "page": "https://www.nijisanji.jp/talents/l/yu-q-wilson"
+  },
+  {
+    "name": "ヴィクトリア ブライトシールド",
+    "allLinks": {
+      "twitter": "https://x.com/VBrightshield",
+      "youtube": "https://www.youtube.com/@VictoriaBrightshield"
+    },
+    "links": {
+      "twitter": "https://x.com/VBrightshield",
+      "youtube": "https://www.youtube.com/@VictoriaBrightshield"
+    },
+    "tags": [
+      "にじさんじ",
+      "NIJISANJI EN"
+    ],
+    "page": "https://www.nijisanji.jp/talents/l/victoria-brightshield"
+  },
+  {
+    "name": "クロード クローマーク",
+    "allLinks": {
+      "twitter": "https://x.com/ClaudeClawmark",
+      "youtube": "https://www.youtube.com/@ClaudeClawmark"
+    },
+    "links": {
+      "twitter": "https://x.com/ClaudeClawmark",
+      "youtube": "https://www.youtube.com/@ClaudeClawmark"
+    },
+    "tags": [
+      "にじさんじ",
+      "NIJISANJI EN"
+    ],
+    "page": "https://www.nijisanji.jp/talents/l/claude-clawmark"
+  },
+  {
+    "name": "中里 苦無",
+    "allLinks": {
+      "twitter": "https://x.com/KunaiNakasato",
+      "youtube": "https://www.youtube.com/@KunaiNakasato"
+    },
+    "links": {
+      "twitter": "https://x.com/KunaiNakasato",
+      "youtube": "https://www.youtube.com/@KunaiNakasato"
+    },
+    "tags": [
+      "にじさんじ",
+      "NIJISANJI EN"
+    ],
+    "page": "https://www.nijisanji.jp/talents/l/kunai-nakasato"
+  },
+  {
+    "name": "栞葉るり",
+    "allLinks": {
+      "twitter": "https://x.com/Ruri_4ori8",
+      "youtube": "https://www.youtube.com/@ShiorihaRuri",
+      "fanclub": "https://www.nijisanji.jp/fanclubs/shioriha-ruri"
+    },
+    "links": {
+      "twitter": "https://x.com/Ruri_4ori8",
+      "youtube": "https://www.youtube.com/@ShiorihaRuri"
+    },
+    "tags": [
+      "にじさんじ"
+    ],
+    "page": "https://www.nijisanji.jp/talents/l/ruri-shioriha"
+  },
+  {
+    "name": "立伝都々",
+    "allLinks": {
+      "twitter": "https://x.com/tctt10_10",
+      "youtube": "https://www.youtube.com/@TachitsuteToto"
+    },
+    "links": {
+      "twitter": "https://x.com/tctt10_10",
+      "youtube": "https://www.youtube.com/@TachitsuteToto"
+    },
+    "tags": [
+      "にじさんじ"
+    ],
+    "page": "https://www.nijisanji.jp/talents/l/toto-tachitsute"
+  },
+  {
+    "name": "ミラン・ケストレル",
+    "allLinks": {
+      "twitter": "https://x.com/Milan_Kestrel",
+      "youtube": "https://www.youtube.com/@MilanKestrel"
+    },
+    "links": {
+      "twitter": "https://x.com/Milan_Kestrel",
+      "youtube": "https://www.youtube.com/@MilanKestrel"
+    },
+    "tags": [
+      "にじさんじ"
+    ],
+    "page": "https://www.nijisanji.jp/talents/l/milan-kestrel"
+  },
+  {
+    "name": "魁星",
+    "allLinks": {
+      "twitter": "https://x.com/Kaisei_2434",
+      "youtube": "https://www.youtube.com/@Kaisei_nijisanji"
+    },
+    "links": {
+      "twitter": "https://x.com/Kaisei_2434",
+      "youtube": "https://www.youtube.com/@Kaisei_nijisanji"
+    },
+    "tags": [
+      "にじさんじ"
+    ],
+    "page": "https://www.nijisanji.jp/talents/l/kaisei"
+  },
+  {
+    "name": "北見遊征",
+    "allLinks": {
+      "twitter": "https://x.com/Kitami_Coolguy",
+      "youtube": "https://www.youtube.com/@KitamiYusei"
+    },
+    "links": {
+      "twitter": "https://x.com/Kitami_Coolguy",
+      "youtube": "https://www.youtube.com/@KitamiYusei"
+    },
+    "tags": [
+      "にじさんじ"
+    ],
+    "page": "https://www.nijisanji.jp/talents/l/yusei-kitami"
+  },
+  {
+    "name": "榊ネス",
+    "allLinks": {
+      "twitter": "https://x.com/Ness_Sakaki",
+      "youtube": "https://www.youtube.com/@SakakiNess"
+    },
+    "links": {
+      "twitter": "https://x.com/Ness_Sakaki",
+      "youtube": "https://www.youtube.com/@SakakiNess"
+    },
+    "tags": [
+      "にじさんじ"
+    ],
+    "page": "https://www.nijisanji.jp/talents/l/ness-sakaki"
+  },
+  {
+    "name": "クララ チャームウッド",
+    "allLinks": {
+      "twitter": "https://x.com/KlaraCharmwood",
+      "youtube": "https://www.youtube.com/@KlaraCharmwood"
+    },
+    "links": {
+      "twitter": "https://x.com/KlaraCharmwood",
+      "youtube": "https://www.youtube.com/@KlaraCharmwood"
+    },
+    "tags": [
+      "にじさんじ",
+      "NIJISANJI EN"
+    ],
+    "page": "https://www.nijisanji.jp/talents/l/klara-charmwood"
+  },
+  {
+    "name": "トゥイスティー アマノザコ",
+    "allLinks": {
+      "twitter": "https://x.com/TwistyAmanozako",
+      "youtube": "https://www.youtube.com/@TwistyAmanozako"
+    },
+    "links": {
+      "twitter": "https://x.com/TwistyAmanozako",
+      "youtube": "https://www.youtube.com/@TwistyAmanozako"
+    },
+    "tags": [
+      "にじさんじ",
+      "NIJISANJI EN"
+    ],
+    "page": "https://www.nijisanji.jp/talents/l/twisty-amanozako"
+  },
+  {
+    "name": "凉舞 バレンウォート",
+    "allLinks": {
+      "twitter": "https://x.com/RyomaBarrenwort",
+      "youtube": "https://www.youtube.com/@RyomaBarrenwort"
+    },
+    "links": {
+      "twitter": "https://x.com/RyomaBarrenwort",
+      "youtube": "https://www.youtube.com/@RyomaBarrenwort"
+    },
+    "tags": [
+      "にじさんじ",
+      "NIJISANJI EN"
+    ],
+    "page": "https://www.nijisanji.jp/talents/l/ryoma-barrenwort"
+  },
+  {
+    "name": "綺沙良",
+    "allLinks": {
+      "twitter": "https://x.com/Kisara_2434",
+      "youtube": "https://www.youtube.com/@Kisara_nijisanji"
+    },
+    "links": {
+      "twitter": "https://x.com/Kisara_2434",
+      "youtube": "https://www.youtube.com/@Kisara_nijisanji"
+    },
+    "tags": [
+      "にじさんじ"
+    ],
+    "page": "https://www.nijisanji.jp/talents/l/kisara"
+  },
+  {
+    "name": "梢桃音",
+    "allLinks": {
+      "twitter": "https://x.com/KozueMone",
+      "youtube": "https://www.youtube.com/@KozueMone"
+    },
+    "links": {
+      "twitter": "https://x.com/KozueMone",
+      "youtube": "https://www.youtube.com/@KozueMone"
+    },
+    "tags": [
+      "にじさんじ"
+    ],
+    "page": "https://www.nijisanji.jp/talents/l/mone-kozue"
+  },
+  {
+    "name": "司賀りこ",
+    "allLinks": {
+      "twitter": "https://x.com/Shigariko_",
+      "youtube": "https://www.youtube.com/@ShigaRiko"
+    },
+    "links": {
+      "twitter": "https://x.com/Shigariko_",
+      "youtube": "https://www.youtube.com/@ShigaRiko"
+    },
+    "tags": [
+      "にじさんじ"
+    ],
+    "page": "https://www.nijisanji.jp/talents/l/riko-shiga"
+  },
+  {
+    "name": "珠乃井ナナ",
+    "allLinks": {
+      "twitter": "https://x.com/7_tamanoi",
+      "youtube": "https://www.youtube.com/@TamanoiNana"
+    },
+    "links": {
+      "twitter": "https://x.com/7_tamanoi",
+      "youtube": "https://www.youtube.com/@TamanoiNana"
+    },
+    "tags": [
+      "にじさんじ"
+    ],
+    "page": "https://www.nijisanji.jp/talents/l/nana-tamanoi"
+  },
+  {
+    "name": "ルンルン",
+    "allLinks": {
+      "twitter": "https://x.com/mo_lunlun_gu",
+      "youtube": "https://www.youtube.com/@Lunlun_nijisanji"
+    },
+    "links": {
+      "twitter": "https://x.com/mo_lunlun_gu",
+      "youtube": "https://www.youtube.com/@Lunlun_nijisanji"
+    },
+    "tags": [
+      "にじさんじ"
+    ],
+    "page": "https://www.nijisanji.jp/talents/l/lunlun"
   }
 ]

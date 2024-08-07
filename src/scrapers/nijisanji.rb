@@ -22,7 +22,7 @@ def get_streamer_list(build_id)
   url = "https://www.nijisanji.jp/_next/data/#{build_id}/ja/talents.json"
   json = retrieve_and_cache(url, cache: !UPDATE_LIST, replace: { build_id => '_' })
   hash = JSON[json]
-  hash['pageProps']['allLivers']
+  hash['pageProps']['allLivers'].sort_by { |v| [v.dig('profile', 'debutAt'), v['orderByRuby']] }
 end
 
 def get_streamer_detail(build_id, streamer_id)
