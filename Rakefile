@@ -25,12 +25,12 @@ task :combine do
   puts ' * Combining files started ...'
   combined = Dir.glob('results/*.json').map do |s|
     data = JSON[File.read(s)]
-    puts "   * #{s}: #{data.length} items"
-    data.map { |item| item.except('allLinks') }
+    puts "   * #{s}: #{data.length} members"
+    data.map { |member| member.except('allLinks') }
   end.flatten
   json = JSON.pretty_generate(combined)
   File.write(COMBINED_FILE_NAME, json)
-  puts " * Combining files completed! #{combined.length} items"
+  puts " * Combining files completed! #{combined.length} members"
 end
 
 desc '全てを実行する'
