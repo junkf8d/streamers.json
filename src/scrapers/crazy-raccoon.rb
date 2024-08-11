@@ -22,7 +22,7 @@ def get_streamer_detail(url)
   doc = Nokogiri::HTML.parse(html)
 
   name = doc.at_css('.name .main').text.strip
-  urls = doc.css('.sns a').map { |a| a[:href] }.reject(&:empty?) # なんかURLが空のがある
+  urls = doc.css('.p-profile .sns a').map { |a| a[:href] }.reject(&:empty?) # なんかURLが空のがある
 
   group = doc.at_css('.team').text
 
