@@ -31,8 +31,18 @@ end
 
 def create_link_map(url_list)
   url_list.map do |url|
-    key = URI.parse(url).hostname.split('.')[-2]
-    key = 'twitter' if key == 'x'
-    [key, url.sub(/\?.+?$/, '')]
+    uri = URI.parse(url)
+    uri.query = nil
+
+    key = case uri.hostname
+          when 'x.com'
+            'twitter'
+          when 'youtu.be'
+            'youtube'
+          else
+            uri.hostname.split('.')[-2]
+          end
+
+    [key, uri.to_s]
   end.to_h
 end
