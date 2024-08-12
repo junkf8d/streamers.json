@@ -2108,6 +2108,19 @@
     "page": "https://hololive.hololivepro.com/talents/friend-a/"
   },
   {
+    "name": "しぐれうい",
+    "links": {
+      "twitter": "https://twitter.com/ui_shig",
+      "youtube": "https://www.youtube.com/channel/UCt30jJgChL8qeT9VPadidSw",
+      "pixiv": "https://www.pixiv.net/users/431873",
+      "tiktok": "https://www.tiktok.com/@ui_shigure"
+    },
+    "tags": [
+      "個人"
+    ],
+    "page": "https://5th.uishigure.com/"
+  },
+  {
     "name": "渋谷 ハル  ",
     "links": {
       "twitter": "https://twitter.com/ShibuyaHAL",
@@ -5252,19 +5265,6 @@
       "STREAMER"
     ],
     "page": "https://riddle.info/members/nicewigg/"
-  },
-  {
-    "name": "しぐれうい",
-    "links": {
-      "twitter": "https://twitter.com/ui_shig",
-      "youtube": "https://www.youtube.com/channel/UCt30jJgChL8qeT9VPadidSw",
-      "pixiv": "https://www.pixiv.net/users/431873",
-      "tiktok": "https://www.tiktok.com/@ui_shigure"
-    },
-    "tags": [
-      "しぐれうい"
-    ],
-    "page": "https://5th.uishigure.com/"
   },
   {
     "name": "カシ・オトハ",

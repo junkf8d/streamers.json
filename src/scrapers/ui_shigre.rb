@@ -4,8 +4,8 @@ require 'nokogiri'
 require 'json'
 require_relative '../common'
 
-GROUP_NAME = 'しぐれうい'
-GROUP_SLUG = 'ui_shigure'
+GROUP_NAME = '個人'
+GROUP_SLUG = 'independent'
 
 UPDATE_LIST = ARGV[0] == 'update_list'
 
