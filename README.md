@@ -20,16 +20,6 @@
                 - メンバー入れ替えがあった場合に使う
         - 一つずつ実行したい場合は `ruby src/scraper/foo.rb`を直接実行
 
-# 取得する情報
-
-- にじさんじ: https://www.nijisanji.jp/talents
-- ホロライブ: https://hololive.hololivepro.com/talents/
-- ぶいすぽ: https://vspo.jp/member/
-- ZETA DIVISION: https://zetadivision.com/members
-- RIDDLE: https://riddle.info/members/
-
-他は未定
-
 # 備考
 
 - 公式サイトから拾ってるが限界があるので、最終的には手動で追加する必要がある
