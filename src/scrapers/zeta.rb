@@ -22,6 +22,7 @@ def get_streamer_detail(url)
 
   name = doc.at_css('.profile__name').text.strip
   urls = doc.css('a.profile__snsLink').map { |a| a[:href] }
+  urls.reject! { |u| u == 'https://www.youtube.com/@kurfzvlrt' } # リンク切れの削除
 
   attribute = doc.at_css('.profile__attribute').text.strip
   belong = doc.css('.teamNav__link--belong').map { |a| a.text.strip }
