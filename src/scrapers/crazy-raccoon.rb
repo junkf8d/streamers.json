@@ -23,7 +23,8 @@ def get_streamer_detail(url)
 
   name = doc.at_css('.name .main').text.strip
   urls = doc.css('.p-profile .sns a').map { |a| a[:href] }.reject(&:empty?) # なんかURLが空のがある
-
+  # リンク切れを修正
+  urls.map! { |u| u == 'https://www.youtube.com/@MedusaT1' ? 'https://www.youtube.com/@Medusa0125' : u }
   group = doc.at_css('.team').text
 
   { name: name, links: create_link_map(urls), tags: [GROUP_NAME, group].uniq, page: url }
