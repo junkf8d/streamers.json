@@ -3375,5 +3375,80 @@
       "にじさんじ"
     ],
     "page": "https://www.nijisanji.jp/talents/l/lunlun"
+  },
+  {
+    "name": "雲母たまこ",
+    "allLinks": {
+      "twitter": "https://x.com/kirara_tamako",
+      "youtube": "https://www.youtube.com/@KiraraTamako"
+    },
+    "links": {
+      "twitter": "https://x.com/kirara_tamako",
+      "youtube": "https://www.youtube.com/@KiraraTamako"
+    },
+    "tags": [
+      "にじさんじ"
+    ],
+    "page": "https://www.nijisanji.jp/talents/l/tamako-kirara"
+  },
+  {
+    "name": "早乙女ベリー",
+    "allLinks": {
+      "twitter": "https://x.com/Saotome_Berry",
+      "youtube": "https://www.youtube.com/@Saotomeberry"
+    },
+    "links": {
+      "twitter": "https://x.com/Saotome_Berry",
+      "youtube": "https://www.youtube.com/@Saotomeberry"
+    },
+    "tags": [
+      "にじさんじ"
+    ],
+    "page": "https://www.nijisanji.jp/talents/l/berry-saotome"
+  },
+  {
+    "name": "酒寄颯馬",
+    "allLinks": {
+      "twitter": "https://x.com/sakayori_soma",
+      "youtube": "https://www.youtube.com/@SakayoriSoma"
+    },
+    "links": {
+      "twitter": "https://x.com/sakayori_soma",
+      "youtube": "https://www.youtube.com/@SakayoriSoma"
+    },
+    "tags": [
+      "にじさんじ"
+    ],
+    "page": "https://www.nijisanji.jp/talents/l/soma-sakayori"
+  },
+  {
+    "name": "渚トラウト",
+    "allLinks": {
+      "twitter": "https://x.com/Tr0uT_2434",
+      "youtube": "https://www.youtube.com/@NagisaTrout"
+    },
+    "links": {
+      "twitter": "https://x.com/Tr0uT_2434",
+      "youtube": "https://www.youtube.com/@NagisaTrout"
+    },
+    "tags": [
+      "にじさんじ"
+    ],
+    "page": "https://www.nijisanji.jp/talents/l/trout-nagisa"
+  },
+  {
+    "name": "七瀬すず菜",
+    "allLinks": {
+      "twitter": "https://x.com/Suzuna_Nanase",
+      "youtube": "https://www.youtube.com/@NanaseSuzuna"
+    },
+    "links": {
+      "twitter": "https://x.com/Suzuna_Nanase",
+      "youtube": "https://www.youtube.com/@NanaseSuzuna"
+    },
+    "tags": [
+      "にじさんじ"
+    ],
+    "page": "https://www.nijisanji.jp/talents/l/suzuna-nanase"
   }
 ]

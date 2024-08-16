@@ -618,7 +618,7 @@
     "links": {
       "twitter": "https://twitter.com/FortheMedusa",
       "twitch": "https://www.twitch.tv/medusaval",
-      "youtube": "https://www.youtube.com/@MedusaT1"
+      "youtube": "https://www.youtube.com/@Medusa0125"
     },
     "tags": [
       "Crazy Raccoon",
@@ -4743,6 +4743,61 @@
       "にじさんじ"
     ],
     "page": "https://www.nijisanji.jp/talents/l/lunlun"
+  },
+  {
+    "name": "雲母たまこ",
+    "links": {
+      "twitter": "https://x.com/kirara_tamako",
+      "youtube": "https://www.youtube.com/@KiraraTamako"
+    },
+    "tags": [
+      "にじさんじ"
+    ],
+    "page": "https://www.nijisanji.jp/talents/l/tamako-kirara"
+  },
+  {
+    "name": "早乙女ベリー",
+    "links": {
+      "twitter": "https://x.com/Saotome_Berry",
+      "youtube": "https://www.youtube.com/@Saotomeberry"
+    },
+    "tags": [
+      "にじさんじ"
+    ],
+    "page": "https://www.nijisanji.jp/talents/l/berry-saotome"
+  },
+  {
+    "name": "酒寄颯馬",
+    "links": {
+      "twitter": "https://x.com/sakayori_soma",
+      "youtube": "https://www.youtube.com/@SakayoriSoma"
+    },
+    "tags": [
+      "にじさんじ"
+    ],
+    "page": "https://www.nijisanji.jp/talents/l/soma-sakayori"
+  },
+  {
+    "name": "渚トラウト",
+    "links": {
+      "twitter": "https://x.com/Tr0uT_2434",
+      "youtube": "https://www.youtube.com/@NagisaTrout"
+    },
+    "tags": [
+      "にじさんじ"
+    ],
+    "page": "https://www.nijisanji.jp/talents/l/trout-nagisa"
+  },
+  {
+    "name": "七瀬すず菜",
+    "links": {
+      "twitter": "https://x.com/Suzuna_Nanase",
+      "youtube": "https://www.youtube.com/@NanaseSuzuna"
+    },
+    "tags": [
+      "にじさんじ"
+    ],
+    "page": "https://www.nijisanji.jp/talents/l/suzuna-nanase"
   },
   {
     "name": "獅子神レオナ",
