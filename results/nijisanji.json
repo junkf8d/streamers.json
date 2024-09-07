@@ -49,23 +49,6 @@
     "page": "https://www.nijisanji.jp/talents/l/hajime-shibuya"
   },
   {
-    "name": "鈴谷アキ",
-    "allLinks": {
-      "twitter": "https://twitter.com/aki_suzuya",
-      "youtube": "https://www.youtube.com/channel/UCpnvhOIJ6BN-vPkYU9ls-Eg",
-      "fanclub": "https://www.nijisanji.jp/fanclubs/aki-suzuya",
-      "officialShop": "https://shop.nijisanji.jp/s/niji/group/list/003/item"
-    },
-    "links": {
-      "twitter": "https://twitter.com/aki_suzuya",
-      "youtube": "https://www.youtube.com/channel/UCpnvhOIJ6BN-vPkYU9ls-Eg"
-    },
-    "tags": [
-      "にじさんじ"
-    ],
-    "page": "https://www.nijisanji.jp/talents/l/aki-suzuya"
-  },
-  {
     "name": "月ノ美兎",
     "allLinks": {
       "twitter": "https://twitter.com/MitoTsukino",
@@ -422,22 +405,6 @@
       "にじさんじ"
     ],
     "page": "https://www.nijisanji.jp/talents/l/ryushen"
-  },
-  {
-    "name": "成瀬鳴",
-    "allLinks": {
-      "twitter": "https://twitter.com/narusenaru_2434",
-      "youtube": "https://www.youtube.com/channel/UCoM_XmK45j504hfUWvN06Qg",
-      "officialShop": "https://shop.nijisanji.jp/s/niji/group/list/031/item"
-    },
-    "links": {
-      "twitter": "https://twitter.com/narusenaru_2434",
-      "youtube": "https://www.youtube.com/channel/UCoM_XmK45j504hfUWvN06Qg"
-    },
-    "tags": [
-      "にじさんじ"
-    ],
-    "page": "https://www.nijisanji.jp/talents/l/naru-naruse"
   },
   {
     "name": "春崎エアル",
@@ -2409,20 +2376,6 @@
     "page": "https://www.nijisanji.jp/talents/l/luca-kaneshiro"
   },
   {
-    "name": "狩砂",
-    "allLinks": {
-      "bilibili": "https://space.bilibili.com/690608714"
-    },
-    "links": {
-      "bilibili": "https://space.bilibili.com/690608714"
-    },
-    "tags": [
-      "にじさんじ",
-      "VirtuaReal"
-    ],
-    "page": "https://www.nijisanji.jp/talents/l/karisa"
-  },
-  {
     "name": "希侑",
     "allLinks": {
       "twitter": "https://twitter.com/KiyuuVR",
@@ -2744,6 +2697,48 @@
     "page": "https://www.nijisanji.jp/talents/l/ren-zotto"
   },
   {
+    "name": "江乱",
+    "allLinks": {
+      "bilibili": "https://space.bilibili.com/1739085910"
+    },
+    "links": {
+      "bilibili": "https://space.bilibili.com/1739085910"
+    },
+    "tags": [
+      "にじさんじ",
+      "VirtuaReal"
+    ],
+    "page": "https://www.nijisanji.jp/talents/l/era"
+  },
+  {
+    "name": "岁己",
+    "allLinks": {
+      "bilibili": "https://space.bilibili.com/1954091502"
+    },
+    "links": {
+      "bilibili": "https://space.bilibili.com/1954091502"
+    },
+    "tags": [
+      "にじさんじ",
+      "VirtuaReal"
+    ],
+    "page": "https://www.nijisanji.jp/talents/l/sui"
+  },
+  {
+    "name": "莱恩",
+    "allLinks": {
+      "bilibili": "https://space.bilibili.com/1116072703"
+    },
+    "links": {
+      "bilibili": "https://space.bilibili.com/1116072703"
+    },
+    "tags": [
+      "にじさんじ",
+      "VirtuaReal"
+    ],
+    "page": "https://www.nijisanji.jp/talents/l/leo"
+  },
+  {
     "name": "ヴェール ヴァーミリオン",
     "allLinks": {
       "twitter": "https://twitter.com/Ver_Vermillion",
@@ -2939,6 +2934,50 @@
     "page": "https://www.nijisanji.jp/talents/l/sophia-valentine"
   },
   {
+    "name": "伊舞",
+    "allLinks": {
+      "bilibili": "https://space.bilibili.com/1542516095"
+    },
+    "links": {
+      "bilibili": "https://space.bilibili.com/1542516095"
+    },
+    "tags": [
+      "にじさんじ",
+      "VirtuaReal"
+    ],
+    "page": "https://www.nijisanji.jp/talents/l/eve"
+  },
+  {
+    "name": "欧珀",
+    "allLinks": {
+      "twitter": "https://x.com/opaloparu_VR",
+      "bilibili": "https://space.bilibili.com/1827139579"
+    },
+    "links": {
+      "twitter": "https://x.com/opaloparu_VR",
+      "bilibili": "https://space.bilibili.com/1827139579"
+    },
+    "tags": [
+      "にじさんじ",
+      "VirtuaReal"
+    ],
+    "page": "https://www.nijisanji.jp/talents/l/opal"
+  },
+  {
+    "name": "栞栞",
+    "allLinks": {
+      "bilibili": "https://space.bilibili.com/1609526545"
+    },
+    "links": {
+      "bilibili": "https://space.bilibili.com/1609526545"
+    },
+    "tags": [
+      "にじさんじ",
+      "VirtuaReal"
+    ],
+    "page": "https://www.nijisanji.jp/talents/l/shiori"
+  },
+  {
     "name": "赤城ウェン",
     "allLinks": {
       "twitter": "https://twitter.com/akagi_wen",
@@ -3067,6 +3106,68 @@
     "page": "https://www.nijisanji.jp/talents/l/kagetsu-murakumo"
   },
   {
+    "name": "哎小呜",
+    "allLinks": {
+      "bilibili": "https://space.bilibili.com/1567394869"
+    },
+    "links": {
+      "bilibili": "https://space.bilibili.com/1567394869"
+    },
+    "tags": [
+      "にじさんじ",
+      "VirtuaReal"
+    ],
+    "page": "https://www.nijisanji.jp/talents/l/awu"
+  },
+  {
+    "name": "雨纪",
+    "allLinks": {
+      "twitter": "https://x.com/AmekiVR",
+      "bilibili": "https://space.bilibili.com/1932862336"
+    },
+    "links": {
+      "twitter": "https://x.com/AmekiVR",
+      "bilibili": "https://space.bilibili.com/1932862336"
+    },
+    "tags": [
+      "にじさんじ",
+      "VirtuaReal"
+    ],
+    "page": "https://www.nijisanji.jp/talents/l/ameki"
+  },
+  {
+    "name": "初濑",
+    "allLinks": {
+      "twitter": "https://x.com/HatsuseVR",
+      "bilibili": "https://space.bilibili.com/1711724633"
+    },
+    "links": {
+      "twitter": "https://x.com/HatsuseVR",
+      "bilibili": "https://space.bilibili.com/1711724633"
+    },
+    "tags": [
+      "にじさんじ",
+      "VirtuaReal"
+    ],
+    "page": "https://www.nijisanji.jp/talents/l/hatsuse"
+  },
+  {
+    "name": "未知夜",
+    "allLinks": {
+      "twitter": "https://x.com/MCY_VirtuaReal",
+      "bilibili": "https://space.bilibili.com/1296515170"
+    },
+    "links": {
+      "twitter": "https://x.com/MCY_VirtuaReal",
+      "bilibili": "https://space.bilibili.com/1296515170"
+    },
+    "tags": [
+      "にじさんじ",
+      "VirtuaReal"
+    ],
+    "page": "https://www.nijisanji.jp/talents/l/michiya"
+  },
+  {
     "name": "ヴェザリウス バンデージ",
     "allLinks": {
       "twitter": "https://twitter.com/VezaliusBandage",
@@ -3113,6 +3214,96 @@
       "NIJISANJI EN"
     ],
     "page": "https://www.nijisanji.jp/talents/l/yu-q-wilson"
+  },
+  {
+    "name": "入福步",
+    "allLinks": {
+      "twitter": "https://x.com/AYM_VirtuaReal",
+      "bilibili": "https://space.bilibili.com/1297910179"
+    },
+    "links": {
+      "twitter": "https://x.com/AYM_VirtuaReal",
+      "bilibili": "https://space.bilibili.com/1297910179"
+    },
+    "tags": [
+      "にじさんじ",
+      "VirtuaReal"
+    ],
+    "page": "https://www.nijisanji.jp/talents/l/ayumi"
+  },
+  {
+    "name": "漆羽",
+    "allLinks": {
+      "bilibili": "https://space.bilibili.com/2057377595"
+    },
+    "links": {
+      "bilibili": "https://space.bilibili.com/2057377595"
+    },
+    "tags": [
+      "にじさんじ",
+      "VirtuaReal"
+    ],
+    "page": "https://www.nijisanji.jp/talents/l/urushiha"
+  },
+  {
+    "name": "晴一",
+    "allLinks": {
+      "bilibili": "https://space.bilibili.com/1616183604"
+    },
+    "links": {
+      "bilibili": "https://space.bilibili.com/1616183604"
+    },
+    "tags": [
+      "にじさんじ",
+      "VirtuaReal"
+    ],
+    "page": "https://www.nijisanji.jp/talents/l/hajime"
+  },
+  {
+    "name": "蜜言",
+    "allLinks": {
+      "twitter": "https://x.com/MikotoVR",
+      "bilibili": "https://space.bilibili.com/1609795310"
+    },
+    "links": {
+      "twitter": "https://x.com/MikotoVR",
+      "bilibili": "https://space.bilibili.com/1609795310"
+    },
+    "tags": [
+      "にじさんじ",
+      "VirtuaReal"
+    ],
+    "page": "https://www.nijisanji.jp/talents/l/mikoto"
+  },
+  {
+    "name": "弥月",
+    "allLinks": {
+      "bilibili": "https://space.bilibili.com/1789460279"
+    },
+    "links": {
+      "bilibili": "https://space.bilibili.com/1789460279"
+    },
+    "tags": [
+      "にじさんじ",
+      "VirtuaReal"
+    ],
+    "page": "https://www.nijisanji.jp/talents/l/mizuki"
+  },
+  {
+    "name": "离枝",
+    "allLinks": {
+      "twitter": "https://x.com/Richi_VR",
+      "bilibili": "https://space.bilibili.com/2080519347"
+    },
+    "links": {
+      "twitter": "https://x.com/Richi_VR",
+      "bilibili": "https://space.bilibili.com/2080519347"
+    },
+    "tags": [
+      "にじさんじ",
+      "VirtuaReal"
+    ],
+    "page": "https://www.nijisanji.jp/talents/l/richi"
   },
   {
     "name": "ヴィクトリア ブライトシールド",
@@ -3209,6 +3400,66 @@
     "page": "https://www.nijisanji.jp/talents/l/milan-kestrel"
   },
   {
+    "name": "米汀",
+    "allLinks": {
+      "bilibili": "https://space.bilibili.com/2124647716"
+    },
+    "links": {
+      "bilibili": "https://space.bilibili.com/2124647716"
+    },
+    "tags": [
+      "にじさんじ",
+      "VirtuaReal"
+    ],
+    "page": "https://www.nijisanji.jp/talents/l/nagisa"
+  },
+  {
+    "name": "帕可",
+    "allLinks": {
+      "twitter": "https://x.com/Pako_VirtuaReal",
+      "bilibili": "https://space.bilibili.com/1978590132"
+    },
+    "links": {
+      "twitter": "https://x.com/Pako_VirtuaReal",
+      "bilibili": "https://space.bilibili.com/1978590132"
+    },
+    "tags": [
+      "にじさんじ",
+      "VirtuaReal"
+    ],
+    "page": "https://www.nijisanji.jp/talents/l/pako"
+  },
+  {
+    "name": "向阳",
+    "allLinks": {
+      "twitter": "https://x.com/HihiVR",
+      "bilibili": "https://space.bilibili.com/1694351351"
+    },
+    "links": {
+      "twitter": "https://x.com/HihiVR",
+      "bilibili": "https://space.bilibili.com/1694351351"
+    },
+    "tags": [
+      "にじさんじ",
+      "VirtuaReal"
+    ],
+    "page": "https://www.nijisanji.jp/talents/l/hihi"
+  },
+  {
+    "name": "雪烛",
+    "allLinks": {
+      "bilibili": "https://space.bilibili.com/2039332008"
+    },
+    "links": {
+      "bilibili": "https://space.bilibili.com/2039332008"
+    },
+    "tags": [
+      "にじさんじ",
+      "VirtuaReal"
+    ],
+    "page": "https://www.nijisanji.jp/talents/l/yukisyo"
+  },
+  {
     "name": "魁星",
     "allLinks": {
       "twitter": "https://x.com/Kaisei_2434",
@@ -3252,6 +3503,36 @@
       "にじさんじ"
     ],
     "page": "https://www.nijisanji.jp/talents/l/ness-sakaki"
+  },
+  {
+    "name": "阿命",
+    "allLinks": {
+      "bilibili": "https://space.bilibili.com/1526446007"
+    },
+    "links": {
+      "bilibili": "https://space.bilibili.com/1526446007"
+    },
+    "tags": [
+      "にじさんじ",
+      "VirtuaReal"
+    ],
+    "page": "https://www.nijisanji.jp/talents/l/inochi"
+  },
+  {
+    "name": "鬼间",
+    "allLinks": {
+      "twitter": "https://x.com/Kima_virtuareal",
+      "bilibili": "https://space.bilibili.com/1570525137"
+    },
+    "links": {
+      "twitter": "https://x.com/Kima_virtuareal",
+      "bilibili": "https://space.bilibili.com/1570525137"
+    },
+    "tags": [
+      "にじさんじ",
+      "VirtuaReal"
+    ],
+    "page": "https://www.nijisanji.jp/talents/l/kima"
   },
   {
     "name": "クララ チャームウッド",
@@ -3375,6 +3656,48 @@
       "にじさんじ"
     ],
     "page": "https://www.nijisanji.jp/talents/l/lunlun"
+  },
+  {
+    "name": "点酥",
+    "allLinks": {
+      "bilibili": "https://space.bilibili.com/1323355750"
+    },
+    "links": {
+      "bilibili": "https://space.bilibili.com/1323355750"
+    },
+    "tags": [
+      "にじさんじ",
+      "VirtuaReal"
+    ],
+    "page": "https://www.nijisanji.jp/talents/l/susu"
+  },
+  {
+    "name": "花礼",
+    "allLinks": {
+      "bilibili": "https://space.bilibili.com/1048135385"
+    },
+    "links": {
+      "bilibili": "https://space.bilibili.com/1048135385"
+    },
+    "tags": [
+      "にじさんじ",
+      "VirtuaReal"
+    ],
+    "page": "https://www.nijisanji.jp/talents/l/harei"
+  },
+  {
+    "name": "桃代",
+    "allLinks": {
+      "bilibili": "https://space.bilibili.com/2040984069"
+    },
+    "links": {
+      "bilibili": "https://space.bilibili.com/2040984069"
+    },
+    "tags": [
+      "にじさんじ",
+      "VirtuaReal"
+    ],
+    "page": "https://www.nijisanji.jp/talents/l/momoka"
   },
   {
     "name": "雲母たまこ",

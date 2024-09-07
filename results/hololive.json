@@ -111,24 +111,6 @@
     "page": "https://hololive.hololivepro.com/talents/natsuiro-matsuri/"
   },
   {
-    "name": "湊あくあ",
-    "allLinks": {
-      "YouTube": "https://www.youtube.com/channel/UC1opHUrw8rvnsadT-iGp7Cg?sub_confirmation=1",
-      "X": "https://twitter.com/minatoaqua",
-      "MMD": "https://3d.nicovideo.jp/works/td63649",
-      "ARアプリ『hololy』で会う": "https://hololive.hololivepro.com/special/1937/"
-    },
-    "links": {
-      "youtube": "https://www.youtube.com/channel/UC1opHUrw8rvnsadT-iGp7Cg",
-      "twitter": "https://twitter.com/minatoaqua"
-    },
-    "tags": [
-      "ホロライブ",
-      "ホロライブ2期生"
-    ],
-    "page": "https://hololive.hololivepro.com/talents/minato-aqua/"
-  },
-  {
     "name": "紫咲シオン",
     "allLinks": {
       "YouTube": "https://www.youtube.com/channel/UCXTpFs_3PqI41qX2d9tL2Rw?sub_confirmation=1",
@@ -240,7 +222,7 @@
       "MMD": "https://3d.nicovideo.jp/works/td74928",
       "MMD(2)": "https://3d.nicovideo.jp/works/td74930",
       "ARアプリ『hololy』で会う": "https://hololive.hololivepro.com/special/1937/",
-      "“flower fantasista!”": "https://flowerfantasista.hololivepro.com/"
+      "さくらみこ1st Live “flower fantasista!”": "https://flowerfantasista.hololivepro.com/"
     },
     "links": {
       "youtube": "https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA",
@@ -294,7 +276,8 @@
     "allLinks": {
       "YouTube": "https://www.youtube.com/channel/UC5CwaMl1eIgY8h02uZw7u8A?sub_confirmation=1",
       "X": "https://twitter.com/suisei_hosimati",
-      "歌の再生リスト": "https://www.youtube.com/watch?v=hAI-qjw6J-A&list=PLAo9RlHR2tDZwddeEyp9nTfpaFB58DrXd&index=1"
+      "歌の再生リスト": "https://www.youtube.com/watch?v=hAI-qjw6J-A&list=PLAo9RlHR2tDZwddeEyp9nTfpaFB58DrXd&index=1",
+      "Hoshimachi Suisei Live Tour 2024 “Spectra of Nova”": "https://spectraofnova.hololivepro.com/"
     },
     "links": {
       "youtube": "https://www.youtube.com/channel/UC5CwaMl1eIgY8h02uZw7u8A",
@@ -1156,6 +1139,24 @@
       "ReGLOSS"
     ],
     "page": "https://hololive.hololivepro.com/talents/todoroki-hajime/"
+  },
+  {
+    "name": "【卒業生】湊あくあ",
+    "allLinks": {
+      "YouTube": "https://www.youtube.com/channel/UC1opHUrw8rvnsadT-iGp7Cg?sub_confirmation=1",
+      "X": "https://twitter.com/minatoaqua",
+      "MMD": "https://3d.nicovideo.jp/works/td63649",
+      "ARアプリ『hololy』で会う": "https://hololive.hololivepro.com/special/1937/"
+    },
+    "links": {
+      "youtube": "https://www.youtube.com/channel/UC1opHUrw8rvnsadT-iGp7Cg",
+      "twitter": "https://twitter.com/minatoaqua"
+    },
+    "tags": [
+      "ホロライブ",
+      "ホロライブ2期生"
+    ],
+    "page": "https://hololive.hololivepro.com/talents/minato-aqua/"
   },
   {
     "name": "【卒業生】桐生ココ",

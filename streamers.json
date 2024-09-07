@@ -1319,18 +1319,6 @@
     "page": "https://hololive.hololivepro.com/talents/natsuiro-matsuri/"
   },
   {
-    "name": "湊あくあ",
-    "links": {
-      "youtube": "https://www.youtube.com/channel/UC1opHUrw8rvnsadT-iGp7Cg",
-      "twitter": "https://twitter.com/minatoaqua"
-    },
-    "tags": [
-      "ホロライブ",
-      "ホロライブ2期生"
-    ],
-    "page": "https://hololive.hololivepro.com/talents/minato-aqua/"
-  },
-  {
     "name": "紫咲シオン",
     "links": {
       "youtube": "https://www.youtube.com/channel/UCXTpFs_3PqI41qX2d9tL2Rw",
@@ -2060,6 +2048,18 @@
     "page": "https://hololive.hololivepro.com/talents/todoroki-hajime/"
   },
   {
+    "name": "【卒業生】湊あくあ",
+    "links": {
+      "youtube": "https://www.youtube.com/channel/UC1opHUrw8rvnsadT-iGp7Cg",
+      "twitter": "https://twitter.com/minatoaqua"
+    },
+    "tags": [
+      "ホロライブ",
+      "ホロライブ2期生"
+    ],
+    "page": "https://hololive.hololivepro.com/talents/minato-aqua/"
+  },
+  {
     "name": "【卒業生】桐生ココ",
     "links": {
       "youtube": "https://www.youtube.com/channel/UCS9uQI-jC3DE0L4IpXyvr6w",
@@ -2406,17 +2406,6 @@
     "page": "https://www.nijisanji.jp/talents/l/hajime-shibuya"
   },
   {
-    "name": "鈴谷アキ",
-    "links": {
-      "twitter": "https://twitter.com/aki_suzuya",
-      "youtube": "https://www.youtube.com/channel/UCpnvhOIJ6BN-vPkYU9ls-Eg"
-    },
-    "tags": [
-      "にじさんじ"
-    ],
-    "page": "https://www.nijisanji.jp/talents/l/aki-suzuya"
-  },
-  {
     "name": "月ノ美兎",
     "links": {
       "twitter": "https://twitter.com/MitoTsukino",
@@ -2657,17 +2646,6 @@
       "にじさんじ"
     ],
     "page": "https://www.nijisanji.jp/talents/l/ryushen"
-  },
-  {
-    "name": "成瀬鳴",
-    "links": {
-      "twitter": "https://twitter.com/narusenaru_2434",
-      "youtube": "https://www.youtube.com/channel/UCoM_XmK45j504hfUWvN06Qg"
-    },
-    "tags": [
-      "にじさんじ"
-    ],
-    "page": "https://www.nijisanji.jp/talents/l/naru-naruse"
   },
   {
     "name": "春崎エアル",
@@ -4048,17 +4026,6 @@
     "page": "https://www.nijisanji.jp/talents/l/luca-kaneshiro"
   },
   {
-    "name": "狩砂",
-    "links": {
-      "bilibili": "https://space.bilibili.com/690608714"
-    },
-    "tags": [
-      "にじさんじ",
-      "VirtuaReal"
-    ],
-    "page": "https://www.nijisanji.jp/talents/l/karisa"
-  },
-  {
     "name": "希侑",
     "links": {
       "twitter": "https://twitter.com/KiyuuVR",
@@ -4291,6 +4258,39 @@
     "page": "https://www.nijisanji.jp/talents/l/ren-zotto"
   },
   {
+    "name": "江乱",
+    "links": {
+      "bilibili": "https://space.bilibili.com/1739085910"
+    },
+    "tags": [
+      "にじさんじ",
+      "VirtuaReal"
+    ],
+    "page": "https://www.nijisanji.jp/talents/l/era"
+  },
+  {
+    "name": "岁己",
+    "links": {
+      "bilibili": "https://space.bilibili.com/1954091502"
+    },
+    "tags": [
+      "にじさんじ",
+      "VirtuaReal"
+    ],
+    "page": "https://www.nijisanji.jp/talents/l/sui"
+  },
+  {
+    "name": "莱恩",
+    "links": {
+      "bilibili": "https://space.bilibili.com/1116072703"
+    },
+    "tags": [
+      "にじさんじ",
+      "VirtuaReal"
+    ],
+    "page": "https://www.nijisanji.jp/talents/l/leo"
+  },
+  {
     "name": "ヴェール ヴァーミリオン",
     "links": {
       "twitter": "https://twitter.com/Ver_Vermillion",
@@ -4428,6 +4428,40 @@
     "page": "https://www.nijisanji.jp/talents/l/sophia-valentine"
   },
   {
+    "name": "伊舞",
+    "links": {
+      "bilibili": "https://space.bilibili.com/1542516095"
+    },
+    "tags": [
+      "にじさんじ",
+      "VirtuaReal"
+    ],
+    "page": "https://www.nijisanji.jp/talents/l/eve"
+  },
+  {
+    "name": "欧珀",
+    "links": {
+      "twitter": "https://x.com/opaloparu_VR",
+      "bilibili": "https://space.bilibili.com/1827139579"
+    },
+    "tags": [
+      "にじさんじ",
+      "VirtuaReal"
+    ],
+    "page": "https://www.nijisanji.jp/talents/l/opal"
+  },
+  {
+    "name": "栞栞",
+    "links": {
+      "bilibili": "https://space.bilibili.com/1609526545"
+    },
+    "tags": [
+      "にじさんじ",
+      "VirtuaReal"
+    ],
+    "page": "https://www.nijisanji.jp/talents/l/shiori"
+  },
+  {
     "name": "赤城ウェン",
     "links": {
       "twitter": "https://twitter.com/akagi_wen",
@@ -4516,6 +4550,53 @@
     "page": "https://www.nijisanji.jp/talents/l/kagetsu-murakumo"
   },
   {
+    "name": "哎小呜",
+    "links": {
+      "bilibili": "https://space.bilibili.com/1567394869"
+    },
+    "tags": [
+      "にじさんじ",
+      "VirtuaReal"
+    ],
+    "page": "https://www.nijisanji.jp/talents/l/awu"
+  },
+  {
+    "name": "雨纪",
+    "links": {
+      "twitter": "https://x.com/AmekiVR",
+      "bilibili": "https://space.bilibili.com/1932862336"
+    },
+    "tags": [
+      "にじさんじ",
+      "VirtuaReal"
+    ],
+    "page": "https://www.nijisanji.jp/talents/l/ameki"
+  },
+  {
+    "name": "初濑",
+    "links": {
+      "twitter": "https://x.com/HatsuseVR",
+      "bilibili": "https://space.bilibili.com/1711724633"
+    },
+    "tags": [
+      "にじさんじ",
+      "VirtuaReal"
+    ],
+    "page": "https://www.nijisanji.jp/talents/l/hatsuse"
+  },
+  {
+    "name": "未知夜",
+    "links": {
+      "twitter": "https://x.com/MCY_VirtuaReal",
+      "bilibili": "https://space.bilibili.com/1296515170"
+    },
+    "tags": [
+      "にじさんじ",
+      "VirtuaReal"
+    ],
+    "page": "https://www.nijisanji.jp/talents/l/michiya"
+  },
+  {
     "name": "ヴェザリウス バンデージ",
     "links": {
       "twitter": "https://twitter.com/VezaliusBandage",
@@ -4550,6 +4631,75 @@
       "NIJISANJI EN"
     ],
     "page": "https://www.nijisanji.jp/talents/l/yu-q-wilson"
+  },
+  {
+    "name": "入福步",
+    "links": {
+      "twitter": "https://x.com/AYM_VirtuaReal",
+      "bilibili": "https://space.bilibili.com/1297910179"
+    },
+    "tags": [
+      "にじさんじ",
+      "VirtuaReal"
+    ],
+    "page": "https://www.nijisanji.jp/talents/l/ayumi"
+  },
+  {
+    "name": "漆羽",
+    "links": {
+      "bilibili": "https://space.bilibili.com/2057377595"
+    },
+    "tags": [
+      "にじさんじ",
+      "VirtuaReal"
+    ],
+    "page": "https://www.nijisanji.jp/talents/l/urushiha"
+  },
+  {
+    "name": "晴一",
+    "links": {
+      "bilibili": "https://space.bilibili.com/1616183604"
+    },
+    "tags": [
+      "にじさんじ",
+      "VirtuaReal"
+    ],
+    "page": "https://www.nijisanji.jp/talents/l/hajime"
+  },
+  {
+    "name": "蜜言",
+    "links": {
+      "twitter": "https://x.com/MikotoVR",
+      "bilibili": "https://space.bilibili.com/1609795310"
+    },
+    "tags": [
+      "にじさんじ",
+      "VirtuaReal"
+    ],
+    "page": "https://www.nijisanji.jp/talents/l/mikoto"
+  },
+  {
+    "name": "弥月",
+    "links": {
+      "bilibili": "https://space.bilibili.com/1789460279"
+    },
+    "tags": [
+      "にじさんじ",
+      "VirtuaReal"
+    ],
+    "page": "https://www.nijisanji.jp/talents/l/mizuki"
+  },
+  {
+    "name": "离枝",
+    "links": {
+      "twitter": "https://x.com/Richi_VR",
+      "bilibili": "https://space.bilibili.com/2080519347"
+    },
+    "tags": [
+      "にじさんじ",
+      "VirtuaReal"
+    ],
+    "page": "https://www.nijisanji.jp/talents/l/richi"
   },
   {
     "name": "ヴィクトリア ブライトシールド",
@@ -4621,6 +4771,52 @@
     "page": "https://www.nijisanji.jp/talents/l/milan-kestrel"
   },
   {
+    "name": "米汀",
+    "links": {
+      "bilibili": "https://space.bilibili.com/2124647716"
+    },
+    "tags": [
+      "にじさんじ",
+      "VirtuaReal"
+    ],
+    "page": "https://www.nijisanji.jp/talents/l/nagisa"
+  },
+  {
+    "name": "帕可",
+    "links": {
+      "twitter": "https://x.com/Pako_VirtuaReal",
+      "bilibili": "https://space.bilibili.com/1978590132"
+    },
+    "tags": [
+      "にじさんじ",
+      "VirtuaReal"
+    ],
+    "page": "https://www.nijisanji.jp/talents/l/pako"
+  },
+  {
+    "name": "向阳",
+    "links": {
+      "twitter": "https://x.com/HihiVR",
+      "bilibili": "https://space.bilibili.com/1694351351"
+    },
+    "tags": [
+      "にじさんじ",
+      "VirtuaReal"
+    ],
+    "page": "https://www.nijisanji.jp/talents/l/hihi"
+  },
+  {
+    "name": "雪烛",
+    "links": {
+      "bilibili": "https://space.bilibili.com/2039332008"
+    },
+    "tags": [
+      "にじさんじ",
+      "VirtuaReal"
+    ],
+    "page": "https://www.nijisanji.jp/talents/l/yukisyo"
+  },
+  {
     "name": "魁星",
     "links": {
       "twitter": "https://x.com/Kaisei_2434",
@@ -4652,6 +4848,29 @@
       "にじさんじ"
     ],
     "page": "https://www.nijisanji.jp/talents/l/ness-sakaki"
+  },
+  {
+    "name": "阿命",
+    "links": {
+      "bilibili": "https://space.bilibili.com/1526446007"
+    },
+    "tags": [
+      "にじさんじ",
+      "VirtuaReal"
+    ],
+    "page": "https://www.nijisanji.jp/talents/l/inochi"
+  },
+  {
+    "name": "鬼间",
+    "links": {
+      "twitter": "https://x.com/Kima_virtuareal",
+      "bilibili": "https://space.bilibili.com/1570525137"
+    },
+    "tags": [
+      "にじさんじ",
+      "VirtuaReal"
+    ],
+    "page": "https://www.nijisanji.jp/talents/l/kima"
   },
   {
     "name": "クララ チャームウッド",
@@ -4743,6 +4962,39 @@
       "にじさんじ"
     ],
     "page": "https://www.nijisanji.jp/talents/l/lunlun"
+  },
+  {
+    "name": "点酥",
+    "links": {
+      "bilibili": "https://space.bilibili.com/1323355750"
+    },
+    "tags": [
+      "にじさんじ",
+      "VirtuaReal"
+    ],
+    "page": "https://www.nijisanji.jp/talents/l/susu"
+  },
+  {
+    "name": "花礼",
+    "links": {
+      "bilibili": "https://space.bilibili.com/1048135385"
+    },
+    "tags": [
+      "にじさんじ",
+      "VirtuaReal"
+    ],
+    "page": "https://www.nijisanji.jp/talents/l/harei"
+  },
+  {
+    "name": "桃代",
+    "links": {
+      "bilibili": "https://space.bilibili.com/2040984069"
+    },
+    "tags": [
+      "にじさんじ",
+      "VirtuaReal"
+    ],
+    "page": "https://www.nijisanji.jp/talents/l/momoka"
   },
   {
     "name": "雲母たまこ",
@@ -4980,16 +5232,17 @@
     "page": "https://riddle.info/members/shinjisan/"
   },
   {
-    "name": "aja",
+    "name": "ありけん",
     "links": {
-      "twitch": "https://www.twitch.tv/ajak0n",
-      "twitter": "https://twitter.com/ajak0n"
+      "youtube": "https://www.youtube.com/channel/UC3NHhO0wBaZ5OVxaabcDKrw",
+      "twitch": "https://www.twitch.tv/arikendebu",
+      "twitter": "https://twitter.com/guraburuslot777"
     },
     "tags": [
       "RIDDLE",
       "STREAMER"
     ],
-    "page": "https://riddle.info/members/aja/"
+    "page": "https://riddle.info/members/ariken/"
   },
   {
     "name": "高木",
@@ -5004,29 +5257,29 @@
     "page": "https://riddle.info/members/takagi/"
   },
   {
-    "name": "naohiro21",
+    "name": "aja",
     "links": {
-      "youtube": "https://www.youtube.com/channel/UCYkJBszCeX9bBUpZQXI32lQ",
-      "twitter": "https://twitter.com/naohiro21YT"
+      "twitch": "https://www.twitch.tv/ajak0n",
+      "twitter": "https://twitter.com/ajak0n"
     },
     "tags": [
       "RIDDLE",
       "STREAMER"
     ],
-    "page": "https://riddle.info/members/naohiro21/"
+    "page": "https://riddle.info/members/aja/"
   },
   {
-    "name": "Hesiko",
+    "name": "葉",
     "links": {
-      "youtube": "https://www.youtube.com/channel/UCDJ_eFjX89HP-gAT9P1HbRA",
-      "twitch": "https://m.twitch.tv/456_hesiko/home",
-      "twitter": "https://twitter.com/hesikojonny"
+      "youtube": "https://www.youtube.com/channel/UCkoHikIfVSDslry7nkoi91w",
+      "twitch": "https://www.twitch.tv/yohdazo",
+      "twitter": "https://x.com/yohdayo"
     },
     "tags": [
       "RIDDLE",
       "STREAMER"
     ],
-    "page": "https://riddle.info/members/hesiko/"
+    "page": "https://riddle.info/members/yoh/"
   },
   {
     "name": "SqLA",
@@ -5041,29 +5294,29 @@
     "page": "https://riddle.info/members/sqla/"
   },
   {
-    "name": "まろん",
+    "name": "MARUTAKE",
     "links": {
-      "youtube": "https://www.youtube.com/channel/UCVU9FJUDdsjIFbJijf9kxrg",
-      "twitter": "https://twitter.com/RIDMARON"
+      "youtube": "https://www.youtube.com/channel/UCXCiZJy_uJkrARg7nxkvyrQ",
+      "twitch": "https://www.twitch.tv/marutake_a",
+      "twitter": "https://x.com/A_Marutake"
     },
     "tags": [
       "RIDDLE",
       "STREAMER"
     ],
-    "page": "https://riddle.info/members/maron/"
+    "page": "https://riddle.info/members/marutake/"
   },
   {
-    "name": "ありけん",
+    "name": "NiceWigg",
     "links": {
-      "youtube": "https://www.youtube.com/channel/UC3NHhO0wBaZ5OVxaabcDKrw",
-      "twitch": "https://www.twitch.tv/arikendebu",
-      "twitter": "https://twitter.com/guraburuslot777"
+      "twitch": "https://www.twitch.tv/nicewigg",
+      "twitter": "https://x.com/NiceWigg"
     },
     "tags": [
       "RIDDLE",
       "STREAMER"
     ],
-    "page": "https://riddle.info/members/ariken/"
+    "page": "https://riddle.info/members/nicewigg/"
   },
   {
     "name": "YUKIO",
@@ -5250,16 +5503,17 @@
     "page": "https://riddle.info/members/crl/"
   },
   {
-    "name": "ぼぶ",
+    "name": "Hesiko",
     "links": {
-      "youtube": "https://www.youtube.com/channel/UC-fHhpWFkvl2sDEc09kEHtQ",
-      "twitter": "https://twitter.com/Bob_FN_"
+      "youtube": "https://www.youtube.com/channel/UCDJ_eFjX89HP-gAT9P1HbRA",
+      "twitch": "https://m.twitch.tv/456_hesiko/home",
+      "twitter": "https://twitter.com/hesikojonny"
     },
     "tags": [
       "RIDDLE",
-      "FORTNITE"
+      "STREAMER"
     ],
-    "page": "https://riddle.info/members/bob/"
+    "page": "https://riddle.info/members/hesiko/"
   },
   {
     "name": "maufin",
@@ -5274,16 +5528,16 @@
     "page": "https://riddle.info/members/maufin/"
   },
   {
-    "name": "ふぁいあー",
+    "name": "naohiro21",
     "links": {
-      "youtube": "https://www.youtube.com/channel/UCus454bdWrbVBix3EvUM92w",
-      "twitter": "https://twitter.com/firedesuo_O"
+      "youtube": "https://www.youtube.com/channel/UCYkJBszCeX9bBUpZQXI32lQ",
+      "twitter": "https://twitter.com/naohiro21YT"
     },
     "tags": [
       "RIDDLE",
       "STREAMER"
     ],
-    "page": "https://riddle.info/members/fire/"
+    "page": "https://riddle.info/members/naohiro21/"
   },
   {
     "name": "ワイルドホーク",
@@ -5310,16 +5564,52 @@
     "page": "https://riddle.info/members/jr/"
   },
   {
-    "name": "NiceWigg",
+    "name": "まろん",
     "links": {
-      "twitch": "https://www.twitch.tv/nicewigg",
-      "twitter": "https://x.com/NiceWigg"
+      "youtube": "https://www.youtube.com/channel/UCVU9FJUDdsjIFbJijf9kxrg",
+      "twitter": "https://twitter.com/RIDMARON"
     },
     "tags": [
       "RIDDLE",
       "STREAMER"
     ],
-    "page": "https://riddle.info/members/nicewigg/"
+    "page": "https://riddle.info/members/maron/"
+  },
+  {
+    "name": "ふぁいあー",
+    "links": {
+      "youtube": "https://www.youtube.com/channel/UCus454bdWrbVBix3EvUM92w",
+      "twitter": "https://twitter.com/firedesuo_O"
+    },
+    "tags": [
+      "RIDDLE",
+      "STREAMER"
+    ],
+    "page": "https://riddle.info/members/fire/"
+  },
+  {
+    "name": "ぼぶ",
+    "links": {
+      "youtube": "https://www.youtube.com/channel/UC-fHhpWFkvl2sDEc09kEHtQ",
+      "twitter": "https://twitter.com/Bob_FN_"
+    },
+    "tags": [
+      "RIDDLE",
+      "STREAMER"
+    ],
+    "page": "https://riddle.info/members/bob/"
+  },
+  {
+    "name": "りせ",
+    "links": {
+      "youtube": "https://www.youtube.com/@risegotgamer",
+      "twitter": "https://x.com/RiseGotGamer"
+    },
+    "tags": [
+      "RIDDLE",
+      "FORTNITE"
+    ],
+    "page": "https://riddle.info/members/rise/"
   },
   {
     "name": "カシ・オトハ",
@@ -5427,7 +5717,7 @@
     "links": {
       "twitter": "https://twitter.com/KanraDeity",
       "youtube": "https://www.youtube.com/@KanraDeity",
-      "twitch": "ttps://www.twitch.tv/kanradeity"
+      "twitch": "https://www.twitch.tv/kanradeity"
     },
     "tags": [
       "VEE"
@@ -6426,8 +6716,7 @@
     },
     "tags": [
       "ZETA DIVISION",
-      "ATHLETE",
-      "VALORANT"
+      "CREATOR"
     ],
     "page": "https://zetadivision.com/players/laz"
   },
@@ -6481,19 +6770,6 @@
       "FORTNITE"
     ],
     "page": "https://zetadivision.com/players/minipiyo"
-  },
-  {
-    "name": "Mocchi",
-    "links": {
-      "twitter": "https://x.com/0ukA_Mocchi",
-      "youtube": "https://www.youtube.com/@0ukA"
-    },
-    "tags": [
-      "ZETA DIVISION",
-      "ATHLETE",
-      "IDENTITY V"
-    ],
-    "page": "https://zetadivision.com/players/mocchi"
   },
   {
     "name": "Moco",

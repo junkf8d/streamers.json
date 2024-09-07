@@ -26,16 +26,17 @@
     "page": "https://riddle.info/members/shinjisan/"
   },
   {
-    "name": "aja",
+    "name": "ありけん",
     "links": {
-      "twitch": "https://www.twitch.tv/ajak0n",
-      "twitter": "https://twitter.com/ajak0n"
+      "youtube": "https://www.youtube.com/channel/UC3NHhO0wBaZ5OVxaabcDKrw",
+      "twitch": "https://www.twitch.tv/arikendebu",
+      "twitter": "https://twitter.com/guraburuslot777"
     },
     "tags": [
       "RIDDLE",
       "STREAMER"
     ],
-    "page": "https://riddle.info/members/aja/"
+    "page": "https://riddle.info/members/ariken/"
   },
   {
     "name": "高木",
@@ -50,29 +51,29 @@
     "page": "https://riddle.info/members/takagi/"
   },
   {
-    "name": "naohiro21",
+    "name": "aja",
     "links": {
-      "youtube": "https://www.youtube.com/channel/UCYkJBszCeX9bBUpZQXI32lQ",
-      "twitter": "https://twitter.com/naohiro21YT"
+      "twitch": "https://www.twitch.tv/ajak0n",
+      "twitter": "https://twitter.com/ajak0n"
     },
     "tags": [
       "RIDDLE",
       "STREAMER"
     ],
-    "page": "https://riddle.info/members/naohiro21/"
+    "page": "https://riddle.info/members/aja/"
   },
   {
-    "name": "Hesiko",
+    "name": "葉",
     "links": {
-      "youtube": "https://www.youtube.com/channel/UCDJ_eFjX89HP-gAT9P1HbRA",
-      "twitch": "https://m.twitch.tv/456_hesiko/home",
-      "twitter": "https://twitter.com/hesikojonny"
+      "youtube": "https://www.youtube.com/channel/UCkoHikIfVSDslry7nkoi91w",
+      "twitch": "https://www.twitch.tv/yohdazo",
+      "twitter": "https://x.com/yohdayo"
     },
     "tags": [
       "RIDDLE",
       "STREAMER"
     ],
-    "page": "https://riddle.info/members/hesiko/"
+    "page": "https://riddle.info/members/yoh/"
   },
   {
     "name": "SqLA",
@@ -87,29 +88,29 @@
     "page": "https://riddle.info/members/sqla/"
   },
   {
-    "name": "まろん",
+    "name": "MARUTAKE",
     "links": {
-      "youtube": "https://www.youtube.com/channel/UCVU9FJUDdsjIFbJijf9kxrg",
-      "twitter": "https://twitter.com/RIDMARON"
+      "youtube": "https://www.youtube.com/channel/UCXCiZJy_uJkrARg7nxkvyrQ",
+      "twitch": "https://www.twitch.tv/marutake_a",
+      "twitter": "https://x.com/A_Marutake"
     },
     "tags": [
       "RIDDLE",
       "STREAMER"
     ],
-    "page": "https://riddle.info/members/maron/"
+    "page": "https://riddle.info/members/marutake/"
   },
   {
-    "name": "ありけん",
+    "name": "NiceWigg",
     "links": {
-      "youtube": "https://www.youtube.com/channel/UC3NHhO0wBaZ5OVxaabcDKrw",
-      "twitch": "https://www.twitch.tv/arikendebu",
-      "twitter": "https://twitter.com/guraburuslot777"
+      "twitch": "https://www.twitch.tv/nicewigg",
+      "twitter": "https://x.com/NiceWigg"
     },
     "tags": [
       "RIDDLE",
       "STREAMER"
     ],
-    "page": "https://riddle.info/members/ariken/"
+    "page": "https://riddle.info/members/nicewigg/"
   },
   {
     "name": "YUKIO",
@@ -296,16 +297,17 @@
     "page": "https://riddle.info/members/crl/"
   },
   {
-    "name": "ぼぶ",
+    "name": "Hesiko",
     "links": {
-      "youtube": "https://www.youtube.com/channel/UC-fHhpWFkvl2sDEc09kEHtQ",
-      "twitter": "https://twitter.com/Bob_FN_"
+      "youtube": "https://www.youtube.com/channel/UCDJ_eFjX89HP-gAT9P1HbRA",
+      "twitch": "https://m.twitch.tv/456_hesiko/home",
+      "twitter": "https://twitter.com/hesikojonny"
     },
     "tags": [
       "RIDDLE",
-      "FORTNITE"
+      "STREAMER"
     ],
-    "page": "https://riddle.info/members/bob/"
+    "page": "https://riddle.info/members/hesiko/"
   },
   {
     "name": "maufin",
@@ -320,16 +322,16 @@
     "page": "https://riddle.info/members/maufin/"
   },
   {
-    "name": "ふぁいあー",
+    "name": "naohiro21",
     "links": {
-      "youtube": "https://www.youtube.com/channel/UCus454bdWrbVBix3EvUM92w",
-      "twitter": "https://twitter.com/firedesuo_O"
+      "youtube": "https://www.youtube.com/channel/UCYkJBszCeX9bBUpZQXI32lQ",
+      "twitter": "https://twitter.com/naohiro21YT"
     },
     "tags": [
       "RIDDLE",
       "STREAMER"
     ],
-    "page": "https://riddle.info/members/fire/"
+    "page": "https://riddle.info/members/naohiro21/"
   },
   {
     "name": "ワイルドホーク",
@@ -356,15 +358,51 @@
     "page": "https://riddle.info/members/jr/"
   },
   {
-    "name": "NiceWigg",
+    "name": "まろん",
     "links": {
-      "twitch": "https://www.twitch.tv/nicewigg",
-      "twitter": "https://x.com/NiceWigg"
+      "youtube": "https://www.youtube.com/channel/UCVU9FJUDdsjIFbJijf9kxrg",
+      "twitter": "https://twitter.com/RIDMARON"
     },
     "tags": [
       "RIDDLE",
       "STREAMER"
     ],
-    "page": "https://riddle.info/members/nicewigg/"
+    "page": "https://riddle.info/members/maron/"
+  },
+  {
+    "name": "ふぁいあー",
+    "links": {
+      "youtube": "https://www.youtube.com/channel/UCus454bdWrbVBix3EvUM92w",
+      "twitter": "https://twitter.com/firedesuo_O"
+    },
+    "tags": [
+      "RIDDLE",
+      "STREAMER"
+    ],
+    "page": "https://riddle.info/members/fire/"
+  },
+  {
+    "name": "ぼぶ",
+    "links": {
+      "youtube": "https://www.youtube.com/channel/UC-fHhpWFkvl2sDEc09kEHtQ",
+      "twitter": "https://twitter.com/Bob_FN_"
+    },
+    "tags": [
+      "RIDDLE",
+      "STREAMER"
+    ],
+    "page": "https://riddle.info/members/bob/"
+  },
+  {
+    "name": "りせ",
+    "links": {
+      "youtube": "https://www.youtube.com/@risegotgamer",
+      "twitter": "https://x.com/RiseGotGamer"
+    },
+    "tags": [
+      "RIDDLE",
+      "FORTNITE"
+    ],
+    "page": "https://riddle.info/members/rise/"
   }
 ]
