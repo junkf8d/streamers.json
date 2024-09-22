@@ -650,6 +650,19 @@
     "page": "https://zetadivision.com/players/nowy"
   },
   {
+    "name": "PELICAN",
+    "links": {
+      "twitter": "https://x.com/PELICAN_75",
+      "twitch": "https://www.twitch.tv/pelican_75"
+    },
+    "tags": [
+      "ZETA DIVISION",
+      "ATHLETE",
+      "OVERWATCH"
+    ],
+    "page": "https://zetadivision.com/players/pelican"
+  },
+  {
     "name": "Rascal",
     "links": {
       "twitter": "https://x.com/Rascal"
