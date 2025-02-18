@@ -17,17 +17,22 @@ def main
   html = retrieve_and_cache(url, extension: '.html', cache: !UPDATE_LIST)
   doc = Nokogiri::HTML.parse(html)
 
-  streamer_list = doc.xpath('//*[@role="listitem"]')
+  streamer_list = doc.css('[role="listitem"]') 
   puts " * [#{Time.now}] [#{GROUP_NAME}] Parsing Streamer list completed."
+  streamer_list.map{|e| puts e.text.strip; puts e}
 
   len = streamer_list.length
+  puts len
+  exit
   result = streamer_list.map.with_index do |streamer, i|
+    puts streamer
     url = streamer.at_css('a')['href']
     name = streamer.at_css('h1').text.strip
     puts format("   * [#{Time.now}] [#{GROUP_NAME}] %03d/%03d (%.2f%%) parsing: %s", i, len, i.to_f / len, name)
 
     urls = streamer.css('ul a').map { |a| a['href'] }
     { name: name, links: create_link_map(urls), tags: [GROUP_NAME], page: url }
+    puts "aaa"
   end
 
   file_path = File.join(RESULT_DIR, "#{GROUP_SLUG}.json")
@@ -38,4 +43,4 @@ def main
   puts " * [#{Time.now}] [#{GROUP_NAME}] Data retrieval completed!"
 end
 
-main
+# main
