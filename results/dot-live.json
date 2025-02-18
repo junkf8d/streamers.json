@@ -165,10 +165,142 @@
     "page": "https://appland.co.jp/talents/"
   },
   {
+    "name": "鍵宮シエル",
+    "links": {
+      "youtube": "https://www.youtube.com/@ciel.channel",
+      "twitter": "https://x.com/Kagimiya_ciel"
+    },
+    "tags": [
+      ".LIVE"
+    ],
+    "page": "https://appland.co.jp/talents/"
+  },
+  {
+    "name": "烏丸ぴょこ",
+    "links": {
+      "youtube": "https://www.youtube.com/@KarasumaPyoco",
+      "twitter": "https://x.com/KarasumaPyoco"
+    },
+    "tags": [
+      ".LIVE"
+    ],
+    "page": "https://appland.co.jp/talents/"
+  },
+  {
     "name": "遠吠きゃん",
     "links": {
       "youtube": "https://www.youtube.com/channel/UCPxSh63XjfSYJbkBLxM3fSw",
       "twitter": "https://twitter.com/Kyan_VPI"
+    },
+    "tags": [
+      ".LIVE"
+    ],
+    "page": "https://appland.co.jp/talents/"
+  },
+  {
+    "name": "ベルモット・ベルーナ",
+    "links": {
+      "youtube": "https://www.youtube.com/@VermouthBelluna",
+      "twitter": "https://x.com/VermouthBelluna"
+    },
+    "tags": [
+      ".LIVE"
+    ],
+    "page": "https://appland.co.jp/talents/"
+  },
+  {
+    "name": "まるげりちゃ",
+    "links": {
+      "youtube": "https://www.youtube.com/@MargherRicha",
+      "twitter": "https://x.com/MargherRicha"
+    },
+    "tags": [
+      ".LIVE"
+    ],
+    "page": "https://appland.co.jp/talents/"
+  },
+  {
+    "name": "綿貫ねぐせ",
+    "links": {
+      "youtube": "https://www.youtube.com/@WatanukiNeguse",
+      "twitter": "https://x.com/WatanukiNeguse"
+    },
+    "tags": [
+      ".LIVE"
+    ],
+    "page": "https://appland.co.jp/talents/"
+  },
+  {
+    "name": "銀棘ぐみ",
+    "links": {
+      "youtube": "https://www.youtube.com/@VPI_GintogeGumi",
+      "twitter": "https://x.com/GintogeGumi"
+    },
+    "tags": [
+      ".LIVE"
+    ],
+    "page": "https://appland.co.jp/talents/"
+  },
+  {
+    "name": "コマチガブ",
+    "links": {
+      "youtube": "https://www.youtube.com/@VPI_KomachiGabu",
+      "twitter": "https://x.com/Komachi_Gabu"
+    },
+    "tags": [
+      ".LIVE"
+    ],
+    "page": "https://appland.co.jp/talents/"
+  },
+  {
+    "name": "彩歌すいれん",
+    "links": {
+      "youtube": "https://www.youtube.com/@VPI_SaikaSuiren",
+      "twitter": "https://x.com/SaikaSuiren"
+    },
+    "tags": [
+      ".LIVE"
+    ],
+    "page": "https://appland.co.jp/talents/"
+  },
+  {
+    "name": "猫撫こぜに",
+    "links": {
+      "youtube": "https://www.youtube.com/@VPI_NekonadeKozeni",
+      "twitter": "https://x.com/NekonadeKozeni"
+    },
+    "tags": [
+      ".LIVE"
+    ],
+    "page": "https://appland.co.jp/talents/"
+  },
+  {
+    "name": "蜂蜜ぷりん",
+    "links": {
+      "youtube": "https://www.youtube.com/@VPI_HachimitsuPurin",
+      "twitter": "https://x.com/PurinHachimitsu"
+    },
+    "tags": [
+      ".LIVE"
+    ],
+    "page": "https://appland.co.jp/talents/"
+  },
+  {
+    "name": "花百合ちゅみ",
+    "links": {
+      "youtube": "https://www.youtube.com/@VPI_HanayuriChumi",
+      "twitter": "https://x.com/HanayuriChumi"
+    },
+    "tags": [
+      ".LIVE"
+    ],
+    "page": "https://appland.co.jp/talents/"
+  },
+  {
+    "name": "やまだなのだ",
+    "links": {
+      "youtube": "https://www.youtube.com/@VPI_YamadaNanoda",
+      "twitter": "https://x.com/Yamada__Nanoda"
     },
     "tags": [
       ".LIVE"

@@ -80,7 +80,8 @@
     "name": "白上フブキ",
     "allLinks": {
       "YouTube": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg?sub_confirmation=1",
-      "X": "https://twitter.com/shirakamifubuki"
+      "X": "https://twitter.com/shirakamifubuki",
+      "白上フブキ1stソロライブFBKINGDOM “ANTHEM”": "https://fbkingdom.hololivepro.com/live/"
     },
     "links": {
       "youtube": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
@@ -221,8 +222,7 @@
       "オリジナル楽曲リスト": "https://youtube.com/playlist?list=PLMF8NocLqJttJCIiUCkNXx6jW4dAYfz5G&si=g2i8rWGyqBy61a9x",
       "MMD": "https://3d.nicovideo.jp/works/td74928",
       "MMD(2)": "https://3d.nicovideo.jp/works/td74930",
-      "ARアプリ『hololy』で会う": "https://hololive.hololivepro.com/special/1937/",
-      "さくらみこ1st Live “flower fantasista!”": "https://flowerfantasista.hololivepro.com/"
+      "ARアプリ『hololy』で会う": "https://hololive.hololivepro.com/special/1937/"
     },
     "links": {
       "youtube": "https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA",
@@ -276,8 +276,9 @@
     "allLinks": {
       "YouTube": "https://www.youtube.com/channel/UC5CwaMl1eIgY8h02uZw7u8A?sub_confirmation=1",
       "X": "https://twitter.com/suisei_hosimati",
-      "歌の再生リスト": "https://www.youtube.com/watch?v=hAI-qjw6J-A&list=PLAo9RlHR2tDZwddeEyp9nTfpaFB58DrXd&index=1",
-      "Hoshimachi Suisei Live Tour 2024 “Spectra of Nova”": "https://spectraofnova.hololivepro.com/"
+      "Hoshimachi Suisei Live Tour 2024“Spectra of Nova”": "https://spectraofnova.hololivepro.com/",
+      "Hoshimachi Suisei 日本武道館 Live“SuperNova”": "https://supernova.hololivepro.com",
+      "歌の再生リスト": "https://www.youtube.com/watch?v=hAI-qjw6J-A&list=PLAo9RlHR2tDZwddeEyp9nTfpaFB58DrXd&index=1"
     },
     "links": {
       "youtube": "https://www.youtube.com/channel/UC5CwaMl1eIgY8h02uZw7u8A",
@@ -560,7 +561,7 @@
     "page": "https://hololive.hololivepro.com/talents/hakui-koyori/"
   },
   {
-    "name": "沙花叉クロヱ",
+    "name": "【配信活動終了】沙花叉クロヱ",
     "allLinks": {
       "YouTube": "https://www.youtube.com/channel/UCIBY1ollUsauvVi4hW4cumw",
       "X": "https://twitter.com/sakamatachloe",
@@ -755,7 +756,8 @@
     "name": "森カリオペ",
     "allLinks": {
       "YouTube": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg?sub_confirmation=1",
-      "X": "https://twitter.com/moricalliope"
+      "X": "https://twitter.com/moricalliope",
+      "Mori Calliope 2nd Concert“Grimoire”": "https://grimoire.hololivepro.com/?lang=jp"
     },
     "links": {
       "youtube": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
@@ -818,7 +820,7 @@
     "page": "https://hololive.hololivepro.com/talents/gawr-gura/"
   },
   {
-    "name": "ワトソン・アメリア",
+    "name": "【配信活動終了】ワトソン・アメリア",
     "allLinks": {
       "YouTube": "https://www.youtube.com/channel/UCyl1z3jo3XHR1riLFKG5UAg?sub_confirmation=1",
       "X": "https://twitter.com/watsonameliaEN",
@@ -849,22 +851,6 @@
       "Promise"
     ],
     "page": "https://hololive.hololivepro.com/talents/irys/"
-  },
-  {
-    "name": "セレス・ファウナ",
-    "allLinks": {
-      "YouTube": "https://www.youtube.com/channel/UCO_aKKYxn4tvrqPjcTzZ6EQ",
-      "X": "https://twitter.com/ceresfauna"
-    },
-    "links": {
-      "youtube": "https://www.youtube.com/channel/UCO_aKKYxn4tvrqPjcTzZ6EQ",
-      "twitter": "https://twitter.com/ceresfauna"
-    },
-    "tags": [
-      "ホロライブ",
-      "Promise"
-    ],
-    "page": "https://hololive.hololivepro.com/talents/ceres-fauna/"
   },
   {
     "name": "オーロ・クロニー",
@@ -1141,6 +1127,86 @@
     "page": "https://hololive.hololivepro.com/talents/todoroki-hajime/"
   },
   {
+    "name": "響咲リオナ",
+    "allLinks": {
+      "YouTube": "https://www.youtube.com/channel/UC9LSiN9hXI55svYEBrrK-tw",
+      "X": "https://x.com/isakiriona"
+    },
+    "links": {
+      "youtube": "https://www.youtube.com/channel/UC9LSiN9hXI55svYEBrrK-tw",
+      "twitter": "https://x.com/isakiriona"
+    },
+    "tags": [
+      "ホロライブ",
+      "FLOW GLOW"
+    ],
+    "page": "https://hololive.hololivepro.com/talents/isaki-riona/"
+  },
+  {
+    "name": "虎金妃笑虎",
+    "allLinks": {
+      "YouTube": "https://www.youtube.com/channel/UCuI_opAVX6qbxZY-a-AxFuQ",
+      "X": "https://x.com/koganeiniko"
+    },
+    "links": {
+      "youtube": "https://www.youtube.com/channel/UCuI_opAVX6qbxZY-a-AxFuQ",
+      "twitter": "https://x.com/koganeiniko"
+    },
+    "tags": [
+      "ホロライブ",
+      "FLOW GLOW"
+    ],
+    "page": "https://hololive.hololivepro.com/talents/koganei-niko/"
+  },
+  {
+    "name": "水宮枢",
+    "allLinks": {
+      "YouTube": "https://www.youtube.com/channel/UCjk2nKmHzgH5Xy-C5qYRd5A",
+      "X": "https://x.com/mizumiya_su"
+    },
+    "links": {
+      "youtube": "https://www.youtube.com/channel/UCjk2nKmHzgH5Xy-C5qYRd5A",
+      "twitter": "https://x.com/mizumiya_su"
+    },
+    "tags": [
+      "ホロライブ",
+      "FLOW GLOW"
+    ],
+    "page": "https://hololive.hololivepro.com/talents/mizumiya-su/"
+  },
+  {
+    "name": "輪堂千速",
+    "allLinks": {
+      "YouTube": "https://www.youtube.com/channel/UCKMWFR6lAstLa7Vbf5dH7ig",
+      "X": "https://x.com/rindochihaya"
+    },
+    "links": {
+      "youtube": "https://www.youtube.com/channel/UCKMWFR6lAstLa7Vbf5dH7ig",
+      "twitter": "https://x.com/rindochihaya"
+    },
+    "tags": [
+      "ホロライブ",
+      "FLOW GLOW"
+    ],
+    "page": "https://hololive.hololivepro.com/talents/rindo-chihaya/"
+  },
+  {
+    "name": "綺々羅々ヴィヴィ",
+    "allLinks": {
+      "YouTube": "https://www.youtube.com/channel/UCGzTVXqMQHa4AgJVJIVvtDQ",
+      "X": "https://x.com/kikiraravivi"
+    },
+    "links": {
+      "youtube": "https://www.youtube.com/channel/UCGzTVXqMQHa4AgJVJIVvtDQ",
+      "twitter": "https://x.com/kikiraravivi"
+    },
+    "tags": [
+      "ホロライブ",
+      "FLOW GLOW"
+    ],
+    "page": "https://hololive.hololivepro.com/talents/kikirara-vivi/"
+  },
+  {
     "name": "【卒業生】湊あくあ",
     "allLinks": {
       "YouTube": "https://www.youtube.com/channel/UC1opHUrw8rvnsadT-iGp7Cg?sub_confirmation=1",
@@ -1189,6 +1255,22 @@
       "Council（議会）"
     ],
     "page": "https://hololive.hololivepro.com/talents/tsukumo-sana/"
+  },
+  {
+    "name": "【卒業生】セレス・ファウナ",
+    "allLinks": {
+      "YouTube": "https://www.youtube.com/channel/UCO_aKKYxn4tvrqPjcTzZ6EQ",
+      "X": "https://twitter.com/ceresfauna"
+    },
+    "links": {
+      "youtube": "https://www.youtube.com/channel/UCO_aKKYxn4tvrqPjcTzZ6EQ",
+      "twitter": "https://twitter.com/ceresfauna"
+    },
+    "tags": [
+      "ホロライブ",
+      "Promise"
+    ],
+    "page": "https://hololive.hololivepro.com/talents/ceres-fauna/"
   },
   {
     "name": "春先のどか",

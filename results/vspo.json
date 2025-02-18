@@ -209,7 +209,7 @@
     "page": "https://vspo.jp/member/"
   },
   {
-    "name": "紡木こかげ",
+    "name": "紡木 こかげ",
     "links": {
       "twitter": "https://twitter.com/kokage_tsumugi",
       "youtube": "https://www.youtube.com/@Kokage_Tsumugi"
@@ -224,6 +224,83 @@
     "links": {
       "twitter": "https://x.com/yuuhi_sendo",
       "youtube": "https://www.youtube.com/@SendoYuuhi"
+    },
+    "tags": [
+      "ぶいすぽ"
+    ],
+    "page": "https://vspo.jp/member/"
+  },
+  {
+    "name": "蝶屋 はなび",
+    "links": {
+      "twitter": "https://x.com/Hanabi_Choya",
+      "youtube": "https://www.youtube.com/@HanabiChoya"
+    },
+    "tags": [
+      "ぶいすぽ"
+    ],
+    "page": "https://vspo.jp/member/"
+  },
+  {
+    "name": "甘結 もか",
+    "links": {
+      "twitter": "https://x.com/Amayui_Moka",
+      "youtube": "https://www.youtube.com/@Moka_Amayui"
+    },
+    "tags": [
+      "ぶいすぽ"
+    ],
+    "page": "https://vspo.jp/member/"
+  },
+  {
+    "name": "青月レミア",
+    "links": {
+      "twitter": "https://x.com/RemiaAotsuki",
+      "youtube": "https://www.youtube.com/@RemiaAotsuki"
+    },
+    "tags": [
+      "ぶいすぽ"
+    ],
+    "page": "https://vspo.jp/member/"
+  },
+  {
+    "name": "黒刃アリヤ",
+    "links": {
+      "twitter": "https://x.com/aryakuroha",
+      "youtube": "https://www.youtube.com/@aryakuroha"
+    },
+    "tags": [
+      "ぶいすぽ"
+    ],
+    "page": "https://vspo.jp/member/"
+  },
+  {
+    "name": "地崎ジラ",
+    "links": {
+      "twitter": "https://x.com/jirajisaki",
+      "youtube": "https://www.youtube.com/@jirajisaki"
+    },
+    "tags": [
+      "ぶいすぽ"
+    ],
+    "page": "https://vspo.jp/member/"
+  },
+  {
+    "name": "美暮ナリン",
+    "links": {
+      "twitter": "https://x.com/narinmikure",
+      "youtube": "https://www.youtube.com/@narinmikure"
+    },
+    "tags": [
+      "ぶいすぽ"
+    ],
+    "page": "https://vspo.jp/member/"
+  },
+  {
+    "name": "ソラリリコ",
+    "links": {
+      "twitter": "https://x.com/rikosolari",
+      "youtube": "https://www.youtube.com/@rikosolari"
     },
     "tags": [
       "ぶいすぽ"

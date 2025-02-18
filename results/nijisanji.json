@@ -427,7 +427,6 @@
     "allLinks": {
       "twitter": "https://twitter.com/saku_sasaki",
       "youtube": "https://www.youtube.com/channel/UCoztvTULBYd3WmStqYeoHcA",
-      "fanclub": "https://www.nijisanji.jp/fanclubs/saku-sasaki",
       "officialShop": "https://shop.nijisanji.jp/s/niji/group/list/033/item"
     },
     "links": {
@@ -1177,6 +1176,7 @@
     "allLinks": {
       "twitter": "https://twitter.com/sukosuko_sukoya",
       "youtube": "https://www.youtube.com/channel/UC8C1LLhBhf_E2IBPLSDJXlQ",
+      "fanclub": "https://www.nijisanji.jp/fanclubs/sukoya-kana",
       "officialShop": "https://shop.nijisanji.jp/s/niji/group/list/080/item"
     },
     "links": {
@@ -1309,6 +1309,7 @@
     "allLinks": {
       "twitter": "https://twitter.com/Luis_Cammy",
       "youtube": "https://www.youtube.com/channel/UCb6ObE-XGCctO3WrjRZC-cw",
+      "fanclub": "https://www.nijisanji.jp/fanclubs/luis-cammy",
       "officialShop": "https://shop.nijisanji.jp/s/niji/group/list/086/item"
     },
     "links": {
@@ -2204,20 +2205,6 @@
       "にじさんじ"
     ],
     "page": "https://www.nijisanji.jp/talents/l/ha-yun"
-  },
-  {
-    "name": "友夏",
-    "allLinks": {
-      "bilibili": "https://space.bilibili.com/690608712/"
-    },
-    "links": {
-      "bilibili": "https://space.bilibili.com/690608712/"
-    },
-    "tags": [
-      "にじさんじ",
-      "VirtuaReal"
-    ],
-    "page": "https://www.nijisanji.jp/talents/l/uka"
   },
   {
     "name": "克克",
@@ -3290,22 +3277,6 @@
     "page": "https://www.nijisanji.jp/talents/l/richi"
   },
   {
-    "name": "ヴィクトリア ブライトシールド",
-    "allLinks": {
-      "twitter": "https://x.com/VBrightshield",
-      "youtube": "https://www.youtube.com/@VictoriaBrightshield"
-    },
-    "links": {
-      "twitter": "https://x.com/VBrightshield",
-      "youtube": "https://www.youtube.com/@VictoriaBrightshield"
-    },
-    "tags": [
-      "にじさんじ",
-      "NIJISANJI EN"
-    ],
-    "page": "https://www.nijisanji.jp/talents/l/victoria-brightshield"
-  },
-  {
     "name": "クロード クローマーク",
     "allLinks": {
       "twitter": "https://x.com/ClaudeClawmark",
@@ -3320,22 +3291,6 @@
       "NIJISANJI EN"
     ],
     "page": "https://www.nijisanji.jp/talents/l/claude-clawmark"
-  },
-  {
-    "name": "中里 苦無",
-    "allLinks": {
-      "twitter": "https://x.com/KunaiNakasato",
-      "youtube": "https://www.youtube.com/@KunaiNakasato"
-    },
-    "links": {
-      "twitter": "https://x.com/KunaiNakasato",
-      "youtube": "https://www.youtube.com/@KunaiNakasato"
-    },
-    "tags": [
-      "にじさんじ",
-      "NIJISANJI EN"
-    ],
-    "page": "https://www.nijisanji.jp/talents/l/kunai-nakasato"
   },
   {
     "name": "栞葉るり",

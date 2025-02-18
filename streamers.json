@@ -334,6 +334,17 @@
     "page": "https://crazyraccoon.jp/member/mainy/"
   },
   {
+    "name": "Milkreo",
+    "links": {
+      "twitter": "https://x.com/milkreo_0110"
+    },
+    "tags": [
+      "Crazy Raccoon",
+      "BRAWL STARS"
+    ],
+    "page": "https://crazyraccoon.jp/member/milkreo/"
+  },
+  {
     "name": "Moya",
     "links": {
       "twitter": "https://twitter.com/moya_bs",
@@ -344,18 +355,6 @@
       "BRAWL STARS"
     ],
     "page": "https://crazyraccoon.jp/member/moya/"
-  },
-  {
-    "name": "Sitetampo Jr.",
-    "links": {
-      "twitter": "https://twitter.com/sitetampopopopo",
-      "youtube": "https://www.youtube.com/channel/UCA6ZY6hkcMdOWpkqxvYVV4g"
-    },
-    "tags": [
-      "Crazy Raccoon",
-      "BRAWL STARS"
-    ],
-    "page": "https://crazyraccoon.jp/member/sitetampo-jr/"
   },
   {
     "name": "Tensai",
@@ -602,31 +601,6 @@
     "page": "https://crazyraccoon.jp/member/ssees/"
   },
   {
-    "name": "Anthem",
-    "links": {
-      "twitter": "https://twitter.com/AnthemFps",
-      "youtube": "https://www.youtube.com/channel/UCUqc3k_06TyiYH9yvq99Jxg"
-    },
-    "tags": [
-      "Crazy Raccoon",
-      "PLAYER"
-    ],
-    "page": "https://crazyraccoon.jp/member/anthem/"
-  },
-  {
-    "name": "Medusa",
-    "links": {
-      "twitter": "https://twitter.com/FortheMedusa",
-      "twitch": "https://www.twitch.tv/medusaval",
-      "youtube": "https://www.youtube.com/@Medusa0125"
-    },
-    "tags": [
-      "Crazy Raccoon",
-      "PLAYER"
-    ],
-    "page": "https://crazyraccoon.jp/member/medusa/"
-  },
-  {
     "name": "neth",
     "links": {
       "twitter": "https://twitter.com/neth_vz",
@@ -637,18 +611,6 @@
       "PLAYER"
     ],
     "page": "https://crazyraccoon.jp/member/neth/"
-  },
-  {
-    "name": "popogachi",
-    "links": {
-      "twitter": "https://twitter.com/popoG_C",
-      "youtube": "https://www.youtube.com/c/popogachi"
-    },
-    "tags": [
-      "Crazy Raccoon",
-      "PLAYER"
-    ],
-    "page": "https://crazyraccoon.jp/member/popogachi/"
   },
   {
     "name": "Meiy",
@@ -686,27 +648,16 @@
     "page": "https://crazyraccoon.jp/member/northernlights/"
   },
   {
-    "name": "Twinkl",
+    "name": "Kaito",
     "links": {
-      "twitter": "https://twitter.com/BP_Twinkl"
-    },
-    "tags": [
-      "Crazy Raccoon",
-      "PLAYER"
-    ],
-    "page": "https://crazyraccoon.jp/member/twinkl/"
-  },
-  {
-    "name": "ProtoBanham",
-    "links": {
-      "twitter": "https://twitter.com/ProtoBanhamSSBU",
-      "youtube": "https://www.youtube.com/channel/UCf4mg3z4dpEcrN5neqVZyvw"
+      "twitter": "https://x.com/anjerokaito",
+      "youtube": "https://www.youtube.com/@kaitoschool"
     },
     "tags": [
       "Crazy Raccoon",
       "SUPER SMASH BROS"
     ],
-    "page": "https://crazyraccoon.jp/member/protobanham/"
+    "page": "https://crazyraccoon.jp/member/kaito/"
   },
   {
     "name": "Bonchan",
@@ -756,6 +707,18 @@
       "STREET FIGHTER"
     ],
     "page": "https://crazyraccoon.jp/member/dogura/"
+  },
+  {
+    "name": "Akami Karubi",
+    "links": {
+      "twitter": "https://x.com/AkamiKarubi",
+      "twitch": "https://www.twitch.tv/akamikarubi"
+    },
+    "tags": [
+      "Crazy Raccoon",
+      "STREAMER"
+    ],
+    "page": "https://crazyraccoon.jp/member/akami-karubi/"
   },
   {
     "name": "GocChaNMikey",
@@ -1225,10 +1188,142 @@
     "page": "https://appland.co.jp/talents/"
   },
   {
+    "name": "鍵宮シエル",
+    "links": {
+      "youtube": "https://www.youtube.com/@ciel.channel",
+      "twitter": "https://x.com/Kagimiya_ciel"
+    },
+    "tags": [
+      ".LIVE"
+    ],
+    "page": "https://appland.co.jp/talents/"
+  },
+  {
+    "name": "烏丸ぴょこ",
+    "links": {
+      "youtube": "https://www.youtube.com/@KarasumaPyoco",
+      "twitter": "https://x.com/KarasumaPyoco"
+    },
+    "tags": [
+      ".LIVE"
+    ],
+    "page": "https://appland.co.jp/talents/"
+  },
+  {
     "name": "遠吠きゃん",
     "links": {
       "youtube": "https://www.youtube.com/channel/UCPxSh63XjfSYJbkBLxM3fSw",
       "twitter": "https://twitter.com/Kyan_VPI"
+    },
+    "tags": [
+      ".LIVE"
+    ],
+    "page": "https://appland.co.jp/talents/"
+  },
+  {
+    "name": "ベルモット・ベルーナ",
+    "links": {
+      "youtube": "https://www.youtube.com/@VermouthBelluna",
+      "twitter": "https://x.com/VermouthBelluna"
+    },
+    "tags": [
+      ".LIVE"
+    ],
+    "page": "https://appland.co.jp/talents/"
+  },
+  {
+    "name": "まるげりちゃ",
+    "links": {
+      "youtube": "https://www.youtube.com/@MargherRicha",
+      "twitter": "https://x.com/MargherRicha"
+    },
+    "tags": [
+      ".LIVE"
+    ],
+    "page": "https://appland.co.jp/talents/"
+  },
+  {
+    "name": "綿貫ねぐせ",
+    "links": {
+      "youtube": "https://www.youtube.com/@WatanukiNeguse",
+      "twitter": "https://x.com/WatanukiNeguse"
+    },
+    "tags": [
+      ".LIVE"
+    ],
+    "page": "https://appland.co.jp/talents/"
+  },
+  {
+    "name": "銀棘ぐみ",
+    "links": {
+      "youtube": "https://www.youtube.com/@VPI_GintogeGumi",
+      "twitter": "https://x.com/GintogeGumi"
+    },
+    "tags": [
+      ".LIVE"
+    ],
+    "page": "https://appland.co.jp/talents/"
+  },
+  {
+    "name": "コマチガブ",
+    "links": {
+      "youtube": "https://www.youtube.com/@VPI_KomachiGabu",
+      "twitter": "https://x.com/Komachi_Gabu"
+    },
+    "tags": [
+      ".LIVE"
+    ],
+    "page": "https://appland.co.jp/talents/"
+  },
+  {
+    "name": "彩歌すいれん",
+    "links": {
+      "youtube": "https://www.youtube.com/@VPI_SaikaSuiren",
+      "twitter": "https://x.com/SaikaSuiren"
+    },
+    "tags": [
+      ".LIVE"
+    ],
+    "page": "https://appland.co.jp/talents/"
+  },
+  {
+    "name": "猫撫こぜに",
+    "links": {
+      "youtube": "https://www.youtube.com/@VPI_NekonadeKozeni",
+      "twitter": "https://x.com/NekonadeKozeni"
+    },
+    "tags": [
+      ".LIVE"
+    ],
+    "page": "https://appland.co.jp/talents/"
+  },
+  {
+    "name": "蜂蜜ぷりん",
+    "links": {
+      "youtube": "https://www.youtube.com/@VPI_HachimitsuPurin",
+      "twitter": "https://x.com/PurinHachimitsu"
+    },
+    "tags": [
+      ".LIVE"
+    ],
+    "page": "https://appland.co.jp/talents/"
+  },
+  {
+    "name": "花百合ちゅみ",
+    "links": {
+      "youtube": "https://www.youtube.com/@VPI_HanayuriChumi",
+      "twitter": "https://x.com/HanayuriChumi"
+    },
+    "tags": [
+      ".LIVE"
+    ],
+    "page": "https://appland.co.jp/talents/"
+  },
+  {
+    "name": "やまだなのだ",
+    "links": {
+      "youtube": "https://www.youtube.com/@VPI_YamadaNanoda",
+      "twitter": "https://x.com/Yamada__Nanoda"
     },
     "tags": [
       ".LIVE"
@@ -1624,7 +1719,7 @@
     "page": "https://hololive.hololivepro.com/talents/hakui-koyori/"
   },
   {
-    "name": "沙花叉クロヱ",
+    "name": "【配信活動終了】沙花叉クロヱ",
     "links": {
       "youtube": "https://www.youtube.com/channel/UCIBY1ollUsauvVi4hW4cumw",
       "twitter": "https://twitter.com/sakamatachloe",
@@ -1807,7 +1902,7 @@
     "page": "https://hololive.hololivepro.com/talents/gawr-gura/"
   },
   {
-    "name": "ワトソン・アメリア",
+    "name": "【配信活動終了】ワトソン・アメリア",
     "links": {
       "youtube": "https://www.youtube.com/channel/UCyl1z3jo3XHR1riLFKG5UAg",
       "twitter": "https://twitter.com/watsonameliaEN"
@@ -1829,18 +1924,6 @@
       "Promise"
     ],
     "page": "https://hololive.hololivepro.com/talents/irys/"
-  },
-  {
-    "name": "セレス・ファウナ",
-    "links": {
-      "youtube": "https://www.youtube.com/channel/UCO_aKKYxn4tvrqPjcTzZ6EQ",
-      "twitter": "https://twitter.com/ceresfauna"
-    },
-    "tags": [
-      "ホロライブ",
-      "Promise"
-    ],
-    "page": "https://hololive.hololivepro.com/talents/ceres-fauna/"
   },
   {
     "name": "オーロ・クロニー",
@@ -2048,6 +2131,66 @@
     "page": "https://hololive.hololivepro.com/talents/todoroki-hajime/"
   },
   {
+    "name": "響咲リオナ",
+    "links": {
+      "youtube": "https://www.youtube.com/channel/UC9LSiN9hXI55svYEBrrK-tw",
+      "twitter": "https://x.com/isakiriona"
+    },
+    "tags": [
+      "ホロライブ",
+      "FLOW GLOW"
+    ],
+    "page": "https://hololive.hololivepro.com/talents/isaki-riona/"
+  },
+  {
+    "name": "虎金妃笑虎",
+    "links": {
+      "youtube": "https://www.youtube.com/channel/UCuI_opAVX6qbxZY-a-AxFuQ",
+      "twitter": "https://x.com/koganeiniko"
+    },
+    "tags": [
+      "ホロライブ",
+      "FLOW GLOW"
+    ],
+    "page": "https://hololive.hololivepro.com/talents/koganei-niko/"
+  },
+  {
+    "name": "水宮枢",
+    "links": {
+      "youtube": "https://www.youtube.com/channel/UCjk2nKmHzgH5Xy-C5qYRd5A",
+      "twitter": "https://x.com/mizumiya_su"
+    },
+    "tags": [
+      "ホロライブ",
+      "FLOW GLOW"
+    ],
+    "page": "https://hololive.hololivepro.com/talents/mizumiya-su/"
+  },
+  {
+    "name": "輪堂千速",
+    "links": {
+      "youtube": "https://www.youtube.com/channel/UCKMWFR6lAstLa7Vbf5dH7ig",
+      "twitter": "https://x.com/rindochihaya"
+    },
+    "tags": [
+      "ホロライブ",
+      "FLOW GLOW"
+    ],
+    "page": "https://hololive.hololivepro.com/talents/rindo-chihaya/"
+  },
+  {
+    "name": "綺々羅々ヴィヴィ",
+    "links": {
+      "youtube": "https://www.youtube.com/channel/UCGzTVXqMQHa4AgJVJIVvtDQ",
+      "twitter": "https://x.com/kikiraravivi"
+    },
+    "tags": [
+      "ホロライブ",
+      "FLOW GLOW"
+    ],
+    "page": "https://hololive.hololivepro.com/talents/kikirara-vivi/"
+  },
+  {
     "name": "【卒業生】湊あくあ",
     "links": {
       "youtube": "https://www.youtube.com/channel/UC1opHUrw8rvnsadT-iGp7Cg",
@@ -2082,6 +2225,18 @@
       "Council（議会）"
     ],
     "page": "https://hololive.hololivepro.com/talents/tsukumo-sana/"
+  },
+  {
+    "name": "【卒業生】セレス・ファウナ",
+    "links": {
+      "youtube": "https://www.youtube.com/channel/UCO_aKKYxn4tvrqPjcTzZ6EQ",
+      "twitter": "https://twitter.com/ceresfauna"
+    },
+    "tags": [
+      "ホロライブ",
+      "Promise"
+    ],
+    "page": "https://hololive.hololivepro.com/talents/ceres-fauna/"
   },
   {
     "name": "春先のどか",
@@ -3897,17 +4052,6 @@
     "page": "https://www.nijisanji.jp/talents/l/ha-yun"
   },
   {
-    "name": "友夏",
-    "links": {
-      "bilibili": "https://space.bilibili.com/690608712/"
-    },
-    "tags": [
-      "にじさんじ",
-      "VirtuaReal"
-    ],
-    "page": "https://www.nijisanji.jp/talents/l/uka"
-  },
-  {
     "name": "克克",
     "links": {
       "bilibili": "https://space.bilibili.com/690608711/"
@@ -4339,18 +4483,6 @@
     "page": "https://www.nijisanji.jp/talents/l/kotoka-torahime"
   },
   {
-    "name": "ヘックス へイワイヤー",
-    "links": {
-      "twitter": "https://twitter.com/HexHaywire",
-      "youtube": "https://www.youtube.com/@HexHaywire"
-    },
-    "tags": [
-      "にじさんじ",
-      "NIJISANJI EN"
-    ],
-    "page": "https://www.nijisanji.jp/talents/l/hex-haywire"
-  },
-  {
     "name": "五十嵐梨花",
     "links": {
       "twitter": "https://twitter.com/1garashi_Rika",
@@ -4702,18 +4834,6 @@
     "page": "https://www.nijisanji.jp/talents/l/richi"
   },
   {
-    "name": "ヴィクトリア ブライトシールド",
-    "links": {
-      "twitter": "https://x.com/VBrightshield",
-      "youtube": "https://www.youtube.com/@VictoriaBrightshield"
-    },
-    "tags": [
-      "にじさんじ",
-      "NIJISANJI EN"
-    ],
-    "page": "https://www.nijisanji.jp/talents/l/victoria-brightshield"
-  },
-  {
     "name": "クロード クローマーク",
     "links": {
       "twitter": "https://x.com/ClaudeClawmark",
@@ -4724,18 +4844,6 @@
       "NIJISANJI EN"
     ],
     "page": "https://www.nijisanji.jp/talents/l/claude-clawmark"
-  },
-  {
-    "name": "中里 苦無",
-    "links": {
-      "twitter": "https://x.com/KunaiNakasato",
-      "youtube": "https://www.youtube.com/@KunaiNakasato"
-    },
-    "tags": [
-      "にじさんじ",
-      "NIJISANJI EN"
-    ],
-    "page": "https://www.nijisanji.jp/talents/l/kunai-nakasato"
   },
   {
     "name": "栞葉るり",
@@ -5327,7 +5435,7 @@
     },
     "tags": [
       "RIDDLE",
-      "APEX LEGENDS"
+      "STREAMER"
     ],
     "page": "https://riddle.info/members/yukio/"
   },
@@ -5395,22 +5503,9 @@
     "page": "https://riddle.info/members/joxjo/"
   },
   {
-    "name": "Aace",
-    "links": {
-      "twitch": "https://www.twitch.tv/aaceful",
-      "twitter": "https://x.com/Aaceful"
-    },
-    "tags": [
-      "RIDDLE",
-      "VALORANT"
-    ],
-    "page": "https://riddle.info/members/aace/"
-  },
-  {
     "name": "Yatsuka",
     "links": {
-      "twitch": "https://www.twitch.tv/yatsuka_07",
-      "twitter": "https://twitter.com/yatsuka_07"
+      "twitch": "https://www.twitch.tv/y_tk_07"
     },
     "tags": [
       "RIDDLE",
@@ -5432,6 +5527,18 @@
     "page": "https://riddle.info/members/seoldam/"
   },
   {
+    "name": "Minty",
+    "links": {
+      "twitch": "https://www.twitch.tv/mintyjp",
+      "twitter": "https://x.com/MintyVL"
+    },
+    "tags": [
+      "RIDDLE",
+      "VALORANT"
+    ],
+    "page": "https://riddle.info/members/minty/"
+  },
+  {
     "name": "Vorz",
     "links": {
       "youtube": "https://www.youtube.com/@Vorzz",
@@ -5443,6 +5550,17 @@
       "VALORANT"
     ],
     "page": "https://riddle.info/members/vorz/"
+  },
+  {
+    "name": "Virullent",
+    "links": {
+      "twitter": "https://twitter.com/Virullent_"
+    },
+    "tags": [
+      "RIDDLE",
+      "VALORANT"
+    ],
+    "page": "https://riddle.info/members/virullent/"
   },
   {
     "name": "Sitimentyo",
@@ -5457,17 +5575,6 @@
     "page": "https://riddle.info/members/sitimentyo/"
   },
   {
-    "name": "Virullent",
-    "links": {
-      "twitter": "https://twitter.com/Virullent_"
-    },
-    "tags": [
-      "RIDDLE",
-      "VALORANT"
-    ],
-    "page": "https://riddle.info/members/virullent/"
-  },
-  {
     "name": "GENJ1_Gaming",
     "links": {
       "youtube": "https://www.youtube.com/@genj1gaming-353/videos",
@@ -5479,17 +5586,6 @@
       "PARAVOX"
     ],
     "page": "https://riddle.info/members/genj1_gaming/"
-  },
-  {
-    "name": "Yureu",
-    "links": {
-      "twitter": "https://x.com/yureuu"
-    },
-    "tags": [
-      "RIDDLE",
-      "PARAVOX"
-    ],
-    "page": "https://riddle.info/members/yureu/"
   },
   {
     "name": "Crl",
@@ -5612,15 +5708,82 @@
     "page": "https://riddle.info/members/rise/"
   },
   {
-    "name": "カシ・オトハ",
+    "name": "ぱるぶす",
     "links": {
-      "twitter": "https://twitter.com/otoha_ks",
-      "youtube": "https://www.youtube.com/@kashiotoha8669"
+      "twitter": "https://x.com/pulvess"
+    },
+    "tags": [
+      "RIDDLE",
+      "APEX LEGENDS"
+    ],
+    "page": "https://riddle.info/members/%e3%81%b1%e3%82%8b%e3%81%b6%e3%81%99/"
+  },
+  {
+    "name": "あでりい",
+    "links": {
+      "twitter": "https://x.com/adelie54"
+    },
+    "tags": [
+      "RIDDLE",
+      "STREET FIGHTER"
+    ],
+    "page": "https://riddle.info/members/%e3%81%82%e3%81%a7%e3%82%8a%e3%81%84/"
+  },
+  {
+    "name": "Smaak",
+    "links": {
+      "twitter": "https://x.com/smaak_gg"
+    },
+    "tags": [
+      "RIDDLE",
+      "PARAVOX"
+    ],
+    "page": "https://riddle.info/members/smaak/"
+  },
+  {
+    "name": "Ruto",
+    "links": {
+      "twitter": "https://x.com/rutonokimoti"
+    },
+    "tags": [
+      "RIDDLE",
+      "PARAVOX"
+    ],
+    "page": "https://riddle.info/members/ruto/"
+  },
+  {
+    "name": "亞生うぱる",
+    "links": {
+      "twitter": "https://twitter.com/UPARU_JP",
+      "youtube": "https://www.youtube.com/@AnewUparu"
     },
     "tags": [
       "VEE"
     ],
-    "page": "https://vee-official.jp/talent/kashi-otoha/"
+    "page": "https://vee-official.jp/talent/anew-uparu/"
+  },
+  {
+    "name": "天籠りのん",
+    "links": {
+      "twitter": "https://twitter.com/LinonAmakomo",
+      "youtube": "https://www.youtube.com/@LinonAmakomo"
+    },
+    "tags": [
+      "VEE"
+    ],
+    "page": "https://vee-official.jp/talent/amakomo-linon/"
+  },
+  {
+    "name": "雨庭やえ",
+    "links": {
+      "twitter": "https://twitter.com/AMENIWA_YAE",
+      "youtube": "https://youtube.com/@AMENIWA_YAE",
+      "twitch": "https://www.twitch.tv/ameniwa_yae"
+    },
+    "tags": [
+      "VEE"
+    ],
+    "page": "https://vee-official.jp/talent/ameniwa-yae/"
   },
   {
     "name": "アルバ・セラ",
@@ -5632,6 +5795,63 @@
       "VEE"
     ],
     "page": "https://vee-official.jp/talent/alba-sera/"
+  },
+  {
+    "name": "安心院みさ",
+    "links": {
+      "twitter": "https://twitter.com/ANSHININMISA",
+      "youtube": "https://www.youtube.com/@AnshininMisa"
+    },
+    "tags": [
+      "VEE"
+    ],
+    "page": "https://vee-official.jp/talent/anshinin-misa/"
+  },
+  {
+    "name": "浮々ゆにこ",
+    "links": {
+      "twitter": "https://x.com/ukiuki_unico",
+      "youtube": "https://www.youtube.com/@ukiuki-ch"
+    },
+    "tags": [
+      "VEE"
+    ],
+    "page": "https://vee-official.jp/talent/uki-uki-unico/"
+  },
+  {
+    "name": "偉雷アマエ",
+    "links": {
+      "twitter": "https://twitter.com/EraiAmae",
+      "youtube": "https://www.youtube.com/@EraiAmae"
+    },
+    "tags": [
+      "VEE"
+    ],
+    "page": "https://vee-official.jp/talent/erai-amae/"
+  },
+  {
+    "name": "桜鳥ミーナ",
+    "links": {
+      "twitter": "https://twitter.com/mina0x0audrey",
+      "youtube": "https://www.youtube.com/@MinaAudrey",
+      "twitch": "https://twitch.tv/minaaudrey_vee/"
+    },
+    "tags": [
+      "VEE"
+    ],
+    "page": "https://vee-official.jp/talent/audrey-mina/"
+  },
+  {
+    "name": "音門るき",
+    "links": {
+      "twitter": "https://twitter.com/Ruki_vita_666",
+      "youtube": "https://www.youtube.com/@Otokado_Ruki",
+      "twitch": "https://www.twitch.tv/ruki_otokado_666"
+    },
+    "tags": [
+      "VEE"
+    ],
+    "page": "https://vee-official.jp/talent/otokado-ruki/"
   },
   {
     "name": "カガセ・ウノ",
@@ -5646,16 +5866,140 @@
     "page": "https://vee-official.jp/talent/kagase-uno/"
   },
   {
-    "name": "ヒトシロ・イツキ",
+    "name": "カシ・オトハ",
     "links": {
-      "twitter": "https://twitter.com/itsuki_htsr",
-      "youtube": "https://www.youtube.com/@Hitoshiro_Itsuki",
-      "twitch": "https://www.twitch.tv/hitoshiroitsuki"
+      "twitter": "https://twitter.com/otoha_ks",
+      "youtube": "https://www.youtube.com/@kashiotoha8669"
     },
     "tags": [
       "VEE"
     ],
-    "page": "https://vee-official.jp/talent/hitoshiro-itsuki/"
+    "page": "https://vee-official.jp/talent/kashi-otoha/"
+  },
+  {
+    "name": "甘楽デイティー",
+    "links": {
+      "twitter": "https://twitter.com/KanraDeity",
+      "youtube": "https://www.youtube.com/@KanraDeity",
+      "twitch": "https://www.twitch.tv/kanradeity"
+    },
+    "tags": [
+      "VEE"
+    ],
+    "page": "https://vee-official.jp/talent/kanra-deity/"
+  },
+  {
+    "name": "北白川かかぽ",
+    "links": {
+      "twitter": "https://twitter.com/kakapo_research",
+      "youtube": "https://www.youtube.com/@kakapo_research"
+    },
+    "tags": [
+      "VEE"
+    ],
+    "page": "https://vee-official.jp/talent/kitashirakawa-kakapo/"
+  },
+  {
+    "name": "月白 累",
+    "links": {
+      "twitter": "https://twitter.com/Geppaku_Lui",
+      "youtube": "https://www.youtube.com/@Geppaku_Lui"
+    },
+    "tags": [
+      "VEE"
+    ],
+    "page": "https://vee-official.jp/talent/geppaku-lui/"
+  },
+  {
+    "name": "黒燿リラ",
+    "links": {
+      "twitter": "https://twitter.com/KOKUYOU_LIRA",
+      "youtube": "https://www.youtube.com/@KOKUYOU_LIRA"
+    },
+    "tags": [
+      "VEE"
+    ],
+    "page": "https://vee-official.jp/talent/kokuyou-lira/"
+  },
+  {
+    "name": "言のハ",
+    "links": {
+      "twitter": "https://x.com/TwiCoto",
+      "youtube": "https://www.youtube.com/@Cotonoha",
+      "twitch": "https://www.twitch.tv/ocoto_jp"
+    },
+    "tags": [
+      "VEE"
+    ],
+    "page": "https://vee-official.jp/talent/cotonoha/"
+  },
+  {
+    "name": "秋雪こはく",
+    "links": {
+      "twitter": "https://twitter.com/Syusetu_kohaku",
+      "youtube": "https://www.youtube.com/@Syusetu_kohaku",
+      "twitch": "https://www.twitch.tv/syusetu_kohaku"
+    },
+    "tags": [
+      "VEE"
+    ],
+    "page": "https://vee-official.jp/talent/syusetu-kohaku/"
+  },
+  {
+    "name": "トゥルシー・ナイトメア",
+    "links": {
+      "twitter": "https://twitter.com/IDmadeMiruna",
+      "youtube": "https://www.youtube.com/@Tulsi_Nightmare"
+    },
+    "tags": [
+      "VEE"
+    ],
+    "page": "https://vee-official.jp/talent/tulsi-nightmare-madness/"
+  },
+  {
+    "name": "羽澄さひろ",
+    "links": {
+      "twitter": "https://x.com/HasumiSahiro",
+      "youtube": "https://www.youtube.com/@HasumiSahiro"
+    },
+    "tags": [
+      "VEE"
+    ],
+    "page": "https://vee-official.jp/talent/hasumi-sahiro/"
+  },
+  {
+    "name": "緋墨",
+    "links": {
+      "twitter": "https://x.com/hisumi_rihito",
+      "youtube": "https://www.youtube.com/@Hisumi_Rihito"
+    },
+    "tags": [
+      "VEE"
+    ],
+    "page": "https://vee-official.jp/talent/hisumi/"
+  },
+  {
+    "name": "雛星あいる",
+    "links": {
+      "twitter": "https://twitter.com/airu_Lv115",
+      "youtube": "https://www.youtube.com/@Hinahoshi_Airu",
+      "twitch": "https://www.twitch.tv/hinahoshi_airu"
+    },
+    "tags": [
+      "VEE"
+    ],
+    "page": "https://vee-official.jp/talent/hinahoshi-airu/"
+  },
+  {
+    "name": "日和ちひよ",
+    "links": {
+      "twitter": "https://twitter.com/hiyohiyovee",
+      "youtube": "https://www.youtube.com/@HiyoriChihiyo"
+    },
+    "tags": [
+      "VEE"
+    ],
+    "page": "https://vee-official.jp/talent/hiyori-chihiyo/"
   },
   {
     "name": "マル・ナナモナ",
@@ -5680,129 +6024,6 @@
     "page": "https://vee-official.jp/talent/mememori-an/"
   },
   {
-    "name": "緋墨",
-    "links": {
-      "twitter": "https://x.com/hisumi_rihito",
-      "youtube": "https://www.youtube.com/@Hisumi_Rihito"
-    },
-    "tags": [
-      "VEE"
-    ],
-    "page": "https://vee-official.jp/talent/hisumi/"
-  },
-  {
-    "name": "羽澄さひろ",
-    "links": {
-      "twitter": "https://x.com/HasumiSahiro",
-      "youtube": "https://www.youtube.com/@HasumiSahiro"
-    },
-    "tags": [
-      "VEE"
-    ],
-    "page": "https://vee-official.jp/talent/hasumi-sahiro/"
-  },
-  {
-    "name": "浮々ゆにこ",
-    "links": {
-      "twitter": "https://x.com/ukiuki_unico",
-      "youtube": "https://www.youtube.com/@ukiuki-ch"
-    },
-    "tags": [
-      "VEE"
-    ],
-    "page": "https://vee-official.jp/talent/uki-uki-unico/"
-  },
-  {
-    "name": "甘楽デイティー",
-    "links": {
-      "twitter": "https://twitter.com/KanraDeity",
-      "youtube": "https://www.youtube.com/@KanraDeity",
-      "twitch": "https://www.twitch.tv/kanradeity"
-    },
-    "tags": [
-      "VEE"
-    ],
-    "page": "https://vee-official.jp/talent/kanra-deity/"
-  },
-  {
-    "name": "安心院みさ",
-    "links": {
-      "twitter": "https://twitter.com/ANSHININMISA",
-      "youtube": "https://www.youtube.com/@AnshininMisa"
-    },
-    "tags": [
-      "VEE"
-    ],
-    "page": "https://vee-official.jp/talent/anshinin-misa/"
-  },
-  {
-    "name": "天籠りのん",
-    "links": {
-      "twitter": "https://twitter.com/LinonAmakomo",
-      "youtube": "https://www.youtube.com/@LinonAmakomo"
-    },
-    "tags": [
-      "VEE"
-    ],
-    "page": "https://vee-official.jp/talent/amakomo-linon/"
-  },
-  {
-    "name": "黒燿リラ",
-    "links": {
-      "twitter": "https://twitter.com/KOKUYOU_LIRA",
-      "youtube": "https://www.youtube.com/@KOKUYOU_LIRA"
-    },
-    "tags": [
-      "VEE"
-    ],
-    "page": "https://vee-official.jp/talent/kokuyou-lira/"
-  },
-  {
-    "name": "月白 累",
-    "links": {
-      "twitter": "https://twitter.com/Geppaku_Lui",
-      "youtube": "https://www.youtube.com/@Geppaku_Lui"
-    },
-    "tags": [
-      "VEE"
-    ],
-    "page": "https://vee-official.jp/talent/geppaku-lui/"
-  },
-  {
-    "name": "雨庭やえ",
-    "links": {
-      "twitter": "https://twitter.com/AMENIWA_YAE",
-      "youtube": "https://youtube.com/@AMENIWA_YAE",
-      "twitch": "https://www.twitch.tv/ameniwa_yae"
-    },
-    "tags": [
-      "VEE"
-    ],
-    "page": "https://vee-official.jp/talent/ameniwa-yae/"
-  },
-  {
-    "name": "北白川かかぽ",
-    "links": {
-      "twitter": "https://twitter.com/kakapo_research",
-      "youtube": "https://www.youtube.com/@kakapo_research"
-    },
-    "tags": [
-      "VEE"
-    ],
-    "page": "https://vee-official.jp/talent/kitashirakawa-kakapo/"
-  },
-  {
-    "name": "偉雷アマエ",
-    "links": {
-      "twitter": "https://twitter.com/EraiAmae",
-      "youtube": "https://www.youtube.com/@EraiAmae"
-    },
-    "tags": [
-      "VEE"
-    ],
-    "page": "https://vee-official.jp/talent/erai-amae/"
-  },
-  {
     "name": "るみなす・すいーと",
     "links": {
       "twitter": "https://twitter.com/luminous_amaama",
@@ -5812,122 +6033,6 @@
       "VEE"
     ],
     "page": "https://vee-official.jp/talent/luminous-sweet/"
-  },
-  {
-    "name": "言のハ",
-    "links": {
-      "twitter": "https://twitter.com/TwiCoto",
-      "youtube": "https://www.youtube.com/@Cotonoha",
-      "twitch": "https://www.twitch.tv/ctnh_jp"
-    },
-    "tags": [
-      "VEE"
-    ],
-    "page": "https://vee-official.jp/talent/cotonoha/"
-  },
-  {
-    "name": "亞生うぱる",
-    "links": {
-      "twitter": "https://twitter.com/UPARU_JP",
-      "youtube": "https://www.youtube.com/@AnewUparu"
-    },
-    "tags": [
-      "VEE"
-    ],
-    "page": "https://vee-official.jp/talent/anew-uparu/"
-  },
-  {
-    "name": "蒼宮よづり",
-    "links": {
-      "twitter": "https://twitter.com/aomiyayozuri",
-      "youtube": "https://www.youtube.com/@AomiyaYozuri",
-      "twitch": "https://www.twitch.tv/aomiyayozuri_ch"
-    },
-    "tags": [
-      "VEE"
-    ],
-    "page": "https://vee-official.jp/talent/aomiya-yozuri/"
-  },
-  {
-    "name": "ミュウ・ガルシア",
-    "links": {
-      "twitter": "https://twitter.com/MewGarcia_king",
-      "youtube": "https://www.youtube.com/@MewGarcia"
-    },
-    "tags": [
-      "VEE"
-    ],
-    "page": "https://vee-official.jp/talent/mew-garcia/"
-  },
-  {
-    "name": "日和ちひよ",
-    "links": {
-      "twitter": "https://twitter.com/hiyohiyovee",
-      "youtube": "https://www.youtube.com/@HiyoriChihiyo"
-    },
-    "tags": [
-      "VEE"
-    ],
-    "page": "https://vee-official.jp/talent/hiyori-chihiyo/"
-  },
-  {
-    "name": "桜鳥ミーナ",
-    "links": {
-      "twitter": "https://twitter.com/mina0x0audrey",
-      "youtube": "https://www.youtube.com/@MinaAudrey",
-      "twitch": "https://twitch.tv/minaaudrey_vee/"
-    },
-    "tags": [
-      "VEE"
-    ],
-    "page": "https://vee-official.jp/talent/audrey-mina/"
-  },
-  {
-    "name": "雛星あいる",
-    "links": {
-      "twitter": "https://twitter.com/airu_Lv115",
-      "youtube": "https://www.youtube.com/@Hinahoshi_Airu",
-      "twitch": "https://www.twitch.tv/hinahoshi_airu"
-    },
-    "tags": [
-      "VEE"
-    ],
-    "page": "https://vee-official.jp/talent/hinahoshi-airu/"
-  },
-  {
-    "name": "トゥルシー・ナイトメア",
-    "links": {
-      "twitter": "https://twitter.com/IDmadeMiruna",
-      "youtube": "https://www.youtube.com/@Tulsi_Nightmare"
-    },
-    "tags": [
-      "VEE"
-    ],
-    "page": "https://vee-official.jp/talent/tulsi-nightmare-madness/"
-  },
-  {
-    "name": "秋雪こはく",
-    "links": {
-      "twitter": "https://twitter.com/Syusetu_kohaku",
-      "youtube": "https://www.youtube.com/@Syusetu_kohaku",
-      "twitch": "https://www.twitch.tv/syusetu_kohaku"
-    },
-    "tags": [
-      "VEE"
-    ],
-    "page": "https://vee-official.jp/talent/syusetu-kohaku/"
-  },
-  {
-    "name": "音門るき",
-    "links": {
-      "twitter": "https://twitter.com/Ruki_vita_666",
-      "youtube": "https://www.youtube.com/@Otokado_Ruki",
-      "twitch": "https://www.twitch.tv/ruki_otokado_666"
-    },
-    "tags": [
-      "VEE"
-    ],
-    "page": "https://vee-official.jp/talent/otokado-ruki/"
   },
   {
     "name": "花芽 すみれ",
@@ -6139,7 +6244,7 @@
     "page": "https://vspo.jp/member/"
   },
   {
-    "name": "紡木こかげ",
+    "name": "紡木 こかげ",
     "links": {
       "twitter": "https://twitter.com/kokage_tsumugi",
       "youtube": "https://www.youtube.com/@Kokage_Tsumugi"
@@ -6154,6 +6259,83 @@
     "links": {
       "twitter": "https://x.com/yuuhi_sendo",
       "youtube": "https://www.youtube.com/@SendoYuuhi"
+    },
+    "tags": [
+      "ぶいすぽ"
+    ],
+    "page": "https://vspo.jp/member/"
+  },
+  {
+    "name": "蝶屋 はなび",
+    "links": {
+      "twitter": "https://x.com/Hanabi_Choya",
+      "youtube": "https://www.youtube.com/@HanabiChoya"
+    },
+    "tags": [
+      "ぶいすぽ"
+    ],
+    "page": "https://vspo.jp/member/"
+  },
+  {
+    "name": "甘結 もか",
+    "links": {
+      "twitter": "https://x.com/Amayui_Moka",
+      "youtube": "https://www.youtube.com/@Moka_Amayui"
+    },
+    "tags": [
+      "ぶいすぽ"
+    ],
+    "page": "https://vspo.jp/member/"
+  },
+  {
+    "name": "青月レミア",
+    "links": {
+      "twitter": "https://x.com/RemiaAotsuki",
+      "youtube": "https://www.youtube.com/@RemiaAotsuki"
+    },
+    "tags": [
+      "ぶいすぽ"
+    ],
+    "page": "https://vspo.jp/member/"
+  },
+  {
+    "name": "黒刃アリヤ",
+    "links": {
+      "twitter": "https://x.com/aryakuroha",
+      "youtube": "https://www.youtube.com/@aryakuroha"
+    },
+    "tags": [
+      "ぶいすぽ"
+    ],
+    "page": "https://vspo.jp/member/"
+  },
+  {
+    "name": "地崎ジラ",
+    "links": {
+      "twitter": "https://x.com/jirajisaki",
+      "youtube": "https://www.youtube.com/@jirajisaki"
+    },
+    "tags": [
+      "ぶいすぽ"
+    ],
+    "page": "https://vspo.jp/member/"
+  },
+  {
+    "name": "美暮ナリン",
+    "links": {
+      "twitter": "https://x.com/narinmikure",
+      "youtube": "https://www.youtube.com/@narinmikure"
+    },
+    "tags": [
+      "ぶいすぽ"
+    ],
+    "page": "https://vspo.jp/member/"
+  },
+  {
+    "name": "ソラリリコ",
+    "links": {
+      "twitter": "https://x.com/rikosolari",
+      "youtube": "https://www.youtube.com/@rikosolari"
     },
     "tags": [
       "ぶいすぽ"
@@ -6178,34 +6360,22 @@
     "links": {
       "twitter": "https://x.com/acomingZZ",
       "youtube": "https://www.youtube.com/@acoming",
-      "twitch": "https://www.twitch.tv/acomingZZ"
+      "twitch": "https://www.twitch.tv/acomingZZ",
+      "instagram": "https://www.instagram.com/acomingzz/"
     },
     "tags": [
       "ZETA DIVISION",
-      "ATHLETE",
-      "VALORANT GC"
+      "CREATOR"
     ],
     "page": "https://zetadivision.com/players/aco"
-  },
-  {
-    "name": "Airy",
-    "links": {
-      "twitter": "https://x.com/Airy_vl",
-      "youtube": "https://www.youtube.com/@Airy_vl",
-      "twitch": "https://www.twitch.tv/airy_fps"
-    },
-    "tags": [
-      "ZETA DIVISION",
-      "ACADEMY ATHLETE",
-      "VALORANT ACADEMY"
-    ],
-    "page": "https://zetadivision.com/players/airy"
   },
   {
     "name": "AlphaYi",
     "links": {
       "twitter": "https://x.com/rlawns0740",
-      "youtube": "https://www.youtube.com/@user-pw8nz4fw4v"
+      "youtube": "https://www.youtube.com/@user-pw8nz4fw4v",
+      "naver": "https://chzzk.naver.com/3e124dd3fe14d90ff712dd6912928a3e",
+      "instagram": "https://www.instagram.com/kimjun____02"
     },
     "tags": [
       "ZETA DIVISION",
@@ -6222,7 +6392,7 @@
     },
     "tags": [
       "ZETA DIVISION",
-      "ATHLETE",
+      "ATHLETE (INACTIVE)",
       "IDENTITY V"
     ],
     "page": "https://zetadivision.com/players/alf"
@@ -6256,7 +6426,9 @@
   {
     "name": "Bernar",
     "links": {
-      "twitter": "https://x.com/bernar"
+      "twitter": "https://x.com/bernar",
+      "naver": "https://chzzk.naver.com/5eaee03649189abfc779534e318271b0",
+      "instagram": "https://www.instagram.com/sxxnsewon"
     },
     "tags": [
       "ZETA DIVISION",
@@ -6283,7 +6455,7 @@
     "name": "Carlao",
     "links": {
       "twitter": "https://x.com/Carlao",
-      "instagram": "https://instagram.com/carlosgmohn"
+      "instagram": "https://www.instagram.com/carlaovlr/"
     },
     "tags": [
       "ZETA DIVISION",
@@ -6295,7 +6467,8 @@
   {
     "name": "Changgoon",
     "links": {
-      "twitter": "https://x.com/changgOW"
+      "twitter": "https://x.com/changgOW",
+      "instagram": "https://www.instagram.com/changgoon_ow"
     },
     "tags": [
       "ZETA DIVISION",
@@ -6319,6 +6492,21 @@
     "page": "https://zetadivision.com/players/clutch_fi"
   },
   {
+    "name": "CLZ",
+    "links": {
+      "twitter": "https://x.com/Cluzqhi_3",
+      "youtube": "https://www.youtube.com/@cluzqhi_3",
+      "twitch": "https://www.twitch.tv/cluzqhi3",
+      "instagram": "https://www.instagram.com/cluzqhi3"
+    },
+    "tags": [
+      "ZETA DIVISION",
+      "ATHLETE",
+      "VALORANT"
+    ],
+    "page": "https://zetadivision.com/players/clz"
+  },
+  {
     "name": "Cocoatta",
     "links": {
       "twitter": "https://x.com/cocoa_poke_",
@@ -6336,7 +6524,8 @@
     "links": {
       "twitter": "https://x.com/no960fps",
       "youtube": "https://www.youtube.com/@crowfps7525",
-      "twitch": "https://twitch.tv/crowfps__"
+      "twitch": "https://twitch.tv/crowfps__",
+      "instagram": "https://www.instagram.com/crowfps_/"
     },
     "tags": [
       "ZETA DIVISION",
@@ -6390,7 +6579,8 @@
     "name": "Falk",
     "links": {
       "twitter": "https://x.com/Falk_08",
-      "twitch": "https://www.twitch.tv/falk_vlt"
+      "twitch": "https://www.twitch.tv/falk_vlt",
+      "instagram": "https://www.instagram.com/falk.vlt/"
     },
     "tags": [
       "ZETA DIVISION",
@@ -6403,7 +6593,8 @@
     "name": "FiNN",
     "links": {
       "twitter": "https://x.com/SEjFiNN",
-      "youtube": "https://www.youtube.com/@SEjFiNN/"
+      "youtube": "https://www.youtube.com/@SEjFiNN/",
+      "instagram": "https://www.instagram.com/sejfinn"
     },
     "tags": [
       "ZETA DIVISION",
@@ -6416,7 +6607,9 @@
     "name": "Flora",
     "links": {
       "twitter": "https://x.com/FloraOw02",
-      "youtube": "https://www.youtube.com/@user-lj2lj2wo8z"
+      "youtube": "https://www.youtube.com/@user-lj2lj2wo8z",
+      "naver": "https://chzzk.naver.com/9b50f2c139753884f1bbfb4cf0a799a3",
+      "instagram": "https://www.instagram.com/flora_ow02/"
     },
     "tags": [
       "ZETA DIVISION",
@@ -6440,20 +6633,6 @@
     "page": "https://zetadivision.com/players/gackt"
   },
   {
-    "name": "GeRo",
-    "links": {
-      "twitter": "https://x.com/GeRo_BS",
-      "youtube": "https://www.youtube.com/@GeRo_BS",
-      "twitch": "https://www.twitch.tv/gero_bs"
-    },
-    "tags": [
-      "ZETA DIVISION",
-      "ATHLETE",
-      "BRAWL STARS"
-    ],
-    "page": "https://zetadivision.com/players/gero"
-  },
-  {
     "name": "Hametu",
     "links": {
       "twitter": "https://x.com/HametuhaDandy",
@@ -6470,6 +6649,7 @@
     "name": "hatto",
     "links": {
       "twitter": "https://x.com/o_ohatto_o",
+      "youtube": "https://www.youtube.com/@hatto418",
       "twitch": "https://www.twitch.tv/hatto_c"
     },
     "tags": [
@@ -6480,27 +6660,16 @@
     "page": "https://zetadivision.com/players/hatto"
   },
   {
-    "name": "heesung",
-    "links": {
-      "twitter": "https://x.com/heesung69981132"
-    },
-    "tags": [
-      "ZETA DIVISION",
-      "ATHLETE",
-      "OVERWATCH"
-    ],
-    "page": "https://zetadivision.com/players/heesung"
-  },
-  {
     "name": "hiroronn",
     "links": {
       "twitter": "https://x.com/hiroronnsann",
       "youtube": "https://www.youtube.com/@hiroronnsann",
-      "twitch": "https://twitch.tv/hiroronnsann"
+      "twitch": "https://twitch.tv/hiroronnsann",
+      "instagram": "https://www.instagram.com/hiroronnsan/"
     },
     "tags": [
       "ZETA DIVISION",
-      "ATHLETE",
+      "ATHLETE (INACTIVE)",
       "VALORANT"
     ],
     "page": "https://zetadivision.com/players/hiroronn"
@@ -6510,7 +6679,8 @@
     "links": {
       "twitter": "https://x.com/honeybunnytt",
       "youtube": "https://www.youtube.com/@honeybunnytt",
-      "twitch": "https://www.twitch.tv/honey_bunnytt"
+      "twitch": "https://www.twitch.tv/honey_bunnytt",
+      "instagram": "https://www.instagram.com/honey.bunnytt/"
     },
     "tags": [
       "ZETA DIVISION",
@@ -6533,12 +6703,26 @@
     "page": "https://zetadivision.com/players/iamtomato"
   },
   {
+    "name": "JapaneseKoreanUG",
+    "links": {
+      "twitter": "https://x.com/JPKR_UG",
+      "youtube": "https://www.youtube.com/@JapaneseKoreanUG",
+      "twitch": "https://www.twitch.tv/japanesekoreanug"
+    },
+    "tags": [
+      "ZETA DIVISION",
+      "CREATOR"
+    ],
+    "page": "https://zetadivision.com/players/japanesekoreanug"
+  },
+  {
     "name": "JUNiOR",
     "links": {
       "twitter": "https://x.com/junior27015",
       "youtube": "https://www.youtube.com/@JUPJUNiOR",
       "twitch": "https://www.twitch.tv/junior27015",
-      "mildom": "https://www.mildom.com/10425745"
+      "mildom": "https://www.mildom.com/10425745",
+      "instagram": "https://www.instagram.com/junior27o15/"
     },
     "tags": [
       "ZETA DIVISION",
@@ -6552,7 +6736,8 @@
     "links": {
       "twitter": "https://x.com/k4sen",
       "youtube": "https://www.youtube.com/@zzxk4sen",
-      "twitch": "https://www.twitch.tv/k4sen"
+      "twitch": "https://www.twitch.tv/k4sen",
+      "instagram": "https://www.instagram.com/k4sen.denei"
     },
     "tags": [
       "ZETA DIVISION",
@@ -6561,23 +6746,10 @@
     "page": "https://zetadivision.com/players/k4sen"
   },
   {
-    "name": "KAITO",
-    "links": {
-      "twitter": "https://x.com/kaito7_16",
-      "twitch": "https://www.twitch.tv/kaito716"
-    },
-    "tags": [
-      "ZETA DIVISION",
-      "ATHLETE",
-      "TEAMFIGHT TACTICS"
-    ],
-    "page": "https://zetadivision.com/players/kaito"
-  },
-  {
     "name": "kaua",
     "links": {
       "twitter": "https://x.com/kaua281",
-      "twitch": "https://www.twitch.tv/hiyokokaua"
+      "twitch": "https://www.twitch.tv/zeta_kaua"
     },
     "tags": [
       "ZETA DIVISION",
@@ -6613,11 +6785,26 @@
     "page": "https://zetadivision.com/players/kes"
   },
   {
+    "name": "KillAA",
+    "links": {
+      "twitter": "https://x.com/killaa_202a",
+      "youtube": "https://www.youtube.com/@KillAA_ch",
+      "twitch": "https://www.twitch.tv/killaa_vl"
+    },
+    "tags": [
+      "ZETA DIVISION",
+      "ACADEMY ATHLETE",
+      "VALORANT ACADEMY"
+    ],
+    "page": "https://zetadivision.com/players/killaa"
+  },
+  {
     "name": "Killin9Hit",
     "links": {
       "twitter": "https://x.com/Killin9Hit",
       "youtube": "https://www.youtube.com/@Killin9Hit",
-      "twitch": "https://www.twitch.tv/killin9hit"
+      "twitch": "https://www.twitch.tv/killin9hit",
+      "instagram": "https://www.instagram.com/killin9hit/"
     },
     "tags": [
       "ZETA DIVISION",
@@ -6652,20 +6839,6 @@
       "FORTNITE"
     ],
     "page": "https://zetadivision.com/players/koyota"
-  },
-  {
-    "name": "koruku",
-    "links": {
-      "twitter": "https://x.com/WaAwV24",
-      "youtube": "https://www.youtube.com/@koruku004",
-      "twitch": "https://www.twitch.tv/koruku_twitch"
-    },
-    "tags": [
-      "ZETA DIVISION",
-      "ATHLETE",
-      "PARAVOX"
-    ],
-    "page": "https://zetadivision.com/players/koruku"
   },
   {
     "name": "kreamer",
@@ -6712,7 +6885,8 @@
     "links": {
       "twitter": "https://x.com/lazvell",
       "youtube": "https://www.youtube.com/@Lazvell",
-      "twitch": "https://www.twitch.tv/lazvell"
+      "twitch": "https://www.twitch.tv/lazvell",
+      "instagram": "https://www.instagram.com/laz.vl/"
     },
     "tags": [
       "ZETA DIVISION",
@@ -6734,29 +6908,31 @@
     "page": "https://zetadivision.com/players/lefiedot"
   },
   {
-    "name": "MeLton",
+    "name": "Levi",
     "links": {
-      "twitter": "https://x.com/MeLton_fps",
-      "youtube": "https://www.youtube.com/@melton6743",
-      "twitch": "https://www.twitch.tv/meltonff"
-    },
-    "tags": [
-      "ZETA DIVISION",
-      "CREATOR"
-    ],
-    "page": "https://zetadivision.com/players/melton"
-  },
-  {
-    "name": "MeOw",
-    "links": {
-      "twitter": "https://x.com/BS_MeOw"
+      "twitter": "https://x.com/levi_ibs",
+      "youtube": "https://www.youtube.com/@Levi_ibs"
     },
     "tags": [
       "ZETA DIVISION",
       "ATHLETE",
       "BRAWL STARS"
     ],
-    "page": "https://zetadivision.com/players/meow"
+    "page": "https://zetadivision.com/players/levi"
+  },
+  {
+    "name": "MeLton",
+    "links": {
+      "twitter": "https://x.com/MeLton_fps",
+      "youtube": "https://www.youtube.com/@melton6743",
+      "twitch": "https://www.twitch.tv/meltonff",
+      "instagram": "https://www.instagram.com/melton.1sbd/"
+    },
+    "tags": [
+      "ZETA DIVISION",
+      "CREATOR"
+    ],
+    "page": "https://zetadivision.com/players/melton"
   },
   {
     "name": "Minipiyo",
@@ -6772,17 +6948,30 @@
     "page": "https://zetadivision.com/players/minipiyo"
   },
   {
-    "name": "Moco",
+    "name": "mkmldy",
     "links": {
-      "twitter": "https://x.com/MoCoxb",
-      "twitch": "https://www.twitch.tv/mocopfe"
+      "twitter": "https://x.com/negimelody_",
+      "youtube": "https://www.youtube.com/@%E3%81%AD%E3%81%8E-z2v",
+      "instagram": "https://www.instagram.com/negi._melody/"
     },
     "tags": [
       "ZETA DIVISION",
       "ATHLETE",
-      "VALORANT GC"
+      "IDENTITY V"
     ],
-    "page": "https://zetadivision.com/players/moco"
+    "page": "https://zetadivision.com/players/mkmldy"
+  },
+  {
+    "name": "Mobydik",
+    "links": {
+      "twitter": "https://x.com/Mobydik_ow"
+    },
+    "tags": [
+      "ZETA DIVISION",
+      "COACH",
+      "OVERWATCH"
+    ],
+    "page": "https://zetadivision.com/players/mobydik"
   },
   {
     "name": "Nozomi.",
@@ -6798,22 +6987,24 @@
     "page": "https://zetadivision.com/players/nozomi"
   },
   {
-    "name": "Nowy",
+    "name": "PELICAN",
     "links": {
-      "twitter": "https://x.com/nowy297",
-      "youtube": "https://www.youtube.com/@nowy2974"
+      "twitter": "https://x.com/PELICAN_75",
+      "naver": "https://chzzk.naver.com/3c6892ca38a0e39415f52fa4bb09c5ac",
+      "instagram": "https://www.instagram.com/pelican_75/"
     },
     "tags": [
       "ZETA DIVISION",
       "ATHLETE",
-      "BRAWL STARS"
+      "OVERWATCH"
     ],
-    "page": "https://zetadivision.com/players/nowy"
+    "page": "https://zetadivision.com/players/pelican"
   },
   {
     "name": "Rascal",
     "links": {
-      "twitter": "https://x.com/Rascal"
+      "twitter": "https://x.com/Rascal",
+      "instagram": "https://www.instagram.com/rascal0723/"
     },
     "tags": [
       "ZETA DIVISION",
@@ -6825,7 +7016,8 @@
   {
     "name": "Rom",
     "links": {
-      "twitter": "https://x.com/Rommarudesu"
+      "twitter": "https://x.com/Rommarudesu",
+      "youtube": "https://www.youtube.com/@Rommarudesu"
     },
     "tags": [
       "ZETA DIVISION",
@@ -6833,46 +7025,6 @@
       "POKÉMON UNITE"
     ],
     "page": "https://zetadivision.com/players/rom"
-  },
-  {
-    "name": "Ruto",
-    "links": {
-      "twitter": "https://x.com/rutonokimoti",
-      "twitch": "https://www.twitch.tv/rutonokimoti"
-    },
-    "tags": [
-      "ZETA DIVISION",
-      "ATHLETE",
-      "PARAVOX"
-    ],
-    "page": "https://zetadivision.com/players/ruto"
-  },
-  {
-    "name": "ryota-",
-    "links": {
-      "twitter": "https://x.com/ryotavlt",
-      "twitch": "https://www.twitch.tv/fps_ryota"
-    },
-    "tags": [
-      "ZETA DIVISION",
-      "COACH",
-      "VALORANT GC"
-    ],
-    "page": "https://zetadivision.com/players/ryota"
-  },
-  {
-    "name": "SereNa",
-    "links": {
-      "twitter": "https://x.com/SereNa_VLRT",
-      "youtube": "https://www.youtube.com/@SereNa_FPS_",
-      "twitch": "https://www.twitch.tv/serena329"
-    },
-    "tags": [
-      "ZETA DIVISION",
-      "ATHLETE",
-      "VALORANT GC"
-    ],
-    "page": "https://zetadivision.com/players/serena"
   },
   {
     "name": "Shinami",
@@ -6930,11 +7082,52 @@
     "page": "https://zetadivision.com/players/silk"
   },
   {
+    "name": "Sitetampo",
+    "links": {
+      "twitter": "https://x.com/sitetampopopopo",
+      "youtube": "https://www.youtube.com/@sitetampo2199"
+    },
+    "tags": [
+      "ZETA DIVISION",
+      "ATHLETE",
+      "BRAWL STARS"
+    ],
+    "page": "https://zetadivision.com/players/sitetampo"
+  },
+  {
+    "name": "Sizuku",
+    "links": {
+      "twitter": "https://x.com/sizukubs",
+      "youtube": "https://www.youtube.com/@sizukubs"
+    },
+    "tags": [
+      "ZETA DIVISION",
+      "ATHLETE",
+      "BRAWL STARS"
+    ],
+    "page": "https://zetadivision.com/players/sizuku"
+  },
+  {
+    "name": "Solluzy",
+    "links": {
+      "twitter": "https://x.com/Solluzy",
+      "twitch": "https://www.twitch.tv/solluzy",
+      "instagram": "https://www.instagram.com/solluzyfps/"
+    },
+    "tags": [
+      "ZETA DIVISION",
+      "ACADEMY ATHLETE",
+      "VALORANT ACADEMY"
+    ],
+    "page": "https://zetadivision.com/players/solluzy"
+  },
+  {
     "name": "SugarZ3ro",
     "links": {
       "twitter": "https://x.com/SugarZ3roVL",
       "youtube": "https://www.youtube.com/@SugarZ3ro",
-      "twitch": "https://www.twitch.tv/sugarz3ro"
+      "twitch": "https://www.twitch.tv/sugarz3ro",
+      "instagram": "https://www.instagram.com/sugarz3ro/"
     },
     "tags": [
       "ZETA DIVISION",
@@ -6944,45 +7137,33 @@
     "page": "https://zetadivision.com/players/sugarz3ro"
   },
   {
-    "name": "suzu",
+    "name": "SyouTa",
     "links": {
-      "twitter": "https://x.com/starline_194",
-      "youtube": "https://www.youtube.com/@c4down55",
-      "twitch": "https://www.twitch.tv/suzucharo"
+      "twitter": "https://x.com/SyouTa_fps",
+      "youtube": "https://www.youtube.com/@SyouTaa",
+      "twitch": "https://www.twitch.tv/syouta_fps",
+      "instagram": "https://www.instagram.com/syouta_0109_/"
     },
     "tags": [
       "ZETA DIVISION",
       "ATHLETE",
-      "VALORANT GC"
+      "VALORANT"
     ],
-    "page": "https://zetadivision.com/players/suzu"
+    "page": "https://zetadivision.com/players/syouta"
   },
   {
     "name": "ta1yo",
     "links": {
       "twitter": "https://x.com/ta1yo_tv",
       "youtube": "https://www.youtube.com/@ta1yotv",
-      "twitch": "https://www.twitch.tv/ta1yo_tv"
+      "twitch": "https://www.twitch.tv/ta1yo_tv",
+      "instagram": "https://www.instagram.com/ta1yo.tv/"
     },
     "tags": [
       "ZETA DIVISION",
       "CREATOR"
     ],
     "page": "https://zetadivision.com/players/ta1yo"
-  },
-  {
-    "name": "Taro",
-    "links": {
-      "twitter": "https://x.com/TFT_taro_JP",
-      "youtube": "https://www.youtube.com/@tft1596",
-      "twitch": "https://www.twitch.tv/tarotftuniversity"
-    },
-    "tags": [
-      "ZETA DIVISION",
-      "ATHLETE",
-      "TEAMFIGHT TACTICS"
-    ],
-    "page": "https://zetadivision.com/players/taro"
   },
   {
     "name": "Ta-Key",
@@ -7012,19 +7193,6 @@
     "page": "https://zetadivision.com/players/tea"
   },
   {
-    "name": "TENNN",
-    "links": {
-      "twitter": "https://x.com/tenhakyou",
-      "youtube": "https://www.youtube.com/@tenstudio127",
-      "twitch": "https://www.twitch.tv/tennn"
-    },
-    "tags": [
-      "ZETA DIVISION",
-      "CREATOR"
-    ],
-    "page": "https://zetadivision.com/players/tennn"
-  },
-  {
     "name": "title",
     "links": {
       "twitter": "https://x.com/loltitle",
@@ -7038,23 +7206,12 @@
     "page": "https://zetadivision.com/players/title"
   },
   {
-    "name": "UR",
-    "links": {
-      "twitter": "https://x.com/wr__ur",
-      "twitch": "https://www.twitch.tv/ur3_3"
-    },
-    "tags": [
-      "ZETA DIVISION",
-      "ATHLETE",
-      "VALORANT GC"
-    ],
-    "page": "https://zetadivision.com/players/ur"
-  },
-  {
     "name": "Viol2t",
     "links": {
       "twitter": "https://x.com/Viol2t_OW",
-      "youtube": "https://www.youtube.com/@viol2t690"
+      "youtube": "https://www.youtube.com/@viol2t690",
+      "naver": "https://chzzk.naver.com/3a1998ce5b2a28dc7fe18ba35d684b0d",
+      "instagram": "https://www.instagram.com/viol2tow/"
     },
     "tags": [
       "ZETA DIVISION",
@@ -7080,7 +7237,7 @@
     "name": "Wajiro",
     "links": {
       "twitter": "https://x.com/waji_noda",
-      "youtube": "https://www.youtube.com/@user-yp3vj2wd2m"
+      "youtube": "https://www.youtube.com/@waji_noda"
     },
     "tags": [
       "ZETA DIVISION",
@@ -7094,6 +7251,7 @@
     "links": {
       "twitter": "https://x.com/WATANABEtekken",
       "youtube": "https://www.youtube.com/@gupimon3623",
+      "twitch": "https://www.twitch.tv/zeta_watanabe",
       "instagram": "https://www.instagram.com/yutaka0907"
     },
     "tags": [
@@ -7104,17 +7262,48 @@
     "page": "https://zetadivision.com/players/watanabe"
   },
   {
+    "name": "Xdll",
+    "links": {
+      "twitter": "https://x.com/XdllVL",
+      "youtube": "https://www.youtube.com/@xdll3988",
+      "twitch": "https://www.twitch.tv/xdll_vl",
+      "instagram": "https://www.instagram.com/xdllvl"
+    },
+    "tags": [
+      "ZETA DIVISION",
+      "ATHLETE",
+      "VALORANT"
+    ],
+    "page": "https://zetadivision.com/players/xdll"
+  },
+  {
     "name": "XQQ",
     "links": {
       "twitter": "https://x.com/IAMXQ",
       "youtube": "https://www.youtube.com/@XQQChannel",
-      "twitch": "https://www.twitch.tv/iam_xq"
+      "twitch": "https://www.twitch.tv/iam_xq",
+      "instagram": "https://www.instagram.com/xqq.hibiki_ig/"
     },
     "tags": [
       "ZETA DIVISION",
-      "CREATOR"
+      "COACH",
+      "VALORANT"
     ],
     "page": "https://zetadivision.com/players/xqq"
+  },
+  {
+    "name": "YAPIMARU",
+    "links": {
+      "twitter": "https://x.com/yapimaru_games",
+      "youtube": "https://www.youtube.com/@yapimaru",
+      "instagram": "https://instagram.com/yapimaru_games"
+    },
+    "tags": [
+      "ZETA DIVISION",
+      "CREATOR",
+      "BRAWL STARS"
+    ],
+    "page": "https://zetadivision.com/players/yapimaru"
   },
   {
     "name": "yappy",
@@ -7128,19 +7317,6 @@
       "FORTNITE"
     ],
     "page": "https://zetadivision.com/players/yappy"
-  },
-  {
-    "name": "Yog",
-    "links": {
-      "twitter": "https://x.com/yoggg_vl",
-      "twitch": "https://www.twitch.tv/yogu_7"
-    },
-    "tags": [
-      "ZETA DIVISION",
-      "ACADEMY ATHLETE",
-      "VALORANT ACADEMY"
-    ],
-    "page": "https://zetadivision.com/players/yog"
   },
   {
     "name": "yuma",
@@ -7157,24 +7333,12 @@
     "page": "https://zetadivision.com/players/yuma"
   },
   {
-    "name": "Yuran",
-    "links": {
-      "twitter": "https://x.com/YURANjp",
-      "twitch": "https://www.twitch.tv/yuran_jp"
-    },
-    "tags": [
-      "ZETA DIVISION",
-      "ATHLETE",
-      "VALORANT"
-    ],
-    "page": "https://zetadivision.com/players/yuran"
-  },
-  {
     "name": "yvy",
     "links": {
       "twitter": "https://x.com/yvyfps",
       "youtube": "https://www.youtube.com/@yvyfps",
-      "twitch": "https://www.twitch.tv/yvyfpss"
+      "twitch": "https://www.twitch.tv/yvyfpss",
+      "instagram": "https://www.instagram.com/yvy_vl/"
     },
     "tags": [
       "ZETA DIVISION",
@@ -7182,20 +7346,6 @@
       "VALORANT ACADEMY"
     ],
     "page": "https://zetadivision.com/players/yvy"
-  },
-  {
-    "name": "Zagou",
-    "links": {
-      "twitter": "https://x.com/Zag0u",
-      "youtube": "https://www.youtube.com/@Zagou",
-      "twitch": "https://www.twitch.tv/zagou281"
-    },
-    "tags": [
-      "ZETA DIVISION",
-      "ATHLETE",
-      "FORTNITE"
-    ],
-    "page": "https://zetadivision.com/players/zagou"
   },
   {
     "name": "あcola",
@@ -7244,7 +7394,8 @@
     "links": {
       "twitter": "https://x.com/NORIAKIISGOOD",
       "youtube": "https://www.youtube.com/@NORIAKIISGOOD",
-      "twitch": "https://www.twitch.tv/suzukinoriaki"
+      "twitch": "https://www.twitch.tv/suzukinoriaki",
+      "instagram": "https://www.instagram.com/noriakiandpink/"
     },
     "tags": [
       "ZETA DIVISION",

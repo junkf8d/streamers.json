@@ -59,6 +59,17 @@
     "page": "https://crazyraccoon.jp/member/mainy/"
   },
   {
+    "name": "Milkreo",
+    "links": {
+      "twitter": "https://x.com/milkreo_0110"
+    },
+    "tags": [
+      "Crazy Raccoon",
+      "BRAWL STARS"
+    ],
+    "page": "https://crazyraccoon.jp/member/milkreo/"
+  },
+  {
     "name": "Moya",
     "links": {
       "twitter": "https://twitter.com/moya_bs",
@@ -69,18 +80,6 @@
       "BRAWL STARS"
     ],
     "page": "https://crazyraccoon.jp/member/moya/"
-  },
-  {
-    "name": "Sitetampo Jr.",
-    "links": {
-      "twitter": "https://twitter.com/sitetampopopopo",
-      "youtube": "https://www.youtube.com/channel/UCA6ZY6hkcMdOWpkqxvYVV4g"
-    },
-    "tags": [
-      "Crazy Raccoon",
-      "BRAWL STARS"
-    ],
-    "page": "https://crazyraccoon.jp/member/sitetampo-jr/"
   },
   {
     "name": "Tensai",
@@ -327,31 +326,6 @@
     "page": "https://crazyraccoon.jp/member/ssees/"
   },
   {
-    "name": "Anthem",
-    "links": {
-      "twitter": "https://twitter.com/AnthemFps",
-      "youtube": "https://www.youtube.com/channel/UCUqc3k_06TyiYH9yvq99Jxg"
-    },
-    "tags": [
-      "Crazy Raccoon",
-      "PLAYER"
-    ],
-    "page": "https://crazyraccoon.jp/member/anthem/"
-  },
-  {
-    "name": "Medusa",
-    "links": {
-      "twitter": "https://twitter.com/FortheMedusa",
-      "twitch": "https://www.twitch.tv/medusaval",
-      "youtube": "https://www.youtube.com/@Medusa0125"
-    },
-    "tags": [
-      "Crazy Raccoon",
-      "PLAYER"
-    ],
-    "page": "https://crazyraccoon.jp/member/medusa/"
-  },
-  {
     "name": "neth",
     "links": {
       "twitter": "https://twitter.com/neth_vz",
@@ -362,18 +336,6 @@
       "PLAYER"
     ],
     "page": "https://crazyraccoon.jp/member/neth/"
-  },
-  {
-    "name": "popogachi",
-    "links": {
-      "twitter": "https://twitter.com/popoG_C",
-      "youtube": "https://www.youtube.com/c/popogachi"
-    },
-    "tags": [
-      "Crazy Raccoon",
-      "PLAYER"
-    ],
-    "page": "https://crazyraccoon.jp/member/popogachi/"
   },
   {
     "name": "Meiy",
@@ -411,27 +373,16 @@
     "page": "https://crazyraccoon.jp/member/northernlights/"
   },
   {
-    "name": "Twinkl",
+    "name": "Kaito",
     "links": {
-      "twitter": "https://twitter.com/BP_Twinkl"
-    },
-    "tags": [
-      "Crazy Raccoon",
-      "PLAYER"
-    ],
-    "page": "https://crazyraccoon.jp/member/twinkl/"
-  },
-  {
-    "name": "ProtoBanham",
-    "links": {
-      "twitter": "https://twitter.com/ProtoBanhamSSBU",
-      "youtube": "https://www.youtube.com/channel/UCf4mg3z4dpEcrN5neqVZyvw"
+      "twitter": "https://x.com/anjerokaito",
+      "youtube": "https://www.youtube.com/@kaitoschool"
     },
     "tags": [
       "Crazy Raccoon",
       "SUPER SMASH BROS"
     ],
-    "page": "https://crazyraccoon.jp/member/protobanham/"
+    "page": "https://crazyraccoon.jp/member/kaito/"
   },
   {
     "name": "Bonchan",
@@ -481,6 +432,18 @@
       "STREET FIGHTER"
     ],
     "page": "https://crazyraccoon.jp/member/dogura/"
+  },
+  {
+    "name": "Akami Karubi",
+    "links": {
+      "twitter": "https://x.com/AkamiKarubi",
+      "twitch": "https://www.twitch.tv/akamikarubi"
+    },
+    "tags": [
+      "Crazy Raccoon",
+      "STREAMER"
+    ],
+    "page": "https://crazyraccoon.jp/member/akami-karubi/"
   },
   {
     "name": "GocChaNMikey",

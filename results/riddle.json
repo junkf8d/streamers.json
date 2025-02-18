@@ -121,7 +121,7 @@
     },
     "tags": [
       "RIDDLE",
-      "APEX LEGENDS"
+      "STREAMER"
     ],
     "page": "https://riddle.info/members/yukio/"
   },
@@ -189,22 +189,9 @@
     "page": "https://riddle.info/members/joxjo/"
   },
   {
-    "name": "Aace",
-    "links": {
-      "twitch": "https://www.twitch.tv/aaceful",
-      "twitter": "https://x.com/Aaceful"
-    },
-    "tags": [
-      "RIDDLE",
-      "VALORANT"
-    ],
-    "page": "https://riddle.info/members/aace/"
-  },
-  {
     "name": "Yatsuka",
     "links": {
-      "twitch": "https://www.twitch.tv/yatsuka_07",
-      "twitter": "https://twitter.com/yatsuka_07"
+      "twitch": "https://www.twitch.tv/y_tk_07"
     },
     "tags": [
       "RIDDLE",
@@ -226,6 +213,18 @@
     "page": "https://riddle.info/members/seoldam/"
   },
   {
+    "name": "Minty",
+    "links": {
+      "twitch": "https://www.twitch.tv/mintyjp",
+      "twitter": "https://x.com/MintyVL"
+    },
+    "tags": [
+      "RIDDLE",
+      "VALORANT"
+    ],
+    "page": "https://riddle.info/members/minty/"
+  },
+  {
     "name": "Vorz",
     "links": {
       "youtube": "https://www.youtube.com/@Vorzz",
@@ -237,6 +236,17 @@
       "VALORANT"
     ],
     "page": "https://riddle.info/members/vorz/"
+  },
+  {
+    "name": "Virullent",
+    "links": {
+      "twitter": "https://twitter.com/Virullent_"
+    },
+    "tags": [
+      "RIDDLE",
+      "VALORANT"
+    ],
+    "page": "https://riddle.info/members/virullent/"
   },
   {
     "name": "Sitimentyo",
@@ -251,17 +261,6 @@
     "page": "https://riddle.info/members/sitimentyo/"
   },
   {
-    "name": "Virullent",
-    "links": {
-      "twitter": "https://twitter.com/Virullent_"
-    },
-    "tags": [
-      "RIDDLE",
-      "VALORANT"
-    ],
-    "page": "https://riddle.info/members/virullent/"
-  },
-  {
     "name": "GENJ1_Gaming",
     "links": {
       "youtube": "https://www.youtube.com/@genj1gaming-353/videos",
@@ -273,17 +272,6 @@
       "PARAVOX"
     ],
     "page": "https://riddle.info/members/genj1_gaming/"
-  },
-  {
-    "name": "Yureu",
-    "links": {
-      "twitter": "https://x.com/yureuu"
-    },
-    "tags": [
-      "RIDDLE",
-      "PARAVOX"
-    ],
-    "page": "https://riddle.info/members/yureu/"
   },
   {
     "name": "Crl",
@@ -404,5 +392,49 @@
       "FORTNITE"
     ],
     "page": "https://riddle.info/members/rise/"
+  },
+  {
+    "name": "ぱるぶす",
+    "links": {
+      "twitter": "https://x.com/pulvess"
+    },
+    "tags": [
+      "RIDDLE",
+      "APEX LEGENDS"
+    ],
+    "page": "https://riddle.info/members/%e3%81%b1%e3%82%8b%e3%81%b6%e3%81%99/"
+  },
+  {
+    "name": "あでりい",
+    "links": {
+      "twitter": "https://x.com/adelie54"
+    },
+    "tags": [
+      "RIDDLE",
+      "STREET FIGHTER"
+    ],
+    "page": "https://riddle.info/members/%e3%81%82%e3%81%a7%e3%82%8a%e3%81%84/"
+  },
+  {
+    "name": "Smaak",
+    "links": {
+      "twitter": "https://x.com/smaak_gg"
+    },
+    "tags": [
+      "RIDDLE",
+      "PARAVOX"
+    ],
+    "page": "https://riddle.info/members/smaak/"
+  },
+  {
+    "name": "Ruto",
+    "links": {
+      "twitter": "https://x.com/rutonokimoti"
+    },
+    "tags": [
+      "RIDDLE",
+      "PARAVOX"
+    ],
+    "page": "https://riddle.info/members/ruto/"
   }
 ]
